@@ -118,6 +118,28 @@ li {
   margin: 0.3rem 0 0.3rem 0;
 }
 
+// Publications list
+
+#pwpubs {
+  border-collapse: collapse;
+  font-size: 70%;
+
+  tr {
+    vertical-align: top;
+  }
+
+  td {
+    padding-bottom: 10px;
+  }
+}
+
+#pwpubs_date { width: 12ex; }
+#pwpubs_ref { width: 2ex; }
+#pwpubs td.tauth { padding-right: 2ex; }
+#pwpubs_ads, #pwpubs_arxiv, #pwpubs_doi, #pwpubs_direct { width: 10ex; }
+.pwpubs_ftitle { font-weight: bold; }
+.pwpubs_auth { font-style: italic; }
+
 // CV
 
 .pwcv {
