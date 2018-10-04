@@ -56,6 +56,12 @@ footer {
   width: 100%;
   clear: both;
   font-size: 60%;
+  margin: 0;
+  padding: 0.3rem 0 0.3rem 0;
+
+  p {
+    margin: 0;
+  }
 }
 
 div.maxwidth {
@@ -106,4 +112,8 @@ div.content {
 
 img {
   max-width: 100%;
+}
+
+li {
+  margin: 0.3rem 0 0.3rem 0;
 }
