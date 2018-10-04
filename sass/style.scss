@@ -16,12 +16,7 @@ header {
   width: 100%;
   height: 3rem;
   z-index: -100;
-}
-
-header div.background {
   background-image: url("1600x64-birth2_death_milkyway_hi.png");
-  width: 100%;
-  height: 3rem;
 }
 
 #banner {
@@ -33,6 +28,17 @@ header div.background {
   padding: 0.5rem 0 0 0;
   font-family: Bitter;
   color: #FFF;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
+  a {
+    // The banner link to the main page gets special styling.
+    color: #FFF;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 
 div.maxwidth {
