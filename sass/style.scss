@@ -3,6 +3,12 @@ html {
   // 1.375em becomes 22px.
   font-size: 1.375em;
   font-family: "Noto Serif";
+
+  // The viewport width changes slightly if there's a scrollbar or now,
+  // causing the layout to shift when navigating between long and short
+  // pages. There are a few ways to try to deal with this, but here I
+  // just force there to always be a scrollbar.
+  overflow-y: scroll;
 }
 
 header {
@@ -22,10 +28,14 @@ header {
 #banner {
   // Banner text "Peter K. G. Williams" overlaying the header image. It's
   // inside the `maxwidth` div to stay roughly centered when the viewport is
-  // wide. It's an <h1> which has a font-size of 2em so the 0.5rem padding
-  // keeps it about vertically centered in the <header> image.
+  // wide. It's a <p> tag (Markdown produces <h1>-<h6> tags so I want to save
+  // keeps it about vertically centered in the <header> imagetheir
+  // styling to be nice and generic).
   margin: 0;
+  height: 3rem;
   padding: 0.5rem 0 0 0;
+  font-size: 2rem;
+  font-weight: 700;
   font-family: Bitter;
   color: #FFF;
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
@@ -58,4 +68,28 @@ div.sidebar {
 
 div.content {
   max-width: 32rem;
+  margin-top: 1rem;
+}
+
+.post {
+  .post-title {
+    font-size: 150%;
+    font-weight: 700;
+    margin: 0 0 0.2rem 0;
+
+    a {
+      text-decoration: none;
+      color: #000;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .post-date {
+    font-size: 80%;
+    margin: 0 0 1rem 0;
+    padding-left: 0.5rem;
+  }
 }
