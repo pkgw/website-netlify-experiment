@@ -56,7 +56,7 @@ footer {
   width: 100%;
   clear: both;
   font-size: 60%;
-  margin: 0;
+  margin: 1rem 0 0 0;
   padding: 0.3rem 0 0.3rem 0;
 
   p {
@@ -116,4 +116,49 @@ img {
 
 li {
   margin: 0.3rem 0 0.3rem 0;
+}
+
+// CV
+
+.pwcv {
+  border-collapse: collapse;
+  line-height: 1;
+
+  tr {
+    vertical-align: top;
+  }
+
+  td {
+    padding-bottom: 10px;
+    color: rgb(68, 68, 68);
+  }
+}
+
+.pwcv_spec {
+  width: 17ex;
+}
+
+.pwcv_inst {
+  font-style: italic;
+}
+
+.pwcv_title {
+  font-style: italic;
+}
+
+.pwcv_swname {
+  font-family: sans;
+}
+
+p.pwcv_ref {
+  text-indent: -3ex;
+  margin-left: 3ex;
+}
+
+a.pwcv_pub {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }

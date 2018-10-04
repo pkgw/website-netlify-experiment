@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{%- block title -%}
+{{ config.title }}: {{ section.title }}
+{%- endblock title -%}
+
+{% block content %}
+
+<h2 class="post-title">{{ section.title }}</h1>
+{{ section.content | safe }}
+
+<!-- If I try to implement this include with a shortcode, whitespace across
+     newlines gets eaten somewhere along the way. -->
+
+{% include "cvfrag.html" %}
+
+{% endblock content %}
