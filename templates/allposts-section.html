@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% set top = get_section(path="_index.md") %}
+{% for sect in top.subsections | reverse | filter(attribute="extra.is_blog_section", value=true) %}
+
+<h2>{{ sect.title }}</h2>
+
+<ul>
+{% for page in sect.pages %}
+  <li><a href="{{ page.permalink }}">{{ page.title }}</a></li>
+{% endfor %}
+</ul>
+
+{% endfor %}
+{% endblock content %}
