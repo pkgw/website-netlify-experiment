@@ -1,0 +1,55 @@
+html {
+  // Default font sizes are too small, I think. At a standard 1em = 16px,
+  // 1.375em becomes 22px.
+  font-size: 1.375em;
+  font-family: "Noto Serif";
+}
+
+header {
+  // Header image of galaxy map, flush to edges of viewport. Scrolls off, 3em
+  // high. `position: absolute` so that the `maxwidth` div can overlap it
+  // visually, which is necessary to keep the banner text roughly centered
+  // when the viewport is wide.
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 3rem;
+  z-index: -100;
+}
+
+header div.background {
+  background-image: url("1600x64-birth2_death_milkyway_hi.png");
+  width: 100%;
+  height: 3rem;
+}
+
+#banner {
+  // Banner text "Peter K. G. Williams" overlaying the header image. It's
+  // inside the `maxwidth` div to stay roughly centered when the viewport is
+  // wide. It's an <h1> which has a font-size of 2em so the 0.5rem padding
+  // keeps it about vertically centered in the <header> image.
+  margin: 0;
+  padding: 0.5rem 0 0 0;
+  font-family: Bitter;
+  color: #FFF;
+}
+
+div.maxwidth {
+  // To be refined!
+  max-width: 50rem;
+  padding: 0 1.5rem 0 1.5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.sidebar {
+  float: right;
+  width: 12rem;
+  margin-top: 1rem;
+  background-color: rgba(0.7, 0.9, 0.9, 0.1);
+}
+
+div.content {
+  max-width: 32rem;
+}

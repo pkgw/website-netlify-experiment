@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <link rel="stylesheet" href="{{ get_url(path="sanitize.css", trailing_slash=false) }}">
+    <link rel="stylesheet" href="{{ get_url(path="style.css", trailing_slash=false) }}">
+    <link href="https://fonts.googleapis.com/css?family=Bitter|Noto+Serif" rel="stylesheet">
+    {% block extra_head %}
+    {% endblock extra_head %}
+  </head>
+
+  <body>
+    <header>
+      <div class="background"></div>
+    </header>
+
+    <div class="maxwidth">
+      <h1 id="banner">Peter K. G. Williams</h1>
+
+      <div class="sidebar">
+        <ul>
+          <li>Yay sidebar</li>
+          <li>Mo</li>
+          <li>Mo</li>
+          <li>Mo money</li>
+          <li>Mo problems</li>
+        </ul>
+      </div>
+
+      <div class="content">
+        {% block content %}
+        {% endblock content %}
+      </div>
+    </div>
+
+  </body>
+</html>
