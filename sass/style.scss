@@ -1,6 +1,11 @@
 $light-color: rgb(247, 245, 231);
 $dark-color: #290066;
 
+// This is the width at which the sidebar stars impinging on the main content
+// area ... although it seems to be measured in "original" em-widths, not the
+// 1.375× em we define in the styling for the <html> tag.
+$break-small: 66em;
+
 @mixin border-radius($radius) {
   -webkit-border-radius: $radius;
      -moz-border-radius: $radius;
@@ -83,6 +88,12 @@ div.maxwidth {
 div.sidebar {
   float: right;
   width: 12rem;
+
+  @media screen and (max-width: $break-small) {
+    float: none;
+    width: 100%;
+  }
+
   margin: 1rem 0 1rem 0;
   font-size: 85%;
 
@@ -93,14 +104,8 @@ div.sidebar {
     margin-bottom: 1rem;
   }
 
-  p, ul {
+  p {
     margin: 0;
-  }
-
-  ul {
-    padding-left: 1.5rem;
-    list-style-type: '»  ';
-    list-style-position: outside;
   }
 }
 
