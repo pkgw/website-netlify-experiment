@@ -1,6 +1,6 @@
 +++
 title = "Curricuum Vitæ"
-template = "cv-section.html"
+template = "cv-page.html"
 +++
 
 This document is also available as a more

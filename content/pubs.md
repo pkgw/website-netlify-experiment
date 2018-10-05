@@ -1,4 +1,4 @@
 +++
 title = "Publications"
-template = "pubs-section.html"
+template = "pubs-page.html"
 +++

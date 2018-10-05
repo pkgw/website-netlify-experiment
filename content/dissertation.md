@@ -1,6 +1,6 @@
 +++
+date = 2015-02-16
 title = "Dissertation"
-template = "nopage-section.html"
 +++
 
 I was granted a PhD by [UC Berkeley](http://berkeley.edu/) in the Fall 2012
