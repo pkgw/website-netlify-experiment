@@ -23,7 +23,5 @@ _Update (2016 Apr 13)_: I’ve updated the plot with the final observations of
 our program.
 
 {% figure(src="https://newton.cx/~peter/wp/wp-content/uploads/2016/03/lcs_constant_linear-1.png") %}
-Radio light curve of the candidate host galaxy for FRB 150418. The initial
-observations were interpreted as a radio transient, but our follow-up data
-show that the galaxy itself is variable.
+Radio light curve of the candidate host galaxy for FRB 150418. The initial observations were interpreted as a radio transient, but our follow-up data show that the galaxy itself is variable.
 {% end %}
