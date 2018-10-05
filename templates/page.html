@@ -5,12 +5,7 @@
 {%- endblock title -%}
 
 {% block content %}
-<div class="post">
-  {# We avoid <hN> tags for this since Markdown should be able to #}
-  {# use the full range comfortably, staring with `h1`. #}
-  <p class="post-title"><a href="{{ page.permalink }}">{{ page.title }}</a></p>
-  <p class="post-date">{{ page.date | date(format="%Y %B %e") }}</p>
-
-  {{ page.content | safe }}
-</div>
+<p class="post-title"><a href="{{ page.permalink }}">{{ page.title }}</a></p>
+<p class="post-date">{{ page.date | date(format="%Y %B %e") }}</p>
+{{ page.content | safe }}
 {% endblock content %}

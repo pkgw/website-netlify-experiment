@@ -5,13 +5,6 @@
 {%- endblock title -%}
 
 {% block content %}
-<p>SECTION THEME.</p>
-
-<div class="post">
-  <h1 class="post-title">{{ section.title }}</h1>
-  {{ section.content | safe }}
-</div>
-
-<p>STILL SECTION THEME.</p>
+<p class="post-title">{{ section.title }}</p>
+{{ section.content | safe }}
 {% endblock content %}
-

@@ -13,11 +13,9 @@
 {% set blog_sections = section.subsections | reverse | filter(attribute="extra.is_blog_section", value=true) %}
 {% set recent_post = blog_sections[0].pages[0] %}
 
-<div class="post">
-  <p class="post-title"><a href="{{ recent_post.permalink }}">{{ recent_post.title }}</a></p>
-  <p class="post-date">{{ recent_post.date | date(format="%Y %B %e") }}</p>
+<p class="post-title"><a href="{{ recent_post.permalink }}">{{ recent_post.title }}</a></p>
+<p class="post-date">{{ recent_post.date | date(format="%Y %B %e") }}</p>
 
-  {{ recent_post.content | safe }}
+{{ recent_post.content | safe }}
 
-</div>
 {% endblock content %}
