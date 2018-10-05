@@ -67,7 +67,9 @@ And what did we find? The image below shows how the
 radio brightness varies over the course of several hours, with the radio
 emission being broken down in several different ways.
 
-![VLA radio light curve of WISE 1122+25](https://newton.cx/~peter/wp/wp-content/uploads/2017/07/xenia-vla-1024x854.png)
+{% figure(src="https://newton.cx/~peter/wp/wp-content/uploads/2017/07/xenia-vla-1024x854.png") %}
+VLA radio light curve of WISE 1122+25.
+{% end %}
 
 I won’t describe the data in detail, but the first big takeaway is that we do
 _not_ see evidence for periodic signals every 18 minutes or so. A more formal

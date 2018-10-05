@@ -215,20 +215,33 @@ a.pwcv_pub {
   }
 }
 
-// "float-image" shortcode/CSS used for headshot on the About Me page
-
-.float-image {
-  float: right;
-  max-width: 60%;
-}
+// General figures
 
 figure {
-  margin: 1rem;
+  margin: 1.5rem 0 1.5rem 0;
+  max-width: 100%;
+
+  img {
+    display: block; // needed to get `margin: auto` to work
+    max-width: 100%;
+    margin: 0 auto 0 auto;
+  }
 }
+
+
 
 figcaption {
   font-size: 70%;
   font-style: italic;
+  margin-top: 0.2rem;
+}
+
+// "float-image" shortcode/CSS used for headshot on the About Me page
+
+figure.float-image {
+  float: right;
+  max-width: 60%;
+  margin: 1rem;
 }
 
 // Top navigation bar
