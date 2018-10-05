@@ -34,6 +34,9 @@ p {
   // This line-height is very generous, but the W3C apparently recommends a
   // value at least this large for body text for accessibility reasons.
   line-height: 1.5;
+
+  // Note use of "em" units here.
+  margin: 0.3em 0 1em 0;
 }
 
 img {
@@ -60,6 +63,13 @@ hr {
 
 a {
   color: $dark-color;
+}
+
+h1 {
+  // Keep this smaller than `.post-title`
+  font-size: 125%;
+
+  margin: 1em 0 0.3em 0;
 }
 
 // Additional generic rules, for figures. Using `table` and `table-caption`

@@ -8,10 +8,10 @@ wp_shortlink = "/?p=261"
 +++
 
 Far too few people in the community seem to be ready to act upon what this
-figure is telling us:  [![Moore's Law phase
-space](http://www.newton.cx/~peter/wp/wp-
-content/uploads/2010/07/arxiv1007.1660v1-fig1.png
-"arxiv:1007.1660v1-fig1")](http://www.newton.cx/~peter/wp/wp-
-content/uploads/2010/07/arxiv1007.1660v1-fig1.png)  From Barsdell et al. 2010,
-arxiv:1007.1660v1.  Taken from [Barsdell et. al on
-arxiv](http://arxiv.org/abs/1007.1660v1).
+figure is telling us:
+
+{% figure(src="https://newton.cx/~peter/wp/wp-content/uploads/2010/07/arxiv1007.1660v1-fig1.png") %}
+From Barsdell et al. 2010, arxiv:1007.1660v1.
+{% end %}
+
+Taken from [Barsdell et. al on arxiv](http://arxiv.org/abs/1007.1660v1).
