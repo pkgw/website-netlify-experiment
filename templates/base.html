@@ -20,8 +20,8 @@
       </div>
     </header>
 
-    <div class="maxwidth">
-      <nav id="topnav">
+    <nav id="topnav">
+      <div class="maxwidth">
         <ul>
           <li><a href="{{ get_url(path="about-me/") }}">About Me / Contact</a></li>
           <li><a href="{{ get_url(path="pubs/") }}">Publications</a></li>
@@ -29,19 +29,10 @@
           <li><a href="{{ get_url(path="dissertation/") }}">Dissertation</a></li>
           <li><a href="{{ get_url(path="all-posts/") }}">All Posts</a></li>
         </ul>
-      </nav>
-    </div>
+      </div>
+    </nav>
 
     <div class="maxwidth">
-      <div class="sidebar">
-        <div>I’m an astronomer at Harvard studying, mainly, extrasolar
-          magnetospheres. You can find out more on my
-          <a href="{{get_url(path="about-me/")}}">About Me</a> page, and you
-          can contact me <a href="https://twitter.com/pkgw">on Twitter as
-          @pkgw</a> or
-          at <a href="mailto:peter@newton.cx">peter@newton.cx</a>.</div>
-      </div>
-
       <div class="content">
         {% block content %}
         {% endblock content %}

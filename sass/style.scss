@@ -1,11 +1,6 @@
 $light-color: rgb(247, 245, 231);
 $dark-color: #290066;
 
-// This is the width at which the sidebar stars impinging on the main content
-// area ... although it seems to be measured in "original" em-widths, not the
-// 1.375× em we define in the styling for the <html> tag.
-$break-small: 66em;
-
 @mixin border-radius($radius) {
   -webkit-border-radius: $radius;
      -moz-border-radius: $radius;
@@ -27,10 +22,8 @@ html {
 }
 
 header {
-  // Header image of galaxy map, flush to edges of viewport. Scrolls off, 3em
-  // high. `position: absolute` so that the `maxwidth` div can overlap it
-  // visually, which is necessary to keep the banner text roughly centered
-  // when the viewport is wide.
+  // Header image of galaxy map, flush to edges of viewport. At least 3 rem
+  // high, but maybe higher if the banner text wraps to multiple lines.
   width: 100%;
   min-height: 3rem;
   z-index: -100;
@@ -78,39 +71,14 @@ footer {
 }
 
 div.maxwidth {
-  // To be refined!
-  max-width: 50rem;
+  max-width: 32rem;
   padding: 0 1.5rem 0 1.5rem;
   margin-left: auto;
   margin-right: auto;
 }
 
-div.sidebar {
-  float: right;
-  width: 12rem;
-
-  @media screen and (max-width: $break-small) {
-    float: none;
-    width: 100%;
-  }
-
-  margin: 1rem 0 1rem 0;
-  font-size: 85%;
-
-  div {
-    background-color: rgb(247, 245, 231);
-    @include border-radius(0.4rem);
-    padding: 0.5rem;
-    margin-bottom: 1rem;
-  }
-
-  p {
-    margin: 0;
-  }
-}
-
 div.content {
-  max-width: 32rem;
+  width: 100%;
   margin-top: 1rem;
 }
 
@@ -137,6 +105,11 @@ div.content {
   }
 }
 
+// The "lede" section on the index page
+
+.lede {
+  font-size: 120%;
+}
 
 // Styling for generic Markdown
 
@@ -156,6 +129,10 @@ pre {
 blockquote {
   font-size: 85%;
   font-family: "Noto Sans";
+}
+
+hr {
+  margin: 1rem 2rem;
 }
 
 // Publications list
