@@ -11,10 +11,11 @@ It’s been a little while since I’ve made any cool pictures. But lately, I’
 been focusing on getting a rough-draft version of a large-scale map of the
 Galactic Center from my ATA transient survey data. Here’s what I’ve got so far
 — click on the image for the full-scale version:
-[![](http://newton.cx/%7Epeter/wp-
-content/uploads/2011/11/atagc20111116-300x85.png "ATA Galactic Center map —
-click for large version")](http://newton.cx/%7Epeter/wp-
-content/uploads/2011/11/atagc20111116.png)There are some holes because it
-turns out that some of our fields were only observed during the first season
-of observing, when we took data at a longer wavelength that turned out to be
-very difficult to work with.
+
+{% figure(src="http://newton.cx/~peter/wp/wp-content/uploads/2011/11/atagc20111116-300x85.png") %}
+ATA Galactic Center map — [click here for large version](http://newton.cx/~peter/wp/wp-content/uploads/2011/11/atagc20111116.png).
+{% end %}
+
+There are some holes because it turns out that some of our fields were only
+observed during the first season of observing, when we took data at a longer
+wavelength that turned out to be very difficult to work with.

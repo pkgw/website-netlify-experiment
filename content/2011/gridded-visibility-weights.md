@@ -8,9 +8,13 @@ wp_shortlink = "/?p=453"
 +++
 
 No actual science content here — I just thought this looked cool:
-[![](https://newton.cx/~peter/wp/wp-content/uploads/2011/08/weights.png "Gridded Visibility
-Weights")](/wp/wp-content/uploads/2011/08/weights.png)  This maps out how much
-information one of the ATA antennas contributed to the sampling of the sky
-during one of my observations. Each track comes from its pairing with another
-antenna and moves elliptically as the Earth rotates. The space that’s being
-mapped is the “visibility” plane, the 2D Fourier transform of the sky.
+
+{% figure(src="https://newton.cx/~peter/wp/wp-content/uploads/2011/08/weights.png") %}
+Gridded visibility weights.
+{% end %}
+
+This maps out how much information one of the ATA antennas contributed to the
+sampling of the sky during one of my observations. Each track comes from its
+pairing with another antenna and moves elliptically as the Earth rotates. The
+space that’s being mapped is the “visibility” plane, the 2D Fourier transform
+of the sky.
