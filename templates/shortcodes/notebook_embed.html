@@ -1,0 +1,12 @@
+<div>
+  <!-- See https://stackoverflow.com/questions/9162933/make-iframe-height-dynamic-based-on-content-inside-jquery-javascript -->
+
+  <iframe src="{{src}}" width="100%" frameborder=0 onload="resize_iframe(this)">
+  </iframe>
+
+  <script type="text/javascript">
+    function resize_iframe(iframe) {
+        iframe.height = iframe.contentWindow.document.body.scrollHeight + "px";
+    }
+  </script>
+</div>

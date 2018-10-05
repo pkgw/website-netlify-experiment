@@ -1,6 +1,6 @@
 <div>
   <figure>
     <img src="{{ src }}" alt="{{ body }}">
-    <figcaption>{{ body }}</figcaption>
+    <figcaption>{{ body | markdown(inline=true) }}</figcaption>
   </figure>
 </div>
