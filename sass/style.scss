@@ -206,3 +206,19 @@ a.pwcv_pub {
     text-decoration: underline;
   }
 }
+
+// "float-image" shortcode/CSS used for headshot on the About Me page
+
+.float-image {
+  float: right;
+  max-width: 60%;
+}
+
+figure {
+  margin: 1rem;
+}
+
+figcaption {
+  font-size: 70%;
+  font-style: italic;
+}

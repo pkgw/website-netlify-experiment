@@ -3,7 +3,9 @@ title = "About Me / Contact"
 template = "nopage-section.html"
 +++
 
-[![Portugal, 2012.](http://newton.cx/~peter/wp/wp-content/uploads/2013/04/headshot.jpg)](http://newton.cx/~peter/wp/wp-content/uploads/2013/04/headshot.jpg)
+{% float_image(src="http://newton.cx/~peter/wp/wp-content/uploads/2013/04/headshot.jpg") %}
+Portugal, 2012
+{% end %}
 
 I’m an astronomer at the
 [Harvard-Smithsonian Center for Astrophysics](https://www.cfa.harvard.edu/).
