@@ -7,4 +7,6 @@ wp_rel_permalink = "/2009/11/status-update-2/"
 wp_shortlink = "/?p=172"
 +++
 
-Emotions that RFI currently inspires in Peter:  *   sadness
+Emotions that RFI currently inspires in Peter:
+
+- sadness

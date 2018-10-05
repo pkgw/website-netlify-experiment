@@ -31,10 +31,6 @@ html {
 // variety of contexts.
 
 p {
-  // This line-height is very generous, but the W3C apparently recommends a
-  // value at least this large for body text for accessibility reasons.
-  line-height: 1.5;
-
   // Note use of "em" units here.
   margin: 0.3em 0 1em 0;
 }
@@ -194,6 +190,10 @@ footer {
 div.content {
   width: 100%;
   margin-top: 1rem;
+
+  // This line-height is very generous, but the W3C apparently recommends a
+  // value at least this large for body text for accessibility reasons.
+  line-height: 1.5;
 }
 
 // Styling "posts", which perhaps should be called "pages" in the Gutenberg
