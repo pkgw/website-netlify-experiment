@@ -23,13 +23,11 @@ header {
   // high. `position: absolute` so that the `maxwidth` div can overlap it
   // visually, which is necessary to keep the banner text roughly centered
   // when the viewport is wide.
-  position: absolute;
-  top: 0;
-  left: 0;
   width: 100%;
-  height: 3rem;
+  min-height: 3rem;
   z-index: -100;
   background-image: url("1600x64-birth2_death_milkyway_hi.png");
+  background-size: cover;
 }
 
 #banner {
@@ -39,7 +37,7 @@ header {
   // keeps it about vertically centered in the <header> imagetheir
   // styling to be nice and generic).
   margin: 0;
-  height: 3rem;
+  min-height: 3rem;
   padding: 0.5rem 0 0 0;
   font-size: 2rem;
   font-weight: 700;
@@ -83,6 +81,7 @@ div.sidebar {
   float: right;
   width: 12rem;
   margin: 1rem 0 1rem 0;
+  font-size: 85%;
 
   div {
     background-color: rgb(247, 245, 231);
