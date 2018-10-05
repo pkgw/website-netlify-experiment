@@ -1,3 +1,6 @@
+$light-color: rgb(247, 245, 231);
+$dark-color: #290066;
+
 @mixin border-radius($radius) {
   -webkit-border-radius: $radius;
      -moz-border-radius: $radius;
@@ -57,7 +60,7 @@ header {
 }
 
 footer {
-  background-color: rgb(247, 245, 231);
+  background-color: $light-color;
   width: 100%;
   clear: both;
   font-size: 60%;
@@ -221,4 +224,33 @@ figure {
 figcaption {
   font-size: 70%;
   font-style: italic;
+}
+
+// Top navigation bar
+
+#topnav {
+  font-family: "Noto Sans";
+  font-size: 80%;
+
+  ul {
+    padding: 0;
+    margin: 0.2rem 0 0.2rem 0;
+  }
+
+  li {
+    display: inline-block;
+  }
+
+  a {
+    padding: 0 0.3rem 0 0.3rem;
+    text-decoration: none;
+    color: #FFF;
+    background-color: $dark-color;
+    border: 2px solid $dark-color;
+
+    &:hover {
+      background-color: #FFF;
+      color: $dark-color;
+    }
+  }
 }
