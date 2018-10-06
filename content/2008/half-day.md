@@ -11,4 +11,4 @@ Today is a UC holiday, and it’s spring break, so pretty quiet around here. I
 finished up a planning email and downloaded one of the first full-ATA data
 sets, created with the new FX64 correlator firmware. If I have some time I
 might take a poke at the data and see just how good of a point source image I
-can get ….
+can get …
