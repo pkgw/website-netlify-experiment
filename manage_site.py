@@ -94,3 +94,22 @@ def insert_wp_paths():
         fm_text = '\n'.join(fm_lines)
 
         rewrite_markdown(path, fm_text, content)
+
+
+def generate_wp_redirect_data():
+    """A one-time operation: create a dictionary mapping between old WordPress
+    post ID's and permalinks, so we can emulate the old WP redirections.
+
+    """
+    import json, pytoml
+
+    mapping = {}
+
+    for path in all_blog_posts():
+        fm_text, content = read_markdown(path)
+        fm = pytoml.loads(fm_text)
+
+        wpid = fm['extra']['wp_shortlink'].split('=')[1]
+        mapping[wpid] = fm['path']
+
+    print(json.dumps(mapping))

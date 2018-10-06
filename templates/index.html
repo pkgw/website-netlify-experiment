@@ -2,6 +2,8 @@
 
 {% block extra_head %}
 <link rel="alternate" type="application/rss+xml" title="PKGW: Feed" href="{{ get_url(path="feed") | safe }}" />
+
+<script type="text/javascript" src="{{ get_url(path="emulate_wp_redirect.js", trailing_slash=false) | safe }}" defer></script>
 {% endblock extra_head %}
 
 {% block content %}
