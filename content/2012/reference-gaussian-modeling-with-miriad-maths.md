@@ -1,6 +1,7 @@
 +++
 date = 2012-04-17T14:08:37Z
 title = "Reference: Gaussian Modeling with MIRIAD maths"
+path = "2012/04/reference-gaussian-modeling-with-miriad-maths"
 
 [extra]
 wp_rel_permalink = "/2012/04/reference-gaussian-modeling-with-miriad-maths/"

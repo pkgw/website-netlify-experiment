@@ -1,6 +1,7 @@
 +++
 date = 2007-10-15T21:13:44Z
 title = "ATA Dedication"
+path = "2007/10/ata-dedication"
 
 [extra]
 wp_rel_permalink = "/2007/10/ata-dedication/"

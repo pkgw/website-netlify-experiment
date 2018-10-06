@@ -1,6 +1,7 @@
 +++
 date = 2010-07-27T20:16:35Z
 title = "Don Backer, 1943 – 2010"
+path = "2010/07/don-backer-1943-2010"
 
 [extra]
 wp_rel_permalink = "/2010/07/don-backer-1943-2010/"

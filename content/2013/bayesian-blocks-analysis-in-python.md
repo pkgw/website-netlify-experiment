@@ -1,6 +1,7 @@
 +++
 date = 2013-05-06T19:21:47Z
 title = "Bayesian Blocks Analysis in Python"
+path = "2013/05/bayesian-blocks-analysis-in-python"
 
 [extra]
 wp_rel_permalink = "/2013/05/bayesian-blocks-analysis-in-python/"

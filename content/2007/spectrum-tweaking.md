@@ -1,6 +1,7 @@
 +++
 date = 2007-11-13T22:06:26Z
 title = "Spectrum Tweaking"
+path = "2007/11/spectrum-tweaking"
 
 [extra]
 wp_rel_permalink = "/2007/11/spectrum-tweaking/"

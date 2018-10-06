@@ -1,6 +1,7 @@
 +++
 date = 2010-08-02T22:06:19Z
 title = "Qual Reference: Transient Rate Measurements"
+path = "2010/08/qual-reference-transient-rate-measurements"
 
 [extra]
 wp_rel_permalink = "/2010/08/qual-reference-transient-rate-measurements/"

@@ -1,6 +1,7 @@
 +++
 date = 2010-07-19T16:38:16Z
 title = "Qual: Feasibility Legwork"
+path = "2010/07/qual-feasibility-legwork"
 
 [extra]
 wp_rel_permalink = "/2010/07/qual-feasibility-legwork/"

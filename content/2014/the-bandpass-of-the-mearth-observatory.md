@@ -1,6 +1,7 @@
 +++
 date = 2014-08-05T09:15:06Z
 title = "The Bandpass of the MEarth Observatory"
+path = "2014/08/the-bandpass-of-the-mearth-observatory"
 
 [extra]
 wp_rel_permalink = "/2014/08/the-bandpass-of-the-mearth-observatory/"

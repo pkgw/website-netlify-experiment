@@ -1,6 +1,7 @@
 +++
 date = 2011-01-25T03:22:08Z
 title = "How to Run a Research Group"
+path = "2011/01/how-to-run-a-research-group"
 
 [extra]
 wp_rel_permalink = "/2011/01/how-to-run-a-research-group/"

@@ -1,6 +1,7 @@
 +++
 date = 2013-07-27T13:17:35Z
 title = "Fixing erroneous “Insufficient storage available” errors on Android"
+path = "2013/07/fixing-erroneous-insufficient-storage-available-errors-on-android"
 
 [extra]
 wp_rel_permalink = "/2013/07/fixing-erroneous-insufficient-storage-available-errors-on-android/"

@@ -1,6 +1,7 @@
 +++
 date = 2009-03-08T10:22:35Z
 title = "Who’s The Scientist?"
+path = "2009/03/whos-the-scientist"
 
 [extra]
 wp_rel_permalink = "/2009/03/whos-the-scientist/"

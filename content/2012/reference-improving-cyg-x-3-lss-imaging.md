@@ -1,6 +1,7 @@
 +++
 date = 2012-05-16T18:34:37Z
 title = "Reference: Improving focus=1903 Cyg X-3 LSS imaging"
+path = "2012/05/reference-improving-cyg-x-3-lss-imaging"
 
 [extra]
 wp_rel_permalink = "/2012/05/reference-improving-cyg-x-3-lss-imaging/"

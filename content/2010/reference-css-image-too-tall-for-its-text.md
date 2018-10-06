@@ -1,6 +1,7 @@
 +++
 date = 2010-12-19T23:19:31Z
 title = "Reference: CSS image too tall for its text"
+path = "2010/12/reference-css-image-too-tall-for-its-text"
 
 [extra]
 wp_rel_permalink = "/2010/12/reference-css-image-too-tall-for-its-text/"

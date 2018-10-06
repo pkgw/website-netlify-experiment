@@ -1,6 +1,7 @@
 +++
 date = 2013-10-29T15:33:39Z
 title = "Trends in ultracool dwarf magnetism: Papers I and II"
+path = "2013/10/trends-in-ultracool-dwarf-magnetism-papers-i-and-ii"
 
 [extra]
 wp_rel_permalink = "/2013/10/trends-in-ultracool-dwarf-magnetism-papers-i-and-ii/"

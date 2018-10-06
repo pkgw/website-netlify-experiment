@@ -1,6 +1,7 @@
 +++
 date = 2011-02-23T01:13:43Z
 title = "Peer Production and Science"
+path = "2011/02/peer-production-and-science"
 
 [extra]
 wp_rel_permalink = "/2011/02/peer-production-and-science/"

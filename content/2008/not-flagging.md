@@ -1,6 +1,7 @@
 +++
 date = 2008-05-08T22:48:27Z
 title = "Not flagging!"
+path = "2008/05/not-flagging"
 
 [extra]
 wp_rel_permalink = "/2008/05/not-flagging/"

@@ -1,6 +1,7 @@
 +++
 date = 2016-02-26T13:16:01Z
 title = "On the origin of FRB 150418"
+path = "2016/02/on-the-origin-of-frb-150418"
 
 [extra]
 wp_rel_permalink = "/2016/02/on-the-origin-of-frb-150418/"

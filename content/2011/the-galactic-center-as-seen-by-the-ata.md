@@ -1,6 +1,7 @@
 +++
 date = 2011-11-16T19:28:40Z
 title = "The Galactic Center, as seen by the ATA"
+path = "2011/11/the-galactic-center-as-seen-by-the-ata"
 
 [extra]
 wp_rel_permalink = "/2011/11/the-galactic-center-as-seen-by-the-ata/"

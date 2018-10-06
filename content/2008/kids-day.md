@@ -1,6 +1,7 @@
 +++
 date = 2008-03-27T18:45:46Z
 title = "Kids’ Day"
+path = "2008/03/kids-day"
 
 [extra]
 wp_rel_permalink = "/2008/03/kids-day/"

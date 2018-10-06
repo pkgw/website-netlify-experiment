@@ -1,6 +1,7 @@
 +++
 date = 2015-11-15T12:36:24Z
 title = "Extensible prompts in “ipython” and “jupyter console”"
+path = "2015/11/extensible-prompts-in-jupyter-console"
 
 [extra]
 wp_rel_permalink = "/2015/11/extensible-prompts-in-jupyter-console/"

@@ -1,6 +1,7 @@
 +++
 date = 2008-02-07T13:44:49Z
 title = "Master of the Universe"
+path = "2008/02/master-of-the-universe"
 
 [extra]
 wp_rel_permalink = "/2008/02/master-of-the-universe/"

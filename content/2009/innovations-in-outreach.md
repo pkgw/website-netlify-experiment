@@ -1,6 +1,7 @@
 +++
 date = 2009-04-27T14:13:18Z
 title = "Innovations in Outreach"
+path = "2009/04/innovations-in-outreach"
 
 [extra]
 wp_rel_permalink = "/2009/04/innovations-in-outreach/"

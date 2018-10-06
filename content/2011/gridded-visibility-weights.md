@@ -1,6 +1,7 @@
 +++
 date = 2011-08-12T11:31:22Z
 title = "Gridded Visibility Weights"
+path = "2011/08/gridded-visibility-weights"
 
 [extra]
 wp_rel_permalink = "/2011/08/gridded-visibility-weights/"

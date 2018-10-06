@@ -1,6 +1,7 @@
 +++
 date = 2011-07-18T14:01:31Z
 title = "Hour-Angle Dependence in ATA Imaging"
+path = "2011/07/hour-angle-dependence-in-ata-imaging"
 
 [extra]
 wp_rel_permalink = "/2011/07/hour-angle-dependence-in-ata-imaging/"

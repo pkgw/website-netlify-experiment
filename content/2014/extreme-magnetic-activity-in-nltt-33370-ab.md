@@ -1,6 +1,7 @@
 +++
 date = 2014-09-22T10:52:43Z
 title = "Extreme magnetic activity in NLTT 33370 AB"
+path = "2014/09/extreme-magnetic-activity-in-nltt-33370-ab"
 
 [extra]
 wp_rel_permalink = "/2014/09/extreme-magnetic-activity-in-nltt-33370-ab/"

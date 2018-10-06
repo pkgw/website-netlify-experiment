@@ -1,6 +1,7 @@
 +++
 date = 2015-02-06T18:47:20Z
 title = "“Extragalactic Transients in the Era of Wide-Field Radio Surveys”"
+path = "2015/02/extragalactic-transients-in-the-era-of-wide-field-radio-surveys"
 
 [extra]
 wp_rel_permalink = "/2015/02/extragalactic-transients-in-the-era-of-wide-field-radio-surveys/"

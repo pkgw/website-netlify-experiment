@@ -1,6 +1,7 @@
 +++
 date = 2015-10-10T12:32:20Z
 title = "A Brief Note on Geoff Marcy"
+path = "2015/10/a-brief-note-on-geoff-marcy"
 
 [extra]
 wp_rel_permalink = "/2015/10/a-brief-note-on-geoff-marcy/"

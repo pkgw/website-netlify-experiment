@@ -1,6 +1,7 @@
 +++
 date = 2013-02-22T00:19:12Z
 title = "My New Snoozing Technique is Unstoppable"
+path = "2013/02/my-new-snoozing-technique-is-unstoppable"
 
 [extra]
 wp_rel_permalink = "/2013/02/my-new-snoozing-technique-is-unstoppable/"

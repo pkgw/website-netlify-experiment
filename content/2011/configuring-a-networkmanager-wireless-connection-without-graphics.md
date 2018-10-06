@@ -1,6 +1,7 @@
 +++
 date = 2011-05-25T00:55:26Z
 title = "Reference: Configuring a NetworkManager Wireless Connection without Graphics"
+path = "2011/05/configuring-a-networkmanager-wireless-connection-without-graphics"
 
 [extra]
 wp_rel_permalink = "/2011/05/configuring-a-networkmanager-wireless-connection-without-graphics/"

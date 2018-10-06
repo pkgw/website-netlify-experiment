@@ -1,6 +1,7 @@
 +++
 date = 2013-08-20T10:59:45Z
 title = "Prosser & Grankin, CfA Preprint 4539: A Bibliographic Story"
+path = "2013/08/preprint-4539"
 
 [extra]
 wp_rel_permalink = "/2013/08/preprint-4539/"

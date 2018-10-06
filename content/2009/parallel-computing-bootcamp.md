@@ -1,6 +1,7 @@
 +++
 date = 2009-08-28T15:53:34Z
 title = "Parallel Computing Bootcamp"
+path = "2009/08/parallel-computing-bootcamp"
 
 [extra]
 wp_rel_permalink = "/2009/08/parallel-computing-bootcamp/"

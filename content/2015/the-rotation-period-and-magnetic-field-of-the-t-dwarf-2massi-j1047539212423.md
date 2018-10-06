@@ -1,6 +1,7 @@
 +++
 date = 2015-08-05T15:31:38Z
 title = "“The Rotation Period and Magnetic Field of the T Dwarf 2MASSI J1047539+212423”"
+path = "2015/08/the-rotation-period-and-magnetic-field-of-the-t-dwarf-2massi-j1047539212423"
 
 [extra]
 wp_rel_permalink = "/2015/08/the-rotation-period-and-magnetic-field-of-the-t-dwarf-2massi-j1047539212423/"

@@ -1,6 +1,7 @@
 +++
 date = 2008-03-12T16:48:50Z
 title = "Feasibility"
+path = "2008/03/feasibility"
 
 [extra]
 wp_rel_permalink = "/2008/03/feasibility/"

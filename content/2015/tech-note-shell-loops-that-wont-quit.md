@@ -1,6 +1,7 @@
 +++
 date = 2015-01-16T19:44:19Z
 title = "Tech note: shell loops that won’t quit"
+path = "2015/01/tech-note-shell-loops-that-wont-quit"
 
 [extra]
 wp_rel_permalink = "/2015/01/tech-note-shell-loops-that-wont-quit/"

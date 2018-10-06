@@ -1,6 +1,7 @@
 +++
 date = 2013-09-19T18:48:43Z
 title = "Slides for scientific talks in HTML"
+path = "2013/09/slides-for-scientific-talks-in-html"
 
 [extra]
 wp_rel_permalink = "/2013/09/slides-for-scientific-talks-in-html/"

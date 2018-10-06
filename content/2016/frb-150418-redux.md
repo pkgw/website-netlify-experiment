@@ -1,6 +1,7 @@
 +++
 date = 2016-03-28T09:08:15Z
 title = "FRB 150418, Redux"
+path = "2016/03/frb-150418-redux"
 
 [extra]
 wp_rel_permalink = "/2016/03/frb-150418-redux/"

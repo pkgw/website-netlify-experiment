@@ -1,6 +1,7 @@
 +++
 date = 2010-04-04T13:35:22Z
 title = "“Does the U.S. Produce Too Many Scientists?”"
+path = "2010/04/does-the-u-s-produce-too-many-scientists"
 
 [extra]
 wp_rel_permalink = "/2010/04/does-the-u-s-produce-too-many-scientists/"

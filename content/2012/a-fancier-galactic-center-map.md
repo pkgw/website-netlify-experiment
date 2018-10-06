@@ -1,6 +1,7 @@
 +++
 date = 2012-02-17T21:50:57Z
 title = "A Fancier Galactic Center Map"
+path = "2012/02/a-fancier-galactic-center-map"
 
 [extra]
 wp_rel_permalink = "/2012/02/a-fancier-galactic-center-map/"

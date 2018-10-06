@@ -1,6 +1,7 @@
 +++
 date = 2012-06-07T16:07:06Z
 title = "Poisson Distribution Confidence Intervals in Scipy"
+path = "2012/06/poisson-distribution-confidence-intervals"
 
 [extra]
 wp_rel_permalink = "/2012/06/poisson-distribution-confidence-intervals/"

@@ -1,6 +1,7 @@
 +++
 date = 2012-03-10T10:44:06Z
 title = "Reference: Control-arrow keys in screen, SSH, etc."
+path = "2012/03/reference-control-arrow-keys-in-screen-ssh-etc"
 
 [extra]
 wp_rel_permalink = "/2012/03/reference-control-arrow-keys-in-screen-ssh-etc/"

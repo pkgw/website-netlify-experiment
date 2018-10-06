@@ -1,6 +1,7 @@
 +++
 date = 2007-11-12T01:38:02Z
 title = "Remote Observing"
+path = "2007/11/remote-observing"
 
 [extra]
 wp_rel_permalink = "/2007/11/remote-observing/"

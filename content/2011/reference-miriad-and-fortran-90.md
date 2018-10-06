@@ -1,6 +1,7 @@
 +++
 date = 2011-12-05T16:36:25Z
 title = "Reference: MIRIAD and Fortran 90"
+path = "2011/12/reference-miriad-and-fortran-90"
 
 [extra]
 wp_rel_permalink = "/2011/12/reference-miriad-and-fortran-90/"

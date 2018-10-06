@@ -1,6 +1,7 @@
 +++
 date = 2009-08-09T13:18:30Z
 title = "Vacation; The Omnivore’s Dilemma"
+path = "2009/08/vacation-the-omnivores-dilemma"
 
 [extra]
 wp_rel_permalink = "/2009/08/vacation-the-omnivores-dilemma/"

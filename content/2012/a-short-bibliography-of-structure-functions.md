@@ -1,6 +1,7 @@
 +++
 date = 2012-07-26T12:05:40Z
 title = "A Short Bibliography of Structure Functions"
+path = "2012/07/a-short-bibliography-of-structure-functions"
 
 [extra]
 wp_rel_permalink = "/2012/07/a-short-bibliography-of-structure-functions/"

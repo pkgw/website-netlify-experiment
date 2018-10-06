@@ -1,6 +1,7 @@
 +++
 date = 2016-07-21T13:58:13Z
 title = "Code, Copyright, and Licenses: The Bare Minimum You Should Know"
+path = "2016/07/code-copyright-and-licenses-the-bare-minimum-you-should-know"
 
 [extra]
 wp_rel_permalink = "/2016/07/code-copyright-and-licenses-the-bare-minimum-you-should-know/"

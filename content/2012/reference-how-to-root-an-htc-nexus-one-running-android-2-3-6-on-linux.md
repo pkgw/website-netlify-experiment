@@ -1,6 +1,7 @@
 +++
 date = 2012-03-13T22:20:32Z
 title = "Reference: How To Root an HTC Nexus One Running Android 2.3.6 on Linux"
+path = "2012/03/reference-how-to-root-an-htc-nexus-one-running-android-2-3-6-on-linux"
 
 [extra]
 wp_rel_permalink = "/2012/03/reference-how-to-root-an-htc-nexus-one-running-android-2-3-6-on-linux/"

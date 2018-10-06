@@ -1,6 +1,7 @@
 +++
 date = 2007-11-29T02:01:33Z
 title = "Clock is Ticking"
+path = "2007/11/clock-is-ticking"
 
 [extra]
 wp_rel_permalink = "/2007/11/clock-is-ticking/"

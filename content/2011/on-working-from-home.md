@@ -1,6 +1,7 @@
 +++
 date = 2011-02-16T01:18:58Z
 title = "On Working From Home"
+path = "2011/02/on-working-from-home"
 
 [extra]
 wp_rel_permalink = "/2011/02/on-working-from-home/"

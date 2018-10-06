@@ -1,6 +1,7 @@
 +++
 date = 2013-02-08T00:19:15Z
 title = "Fun with SSH configuration: connection sharing"
+path = "2013/02/fun-with-ssh-configuration-connection-sharing"
 
 [extra]
 wp_rel_permalink = "/2013/02/fun-with-ssh-configuration-connection-sharing/"

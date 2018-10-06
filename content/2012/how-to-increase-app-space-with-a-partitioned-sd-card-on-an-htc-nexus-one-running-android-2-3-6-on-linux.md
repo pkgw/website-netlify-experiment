@@ -1,6 +1,7 @@
 +++
 date = 2012-12-29T13:01:24Z
 title = "How to Increase App Space with a Partitioned SD Card on an HTC Nexus One Running Android 2.3.6 on Linux"
+path = "2012/12/how-to-increase-app-space-with-a-partitioned-sd-card-on-an-htc-nexus-one-running-android-2-3-6-on-linux"
 
 [extra]
 wp_rel_permalink = "/2012/12/how-to-increase-app-space-with-a-partitioned-sd-card-on-an-htc-nexus-one-running-android-2-3-6-on-linux/"

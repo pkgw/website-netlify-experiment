@@ -1,6 +1,7 @@
 +++
 date = 2012-03-01T10:04:20Z
 title = "Reference: Converting bitmaps to EPS efficiently"
+path = "2012/03/reference-converting-bitmaps-to-eps-efficiently"
 
 [extra]
 wp_rel_permalink = "/2012/03/reference-converting-bitmaps-to-eps-efficiently/"

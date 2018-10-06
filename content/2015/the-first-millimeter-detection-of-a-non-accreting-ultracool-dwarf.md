@@ -1,6 +1,7 @@
 +++
 date = 2015-11-19T09:23:54Z
 title = "“The First Millimeter Detection of a Non-Accreting Ultracool Dwarf”"
+path = "2015/11/the-first-millimeter-detection-of-a-non-accreting-ultracool-dwarf"
 
 [extra]
 wp_rel_permalink = "/2015/11/the-first-millimeter-detection-of-a-non-accreting-ultracool-dwarf/"

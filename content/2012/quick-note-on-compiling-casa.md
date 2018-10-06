@@ -1,6 +1,7 @@
 +++
 date = 2012-05-02T20:04:30Z
 title = "Quick Note on Compiling CASA"
+path = "2012/05/quick-note-on-compiling-casa"
 
 [extra]
 wp_rel_permalink = "/2012/05/quick-note-on-compiling-casa/"

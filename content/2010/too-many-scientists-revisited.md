@@ -1,6 +1,7 @@
 +++
 date = 2010-06-23T22:02:19Z
 title = "Too Many Scientists, Revisited"
+path = "2010/06/too-many-scientists-revisited"
 
 [extra]
 wp_rel_permalink = "/2010/06/too-many-scientists-revisited/"

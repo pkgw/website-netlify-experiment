@@ -1,6 +1,7 @@
 +++
 date = 2012-03-15T10:22:41Z
 title = "Imaging Algorithms vs. Perfect Data"
+path = "2012/03/imaging-algorithms-vs-perfect-data"
 
 [extra]
 wp_rel_permalink = "/2012/03/imaging-algorithms-vs-perfect-data/"

@@ -1,6 +1,7 @@
 +++
 date = 2009-11-28T15:33:38Z
 title = "The Python Standard Libraries: Not Very Good"
+path = "2009/11/the-python-standard-libraries"
 
 [extra]
 wp_rel_permalink = "/2009/11/the-python-standard-libraries/"

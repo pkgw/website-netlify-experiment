@@ -1,6 +1,7 @@
 +++
 date = 2007-10-08T23:21:17Z
 title = "Responsibilities and the Shirking Thereof"
+path = "2007/10/responsibilities-and-the-shirking-thereof"
 
 [extra]
 wp_rel_permalink = "/2007/10/responsibilities-and-the-shirking-thereof/"

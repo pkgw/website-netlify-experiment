@@ -1,6 +1,7 @@
 +++
 date = 2011-05-25T00:36:13Z
 title = "Reference: What to Do If Fedora 15 Locks Up on Login"
+path = "2011/05/what-to-do-if-fedora-15-locks-up-on-login"
 
 [extra]
 wp_rel_permalink = "/2011/05/what-to-do-if-fedora-15-locks-up-on-login/"

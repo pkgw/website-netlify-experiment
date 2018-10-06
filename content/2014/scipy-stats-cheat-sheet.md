@@ -1,6 +1,7 @@
 +++
 date = 2014-05-21T10:55:41Z
 title = "scipy.stats Cheat Sheet"
+path = "2014/05/scipy-stats-cheat-sheet"
 
 [extra]
 wp_rel_permalink = "/2014/05/scipy-stats-cheat-sheet/"

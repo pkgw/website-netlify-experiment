@@ -1,6 +1,7 @@
 +++
 date = 2010-07-12T10:47:33Z
 title = "Qual: Scientific Merit"
+path = "2010/07/qual-scientific-merit"
 
 [extra]
 wp_rel_permalink = "/2010/07/qual-scientific-merit/"

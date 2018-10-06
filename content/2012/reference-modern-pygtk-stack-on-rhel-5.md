@@ -1,6 +1,7 @@
 +++
 date = 2012-11-20T10:35:34Z
 title = "Reference: Modern pyGTK+ stack on RHEL 5"
+path = "2012/11/reference-modern-pygtk-stack-on-rhel-5"
 
 [extra]
 wp_rel_permalink = "/2012/11/reference-modern-pygtk-stack-on-rhel-5/"

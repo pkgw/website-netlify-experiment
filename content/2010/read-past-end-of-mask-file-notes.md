@@ -1,6 +1,7 @@
 +++
 date = 2010-06-10T13:58:59Z
 title = "“Read past end of mask file” Notes"
+path = "2010/06/read-past-end-of-mask-file-notes"
 
 [extra]
 wp_rel_permalink = "/2010/06/read-past-end-of-mask-file-notes/"

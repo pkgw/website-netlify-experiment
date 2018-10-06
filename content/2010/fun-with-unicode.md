@@ -1,6 +1,7 @@
 +++
 date = 2010-10-11T21:21:46Z
 title = "Fun With Unicode"
+path = "2010/10/fun-with-unicode"
 
 [extra]
 wp_rel_permalink = "/2010/10/fun-with-unicode/"

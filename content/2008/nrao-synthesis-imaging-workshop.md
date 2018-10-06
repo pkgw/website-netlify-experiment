@@ -1,6 +1,7 @@
 +++
 date = 2008-06-19T20:43:23Z
 title = "NRAO Synthesis Imaging Workshop"
+path = "2008/06/nrao-synthesis-imaging-workshop"
 
 [extra]
 wp_rel_permalink = "/2008/06/nrao-synthesis-imaging-workshop/"

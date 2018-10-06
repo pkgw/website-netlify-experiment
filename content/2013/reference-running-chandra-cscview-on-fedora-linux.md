@@ -1,6 +1,7 @@
 +++
 date = 2013-02-07T15:14:53Z
 title = "Reference: Running Chandra cscview on Fedora Linux"
+path = "2013/02/reference-running-chandra-cscview-on-fedora-linux"
 
 [extra]
 wp_rel_permalink = "/2013/02/reference-running-chandra-cscview-on-fedora-linux/"

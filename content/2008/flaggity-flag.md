@@ -1,6 +1,7 @@
 +++
 date = 2008-04-23T00:16:03Z
 title = "Flaggity Flag"
+path = "2008/04/flaggity-flag"
 
 [extra]
 wp_rel_permalink = "/2008/04/flaggity-flag/"

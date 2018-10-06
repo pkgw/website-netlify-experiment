@@ -1,6 +1,7 @@
 +++
 date = 2009-02-15T23:02:46Z
 title = "AAS #213 poster"
+path = "2009/02/aas-213-poster"
 
 [extra]
 wp_rel_permalink = "/2009/02/aas-213-poster/"

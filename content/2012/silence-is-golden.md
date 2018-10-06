@@ -1,6 +1,7 @@
 +++
 date = 2012-12-28T14:56:55Z
 title = "Silence is Golden"
+path = "2012/12/silence-is-golden"
 
 [extra]
 wp_rel_permalink = "/2012/12/silence-is-golden/"

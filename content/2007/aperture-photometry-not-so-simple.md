@@ -1,6 +1,7 @@
 +++
 date = 2007-08-30T23:49:31Z
 title = "Aperture Photometry: Not So Simple"
+path = "2007/08/aperture-photometry-not-so-simple"
 
 [extra]
 wp_rel_permalink = "/2007/08/aperture-photometry-not-so-simple/"

@@ -1,6 +1,7 @@
 +++
 date = 2014-02-20T08:42:24Z
 title = "CASA in Python without casapy"
+path = "2014/02/casa-in-python-without-casapy"
 
 [extra]
 wp_rel_permalink = "/2014/02/casa-in-python-without-casapy/"

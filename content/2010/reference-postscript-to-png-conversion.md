@@ -1,6 +1,7 @@
 +++
 date = 2010-09-05T16:18:34Z
 title = "Reference: PostScript to PNG Conversion"
+path = "2010/09/reference-postscript-to-png-conversion"
 
 [extra]
 wp_rel_permalink = "/2010/09/reference-postscript-to-png-conversion/"

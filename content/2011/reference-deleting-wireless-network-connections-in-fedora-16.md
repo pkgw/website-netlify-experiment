@@ -1,6 +1,7 @@
 +++
 date = 2011-12-20T07:33:42Z
 title = "Reference: Deleting wireless network connections in Fedora 16"
+path = "2011/12/reference-deleting-wireless-network-connections-in-fedora-16"
 
 [extra]
 wp_rel_permalink = "/2011/12/reference-deleting-wireless-network-connections-in-fedora-16/"

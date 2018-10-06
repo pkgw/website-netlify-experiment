@@ -1,6 +1,7 @@
 +++
 date = 2010-02-23T23:31:00Z
 title = "A Nice Null Result"
+path = "2010/02/a-nice-null-result"
 
 [extra]
 wp_rel_permalink = "/2010/02/a-nice-null-result/"

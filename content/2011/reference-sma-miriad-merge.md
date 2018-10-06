@@ -1,6 +1,7 @@
 +++
 date = 2011-12-05T16:46:21Z
 title = "Reference: SMA MIRIAD merge"
+path = "2011/12/reference-sma-miriad-merge"
 
 [extra]
 wp_rel_permalink = "/2011/12/reference-sma-miriad-merge/"

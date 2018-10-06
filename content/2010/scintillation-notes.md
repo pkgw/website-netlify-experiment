@@ -1,6 +1,7 @@
 +++
 date = 2010-05-21T15:44:51Z
 title = "Scintillation Notes"
+path = "2010/05/scintillation-notes"
 
 [extra]
 wp_rel_permalink = "/2010/05/scintillation-notes/"

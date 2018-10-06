@@ -1,6 +1,7 @@
 +++
 date = 2012-02-16T16:30:00Z
 title = "Short Styling Commands in LaTeX"
+path = "2012/02/short-styling-commands-in-latex"
 
 [extra]
 wp_rel_permalink = "/2012/02/short-styling-commands-in-latex/"

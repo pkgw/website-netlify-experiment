@@ -1,6 +1,7 @@
 +++
 date = 2010-07-08T00:39:09Z
 title = "Qual Planning: Timeline"
+path = "2010/07/qual-planning-timeline"
 
 [extra]
 wp_rel_permalink = "/2010/07/qual-planning-timeline/"

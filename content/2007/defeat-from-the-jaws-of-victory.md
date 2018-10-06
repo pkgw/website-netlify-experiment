@@ -1,6 +1,7 @@
 +++
 date = 2007-09-14T21:18:15Z
 title = "Defeat From the Jaws of Victory"
+path = "2007/09/defeat-from-the-jaws-of-victory"
 
 [extra]
 wp_rel_permalink = "/2007/09/defeat-from-the-jaws-of-victory/"

@@ -1,6 +1,7 @@
 +++
 date = 2010-11-08T00:25:29Z
 title = "Whiteboard Videos"
+path = "2010/11/whiteboard-videos"
 
 [extra]
 wp_rel_permalink = "/2010/11/whiteboard-videos/"

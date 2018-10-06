@@ -1,6 +1,7 @@
 +++
 date = 2017-08-22T15:29:19Z
 title = "Software in your CV"
+path = "2017/08/software-in-your-cv"
 
 [extra]
 wp_rel_permalink = "/2017/08/software-in-your-cv/"

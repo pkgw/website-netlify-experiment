@@ -1,6 +1,7 @@
 +++
 date = 2009-04-24T21:38:11Z
 title = "Sketching Out Robust URLs in the Literature"
+path = "2009/04/sketching-out-robust-urls-in-the-literature"
 
 [extra]
 wp_rel_permalink = "/2009/04/sketching-out-robust-urls-in-the-literature/"

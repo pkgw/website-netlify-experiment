@@ -1,6 +1,7 @@
 +++
 date = 2010-03-01T23:40:58Z
 title = "Decadal Review Tea-Leaf-Reading"
+path = "2010/03/decadal-review-tea-leaf-reading"
 
 [extra]
 wp_rel_permalink = "/2010/03/decadal-review-tea-leaf-reading/"

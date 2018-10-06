@@ -1,6 +1,7 @@
 +++
 date = 2014-08-27T17:20:33Z
 title = "“A Laboratory Introduction to git”"
+path = "2014/08/a-laboratory-introduction-to-git"
 
 [extra]
 wp_rel_permalink = "/2014/08/a-laboratory-introduction-to-git/"

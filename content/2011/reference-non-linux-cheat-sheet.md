@@ -1,6 +1,7 @@
 +++
 date = 2011-03-26T09:33:13Z
 title = "Reference: Non-Linux Cheat Sheet"
+path = "2011/03/reference-non-linux-cheat-sheet"
 
 [extra]
 wp_rel_permalink = "/2011/03/reference-non-linux-cheat-sheet/"

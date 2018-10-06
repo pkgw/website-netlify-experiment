@@ -1,6 +1,7 @@
 +++
 date = 2012-04-11T22:58:17Z
 title = "Multimedia Abstraction"
+path = "2012/04/multimedia-abstraction"
 
 [extra]
 wp_rel_permalink = "/2012/04/multimedia-abstraction/"

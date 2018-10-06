@@ -1,6 +1,7 @@
 +++
 date = 2009-12-01T17:13:41Z
 title = "Broadband Spectra Paper Out!"
+path = "2009/12/broadband-spectra-paper-out"
 
 [extra]
 wp_rel_permalink = "/2009/12/broadband-spectra-paper-out/"

@@ -1,6 +1,7 @@
 +++
 date = 2011-09-27T11:30:53Z
 title = "Reference: Replacing Mozilla Prism for Site-Specific Browsing on Linux"
+path = "2011/09/reference-replacing-mozilla-prism-for-site-specific-browsing-on-linux"
 
 [extra]
 wp_rel_permalink = "/2011/09/reference-replacing-mozilla-prism-for-site-specific-browsing-on-linux/"

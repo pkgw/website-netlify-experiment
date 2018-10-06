@@ -1,6 +1,7 @@
 +++
 date = 2013-04-03T23:23:15Z
 title = "Propagating Uncertainties: The Lazy and Absurd Way"
+path = "2013/04/propagating-uncertainties-the-lazy-and-absurd-way"
 
 [extra]
 wp_rel_permalink = "/2013/04/propagating-uncertainties-the-lazy-and-absurd-way/"

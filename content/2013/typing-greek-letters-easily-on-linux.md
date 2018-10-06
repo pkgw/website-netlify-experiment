@@ -1,6 +1,7 @@
 +++
 date = 2013-04-19T15:52:10Z
 title = "Typing Greek Letters Easily on Linux"
+path = "2013/04/typing-greek-letters-easily-on-linux"
 
 [extra]
 wp_rel_permalink = "/2013/04/typing-greek-letters-easily-on-linux/"

@@ -1,6 +1,7 @@
 +++
 date = 2011-07-25T16:23:01Z
 title = "One Piece of the Puzzle: w-Projection"
+path = "2011/07/one-piece-of-the-puzzle-w-projection"
 
 [extra]
 wp_rel_permalink = "/2011/07/one-piece-of-the-puzzle-w-projection/"

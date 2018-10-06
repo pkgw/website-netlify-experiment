@@ -1,6 +1,7 @@
 +++
 date = 2010-07-13T10:06:37Z
 title = "Figure of the Day: The Nature of Computing Power Increases"
+path = "2010/07/figure-of-the-day-the-nature-of-computing-power-increases"
 
 [extra]
 wp_rel_permalink = "/2010/07/figure-of-the-day-the-nature-of-computing-power-increases/"

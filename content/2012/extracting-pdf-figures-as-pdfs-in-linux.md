@@ -1,6 +1,7 @@
 +++
 date = 2012-10-15T06:31:20Z
 title = "Extracting PDF Figures as PDFs in Linux"
+path = "2012/10/extracting-pdf-figures-as-pdfs-in-linux"
 
 [extra]
 wp_rel_permalink = "/2012/10/extracting-pdf-figures-as-pdfs-in-linux/"

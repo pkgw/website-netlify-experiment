@@ -1,6 +1,7 @@
 +++
 date = 2014-03-24T16:37:20Z
 title = "Confidence intervals for Poisson processes with backgrounds"
+path = "2014/03/confidence-intervals-for-poisson-processes-with-backgrounds"
 
 [extra]
 wp_rel_permalink = "/2014/03/confidence-intervals-for-poisson-processes-with-backgrounds/"

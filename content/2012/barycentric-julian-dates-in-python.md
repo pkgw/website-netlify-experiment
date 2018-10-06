@@ -1,6 +1,7 @@
 +++
 date = 2012-11-12T08:24:37Z
 title = "Barycentric Julian Dates in Python"
+path = "2012/11/barycentric-julian-dates-in-python"
 
 [extra]
 wp_rel_permalink = "/2012/11/barycentric-julian-dates-in-python/"

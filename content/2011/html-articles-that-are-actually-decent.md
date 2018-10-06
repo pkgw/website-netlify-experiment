@@ -1,6 +1,7 @@
 +++
 date = 2011-05-07T19:12:08Z
 title = "HTML Articles that Are Actually Decent"
+path = "2011/05/html-articles-that-are-actually-decent"
 
 [extra]
 wp_rel_permalink = "/2011/05/html-articles-that-are-actually-decent/"

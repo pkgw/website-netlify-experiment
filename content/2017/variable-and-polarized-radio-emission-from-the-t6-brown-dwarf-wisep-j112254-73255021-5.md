@@ -1,6 +1,7 @@
 +++
 date = 2017-07-18T22:28:21Z
 title = "“Variable and polarized radio emission from the T6 brown dwarf WISEP J112254.73+255021.5”"
+path = "2017/07/variable-and-polarized-radio-emission-from-the-t6-brown-dwarf-wisep-j112254-73255021-5"
 
 [extra]
 wp_rel_permalink = "/2017/07/variable-and-polarized-radio-emission-from-the-t6-brown-dwarf-wisep-j112254-73255021-5/"

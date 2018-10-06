@@ -1,6 +1,7 @@
 +++
 date = 2008-03-31T21:35:20Z
 title = "FX64 Work"
+path = "2008/03/fx64-work"
 
 [extra]
 wp_rel_permalink = "/2008/03/fx64-work/"

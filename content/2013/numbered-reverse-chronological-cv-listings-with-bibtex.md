@@ -1,6 +1,7 @@
 +++
 date = 2013-05-30T00:15:25Z
 title = "Numbered reverse-chronological CV listings with BibTeX"
+path = "2013/05/numbered-reverse-chronological-cv-listings-with-bibtex"
 
 [extra]
 wp_rel_permalink = "/2013/05/numbered-reverse-chronological-cv-listings-with-bibtex/"

@@ -1,6 +1,7 @@
 +++
 date = 2009-06-16T23:47:24Z
 title = "Slides from EBAS Talk"
+path = "2009/06/slides-from-ebas-talk"
 
 [extra]
 wp_rel_permalink = "/2009/06/slides-from-ebas-talk/"

@@ -1,6 +1,7 @@
 +++
 date = 2011-12-07T23:52:04Z
 title = "Reference: The Ultimate Resolved Source Cheatsheet"
+path = "2011/12/reference-the-ultimate-resolved-source-cheatsheet"
 
 [extra]
 wp_rel_permalink = "/2011/12/reference-the-ultimate-resolved-source-cheatsheet/"

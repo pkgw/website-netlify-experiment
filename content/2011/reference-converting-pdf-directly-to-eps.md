@@ -1,6 +1,7 @@
 +++
 date = 2011-10-20T10:03:23Z
 title = "Reference: Converting PDF Directly to EPS"
+path = "2011/10/reference-converting-pdf-directly-to-eps"
 
 [extra]
 wp_rel_permalink = "/2011/10/reference-converting-pdf-directly-to-eps/"

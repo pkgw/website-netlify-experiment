@@ -1,6 +1,7 @@
 +++
 date = 2013-10-24T11:19:34Z
 title = "Landscape pages, emulateapj, and arxiv"
+path = "2013/10/landscape-pages-emulateapj-and-arxiv"
 
 [extra]
 wp_rel_permalink = "/2013/10/landscape-pages-emulateapj-and-arxiv/"

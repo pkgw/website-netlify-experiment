@@ -1,6 +1,7 @@
 +++
 date = 2014-02-05T09:35:15Z
 title = "Announcing: worklog-tools, for automating tedious CV activities"
+path = "2014/02/announcing-worklog-tools-for-automating-tedious-cv-activities"
 
 [extra]
 wp_rel_permalink = "/2014/02/announcing-worklog-tools-for-automating-tedious-cv-activities/"

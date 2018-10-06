@@ -1,6 +1,7 @@
 +++
 date = 2013-09-25T10:15:58Z
 title = "Flashy interactive graphics in a scientific talk, realized"
+path = "2013/09/flashy-interactive-graphics-in-a-scientific-talk-realized"
 
 [extra]
 wp_rel_permalink = "/2013/09/flashy-interactive-graphics-in-a-scientific-talk-realized/"

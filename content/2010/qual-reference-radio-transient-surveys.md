@@ -1,6 +1,7 @@
 +++
 date = 2010-07-27T19:29:32Z
 title = "Qual Reference: Radio Transient Surveys"
+path = "2010/07/qual-reference-radio-transient-surveys"
 
 [extra]
 wp_rel_permalink = "/2010/07/qual-reference-radio-transient-surveys/"

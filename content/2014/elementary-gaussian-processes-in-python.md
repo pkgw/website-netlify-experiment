@@ -1,6 +1,7 @@
 +++
 date = 2014-03-29T13:30:27Z
 title = "Elementary Gaussian Processes in Python"
+path = "2014/03/elementary-gaussian-processes-in-python"
 
 [extra]
 wp_rel_permalink = "/2014/03/elementary-gaussian-processes-in-python/"
