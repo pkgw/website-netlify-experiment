@@ -3,6 +3,7 @@ date = 2018-10-05
 title = "About Me / Contact"
 
 [extra]
+no_date = true
 skip_rss = true
 +++
 

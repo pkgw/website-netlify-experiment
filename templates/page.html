@@ -5,7 +5,9 @@
 {%- endblock title -%}
 
 {% block content %}
-<p class="post-title"><a href="{{ page.permalink }}">{{ page.title }}</a></p>
+<p class="post-title"><a href="{{ page.permalink | safe }}">{{ page.title }}</a></p>
+{%- if not page.extra.no_date -%}
 <p class="post-date">{{ page.date | date(format="%Y %B %e") }}</p>
+{%- endif -%}
 {{ page.content | safe }}
 {% endblock content %}

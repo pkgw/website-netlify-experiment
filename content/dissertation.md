@@ -3,6 +3,7 @@ date = 2015-02-16
 title = "Dissertation"
 
 [extra]
+no_date = true
 skip_rss = true
 +++
 
