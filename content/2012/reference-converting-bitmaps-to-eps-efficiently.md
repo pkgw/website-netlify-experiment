@@ -8,10 +8,12 @@ wp_rel_permalink = "/2012/03/reference-converting-bitmaps-to-eps-efficiently/"
 wp_shortlink = "/?p=512"
 +++
 
-Yet another entry in a [surprisingly](/?p=469) [long](/?p=352) series of
-reference posts about converting image formats. Sometimes you have a bitmap
-plot that needs to be converted to EPS for submission to a journal. My go-to
-command is `convert foo.png foo.eps` but this can give bad results.
+Yet another entry in a
+[surprisingly](./2011/reference-converting-pdf-directly-to-eps.md)
+[long](./2010/reference-postscript-to-png-conversion.md) series of reference
+posts about converting image formats. Sometimes you have a bitmap plot that
+needs to be converted to EPS for submission to a journal. My go-to command is
+`convert foo.png foo.eps` but this can give bad results.
 
 For a large PNG file, the best approach using standard tools that I’ve
 discovered is to use the NetPBM programs:

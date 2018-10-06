@@ -52,7 +52,7 @@ what I did here. That being said, big thanks to TweakerL and friends for
 figuring this out and publishing the technique. The caveats:
 
 - You need a
-  [rooted phone](/~peter/2012/03/reference-how-to-root-an-htc-nexus-one-running-android-2-3-6-on-linux/).
+  [rooted phone](./2012/reference-how-to-root-an-htc-nexus-one-running-android-2-3-6-on-linux.md).
 
 - Of course you run the risk of bricking your phone, killing all your apps,
   etc.
@@ -77,14 +77,15 @@ Here’s how it’s done:
 1. Do some preparation.
 
    1. Root your phone, perhaps using
-      [my instructions](/~peter/2012/03/reference-how-to-root-an-htc-nexus-one-running-android-2-3-6-on-linux/).
+      [my instructions](./2012/reference-how-to-root-an-htc-nexus-one-running-android-2-3-6-on-linux.md).
       This has its own large set of caveats and hassles. For me, at least, the
       lack of app storage is an annoying enough issue that I’m happy that I
       went to the trouble of the rooting.
 
    2. You’ll need the [Android SDK](http://developer.android.com/sdk/) and the
       `adb` program. You just need the SDK, not the ADT bundle. My
-      [post on rooting](/?p=522) has a bit more info on the installation.
+      [post on rooting](./2012/reference-how-to-root-an-htc-nexus-one-running-android-2-3-6-on-linux.md)
+      has a bit more info on the installation.
 
    3. You also need to install Busybox on the phone to get a more powerful
       mount program for later. You install

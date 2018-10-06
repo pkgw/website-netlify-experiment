@@ -9,7 +9,7 @@ wp_shortlink = "/?p=301"
 +++
 
 I’ve already tabulated a bunch of surveys in the
-[scientific merit post](/~peter/?p=241), but here I’ll add
+[scientific merit post](./2010/qual-scientific-merit.md), but here I’ll add
 some extra information on a few of the key ones. I’ve attempted to compute
 quantities as uniformly as possible, but this can be pretty difficult. Carets
 denote quantities I’ve estimated indirectly myself, rather than gotten fairly

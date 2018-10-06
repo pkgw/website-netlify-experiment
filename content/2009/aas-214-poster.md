@@ -8,7 +8,7 @@ wp_rel_permalink = "/2009/06/aas-214-poster/"
 wp_shortlink = "/?p=141"
 +++
 
-[Six months after the last AAS](/~peter/?p=106), I gave
+[Six months after the last AAS](./2009/aas-213-poster.md), I gave
 another poster at the [214th AAS meeting](http://aas.org/meetings/aas214/) in
 Pasadena. The topic this time was the launch of the AGCTS project. The
 abstract for the poster isn’t on ADS quite yet, but I think it should show up
