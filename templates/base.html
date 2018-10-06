@@ -5,8 +5,8 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
     <title>{% block title %}{{ config.title }}{% endblock title %}</title>
-    <link rel="stylesheet" href="{{ get_url(path="sanitize.css", trailing_slash=false) }}">
-    <link rel="stylesheet" href="{{ get_url(path="style.css", trailing_slash=false) }}">
+    <link rel="stylesheet" href="{{ get_url(path="sanitize.css", trailing_slash=false) | safe }}">
+    <link rel="stylesheet" href="{{ get_url(path="style.css", trailing_slash=false) | safe }}">
     <link href="https://fonts.googleapis.com/css?family=Bitter|Noto+Serif|Noto+Sans" rel="stylesheet">
     <!--[if IE]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     {% block extra_head %}
@@ -16,18 +16,18 @@
   <body>
     <header>
       <div class="maxwidth">
-        <p id="banner"><a href="{{ get_url(path="", trailing_slash=false) }}">Peter K. G. Williams</a></p>
+        <p id="banner"><a href="{{ get_url(path="", trailing_slash=false) | safe }}">Peter K. G. Williams</a></p>
       </div>
     </header>
 
     <nav id="topnav">
       <div class="maxwidth">
         <ul>
-          <li><a href="{{ get_url(path="about-me/") }}">About Me / Contact</a></li>
-          <li><a href="{{ get_url(path="pubs/") }}">Publications</a></li>
-          <li><a href="{{ get_url(path="cv/") }}">CV</a></li>
-          <li><a href="{{ get_url(path="dissertation/") }}">Dissertation</a></li>
-          <li><a href="{{ get_url(path="all-posts/") }}">All Posts</a></li>
+          <li><a href="{{ get_url(path="about-me/") | safe }}">About Me / Contact</a></li>
+          <li><a href="{{ get_url(path="pubs/") | safe }}">Publications</a></li>
+          <li><a href="{{ get_url(path="cv/") | safe }}">CV</a></li>
+          <li><a href="{{ get_url(path="dissertation/") | safe }}">Dissertation</a></li>
+          <li><a href="{{ get_url(path="all-posts/") | safe }}">All Posts</a></li>
         </ul>
       </div>
     </nav>
