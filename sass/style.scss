@@ -234,7 +234,7 @@ div.content {
   padding-left: 0.5rem;
 }
 
-// The "lede" section on the index page
+// Some special bits on the index page
 
 .lede {
   font-size: 120%;
@@ -245,6 +245,27 @@ div.content {
   font-style: italic;
   text-align: center;
   margin: 0.2rem 0 0.5rem 0;
+}
+
+.read-more {
+  font-style: italic;
+  text-align: right;
+}
+
+.recent-post-date {
+  font-weight: 700;
+  width: 10rem;
+  vertical-align: top;
+
+  // If the line-height setting doesn't match the one in .recent-post-title,
+  // the text in the two columns end up with a slightly different vertical
+  // alignment.
+  line-height: 1;
+}
+
+.recent-post-title {
+  line-height: 1;
+  padding-bottom: 1rem;
 }
 
 // Publications list

@@ -8,16 +8,33 @@
   contact me <a href="https://twitter.com/pkgw">on Twitter as @pkgw</a> or
   at <a href="mailto:peter@newton.cx">peter@newton.cx</a>.</p>
 
-<hr>
-
 {% set blog_sections = section.subsections | reverse | filter(attribute="extra.is_blog_section", value=true) %}
-{% set recent_post = blog_sections[0].pages[0] %}
+{% for post in blog_sections[0].pages | slice(end=5) %}
+{% if loop.first %}
 
+<hr>
 <p class="index-small-divider">Latest news:</p>
 
-<p class="post-title"><a href="{{ recent_post.permalink }}">{{ recent_post.title }}</a></p>
-<p class="post-date">{{ recent_post.date | date(format="%Y %B %e") }}</p>
+<p class="post-title"><a href="{{ post.permalink }}">{{ post.title }}</a></p>
+<p class="post-date">{{ post.date | date(format="%Y %B %e") }}</p>
 
-{{ recent_post.content | safe }}
+{% if post.summary | length > 0 %}
+{{ post.summary | safe }}
+<p class="read-more"><a href="{{ post.permalink }}">Read more …</a></p>
+{% else %}
+{{ post.content | safe }}
+{% endif %}
+
+<hr>
+<p class="index-small-divider">Recently:</p>
+<table>
+{% else %}
+<tr>
+  <td class="recent-post-date">{{ post.date | date(format="%Y %B %e") }}</td>
+  <td class="recent-post-title"><a href="{{ post.permalink }}">{{ post.title }}</a></td>
+</tr>
+{% endif %}
+{% endfor %}
+</table>
 
 {% endblock content %}
