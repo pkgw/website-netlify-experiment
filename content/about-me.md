@@ -1,6 +1,9 @@
 +++
 date = 2018-10-05
 title = "About Me / Contact"
+
+[extra]
+skip_rss = true
 +++
 
 {% float_image(src="http://newton.cx/~peter/wp/wp-content/uploads/2013/04/headshot.jpg") %}

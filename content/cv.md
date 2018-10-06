@@ -1,6 +1,9 @@
 +++
 title = "Curricuum Vitæ"
 template = "cv-page.html"
+
+[extra]
+skip_rss = true
 +++
 
 This document is also available as a more
