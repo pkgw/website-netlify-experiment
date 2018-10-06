@@ -1,4 +1,4 @@
-base_url = "https://newton.cx/~peter/ds/"
+base_url = "https://newton.cx/~peter/"
 title = "PKGW"
 
 compile_sass = true

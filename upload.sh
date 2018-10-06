@@ -1,0 +1,14 @@
+#! /bin/bash
+#
+# Generate and publish the site.
+
+cd $(dirname "$0")
+set -ex
+
+rm -rf public
+gutenberg build
+
+mkdir public/feed
+cp public/rss.xml public/feed/index.html
+
+rsync -avP public/ newton.cx:public_html/
