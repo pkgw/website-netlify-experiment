@@ -13,7 +13,7 @@ earlier](/?p=474). The data are completely the same; I’ve just put together
 all of the pieces to be able to render the map into a pretty, correct PDF.
 [Tadaa!](/wp/wp-content/uploads/2012/02/gpmos.pdf)
 
-{% figure(src="https://newton.cx/~peter/wp/wp-content/uploads/2012/02/gpmos.png") %}
+{% figure(src="/~peter/wp/wp-content/uploads/2012/02/gpmos.png") %}
 This is just a preview! The real image is a PDF.
 {% end %}
 

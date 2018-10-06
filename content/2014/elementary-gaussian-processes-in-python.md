@@ -27,4 +27,4 @@ I haven’t really used an IPython notebook before but I gotta say it worked
 really well here. I generally prefer the console for getting work done, but
 it’s a really nice format for pedagogy.
 
-{{ notebook_embed(src="https://newton.cx/~peter/wp/wp-content/uploads/2014/03/elem_gau_proc.html") }}
+{{ notebook_embed(src="/~peter/wp/wp-content/uploads/2014/03/elem_gau_proc.html") }}

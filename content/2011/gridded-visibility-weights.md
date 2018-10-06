@@ -10,7 +10,7 @@ wp_shortlink = "/?p=453"
 
 No actual science content here — I just thought this looked cool:
 
-{% figure(src="https://newton.cx/~peter/wp/wp-content/uploads/2011/08/weights.png") %}
+{% figure(src="/~peter/wp/wp-content/uploads/2011/08/weights.png") %}
 Gridded visibility weights.
 {% end %}
 

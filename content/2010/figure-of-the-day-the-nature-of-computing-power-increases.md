@@ -11,7 +11,7 @@ wp_shortlink = "/?p=261"
 Far too few people in the community seem to be ready to act upon what this
 figure is telling us:
 
-{% figure(src="https://newton.cx/~peter/wp/wp-content/uploads/2010/07/arxiv1007.1660v1-fig1.png") %}
+{% figure(src="/~peter/wp/wp-content/uploads/2010/07/arxiv1007.1660v1-fig1.png") %}
 From Barsdell et al. 2010, arxiv:1007.1660v1.
 {% end %}
 

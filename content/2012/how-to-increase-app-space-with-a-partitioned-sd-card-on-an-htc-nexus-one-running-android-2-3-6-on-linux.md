@@ -52,7 +52,7 @@ what I did here. That being said, big thanks to TweakerL and friends for
 figuring this out and publishing the technique. The caveats:
 
 - You need a
-  [rooted phone](https://newton.cx/~peter/2012/03/reference-how-to-root-an-htc-nexus-one-running-android-2-3-6-on-linux/).
+  [rooted phone](/~peter/2012/03/reference-how-to-root-an-htc-nexus-one-running-android-2-3-6-on-linux/).
 
 - Of course you run the risk of bricking your phone, killing all your apps,
   etc.
@@ -77,7 +77,7 @@ Here’s how it’s done:
 1. Do some preparation.
 
    1. Root your phone, perhaps using
-      [my instructions](https://newton.cx/~peter/2012/03/reference-how-to-root-an-htc-nexus-one-running-android-2-3-6-on-linux/).
+      [my instructions](/~peter/2012/03/reference-how-to-root-an-htc-nexus-one-running-android-2-3-6-on-linux/).
       This has its own large set of caveats and hassles. For me, at least, the
       lack of app storage is an annoying enough issue that I’m happy that I
       went to the trouble of the rooting.

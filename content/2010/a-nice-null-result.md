@@ -32,7 +32,7 @@ two groups. A greener color means above- average compatibility, and a redder
 color means below-average compatibility. For instance, here are the
 compatibilities of racial groups:
 
-{% figure(src="https://newton.cx/~peter/wp/wp-content/uploads/2010/02/Match-By-Race.png") %}
+{% figure(src="/~peter/wp/wp-content/uploads/2010/02/Match-By-Race.png") %}
 Dating compatibility between racial groups, taken from blog.okcupid.com
 {% end %}
 
@@ -46,7 +46,7 @@ for more info.)
 
 Anyway, here’s that null result that I referenced in the title:
 
-{% figure(src="https://newton.cx/~peter/wp/wp-content/uploads/2010/02/Match-By-Zodiac-Title.png") %}
+{% figure(src="/~peter/wp/wp-content/uploads/2010/02/Match-By-Zodiac-Title.png") %}
 Dating compatibility by zodiac sign, taken from blog.okcupid.com
 {% end %}
 

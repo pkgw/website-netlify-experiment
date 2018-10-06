@@ -13,8 +13,8 @@ been focusing on getting a rough-draft version of a large-scale map of the
 Galactic Center from my ATA transient survey data. Here’s what I’ve got so far
 — click on the image for the full-scale version:
 
-{% figure(src="http://newton.cx/~peter/wp/wp-content/uploads/2011/11/atagc20111116-300x85.png") %}
-ATA Galactic Center map — [click here for large version](http://newton.cx/~peter/wp/wp-content/uploads/2011/11/atagc20111116.png).
+{% figure(src="/~peter/wp/wp-content/uploads/2011/11/atagc20111116-300x85.png") %}
+ATA Galactic Center map — [click here for large version](/~peter/wp/wp-content/uploads/2011/11/atagc20111116.png).
 {% end %}
 
 There are some holes because it turns out that some of our fields were only

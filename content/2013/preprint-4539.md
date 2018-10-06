@@ -165,7 +165,7 @@ built out of lots of tiny steps, not all coming in the form of new
 experimental results; I’d like to think that this is one of them.
 
 Here’s the
-[full text of CfA Preprint 4539](https://newton.cx/~peter/wp/wp-content/uploads/2013/08/cfa4539.pdf),
+[full text of CfA Preprint 4539](/~peter/wp/wp-content/uploads/2013/08/cfa4539.pdf),
 including the OCR information so that the text and tables can be easily
 copied. (**Update**: this is now fully redundant with the ADS version.) Here’s
 [a preliminary version of the data tables](/wp/wp-content/uploads/2013/08/cfa4539-data-preliminary.tar.gz)

@@ -21,4 +21,4 @@ the underlying data, which I used to compute a bandpass. I wrote up my method
 and results in an [IPython notebook](http://ipython.org/notebook.html), which
 is shown statically below.
 
-{{ notebook_embed(src="//newton.cx/~peter/wp/wp-content/uploads/2014/08/mearth-bandpass.html") }}
+{{ notebook_embed(src="/~peter/wp/wp-content/uploads/2014/08/mearth-bandpass.html") }}

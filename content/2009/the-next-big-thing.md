@@ -45,7 +45,7 @@ are, and the practicalities of their search mesh well with our needs. We could
 plan to survey some other part of the sky, but we might as well piggyback on
 the SETI Institute’s observing program.
 
-{% figure(src="https://newton.cx/~peter/wp/wp-content/uploads/2009/05/galaxy.png") %}
+{% figure(src="/~peter/wp/wp-content/uploads/2009/05/galaxy.png") %}
 A preliminary image of the GC region made with the ATA.
 {% end %}
 

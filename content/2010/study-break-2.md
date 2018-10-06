@@ -10,4 +10,4 @@ wp_shortlink = "/?p=349"
 
 Posted without explicit comment.
 
-![](http://www.newton.cx/~peter/wp/wp-content/uploads/2010/08/hate.png "Some days ...")
+![](/~peter/wp/wp-content/uploads/2010/08/hate.png "Some days ...")

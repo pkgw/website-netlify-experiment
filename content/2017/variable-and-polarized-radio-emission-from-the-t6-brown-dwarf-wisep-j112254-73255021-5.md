@@ -68,7 +68,7 @@ And what did we find? The image below shows how the
 radio brightness varies over the course of several hours, with the radio
 emission being broken down in several different ways.
 
-{% figure(src="https://newton.cx/~peter/wp/wp-content/uploads/2017/07/xenia-vla-1024x854.png") %}
+{% figure(src="/~peter/wp/wp-content/uploads/2017/07/xenia-vla-1024x854.png") %}
 VLA radio light curve of WISE 1122+25.
 {% end %}
 
@@ -115,7 +115,7 @@ is relative to the viewer. “CML” is “central meridian longitude”, which 
 where we are in a rotation of the object. The other two sliders set the size
 of the magnetic caps and their separation from the rotation axis.
 
-<iframe src="https://newton.cx/~peter/wp/wp-content/uploads/2017/07/xenia/interactive.html" width="100%" height="400px" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
+<iframe src="/~peter/wp/wp-content/uploads/2017/07/xenia/interactive.html" width="100%" height="400px" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
 
 On the right-hand side, the solid line is the total brightness and the dashed
 line is the fractional polarization. If you set LOC = 25 and θ = 50, you get

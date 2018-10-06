@@ -13,7 +13,7 @@ about my broadband spectra project. The poster abstract is now
 [listed on ADS.](http://adsabs.harvard.edu/abs/2009AAS...21347005W)
 
 Here’s
-[a PDF of the poster](http://www.newton.cx/~peter/wp/wp-content/uploads/2009/02/poster.pdf)
+[a PDF of the poster](/~peter/wp/wp-content/uploads/2009/02/poster.pdf)
 (2.8 MB). The expected caveats apply: this is unpublished, preliminary work,
 and it represents results that will be, and in fact already have been,
 superseded. But it captures what I presented at the conference.

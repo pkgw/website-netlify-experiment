@@ -8,7 +8,7 @@ wp_rel_permalink = "/2010/07/don-backer-1943-2010/"
 wp_shortlink = "/?p=317"
 +++
 
-{% float_image(src="https://newton.cx/~peter/wp/wp-content/uploads/2010/07/1002351384_f437771624_m.jpg") %}
+{% float_image(src="/~peter/wp/wp-content/uploads/2010/07/1002351384_f437771624_m.jpg") %}
 Don Backer (picture from Colby Gutierrez-Kraybill)
 {% end %}
 

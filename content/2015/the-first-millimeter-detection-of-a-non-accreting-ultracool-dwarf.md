@@ -17,7 +17,7 @@ for Astrophysics and the NRAO are putting out
 [about it](https://public.nrao.edu/news/pressreleases/alma-dwarf-star-2015)
 including [a cool animation](https://vimeo.com/145885859).
 
-{% figure(src="https://newton.cx/~peter/wp/wp-content/uploads/2015/11/base-800-604x270.jpg") %}
+{% figure(src="/~peter/wp/wp-content/uploads/2015/11/base-800-604x270.jpg") %}
 Image credit: NRAO/AUI/NSF; Dana Berry / SkyWorks
 {% end %}
 

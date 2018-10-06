@@ -17,6 +17,6 @@ It’s been a great time at Berkeley, though I’m also pretty excited to return
 to Harvard to work with [Edo Berger](http://www.cfa.harvard.edu/~eberger/).
 Onward!
 
-{% figure(src="https://newton.cx/~peter/wp/wp-content/uploads/2012/08/7747970934_ce30c2f201_d.jpg") %}
+{% figure(src="/~peter/wp/wp-content/uploads/2012/08/7747970934_ce30c2f201_d.jpg") %}
 PhinisheD
 {% end %}

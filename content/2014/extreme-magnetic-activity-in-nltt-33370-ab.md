@@ -77,7 +77,7 @@ research is that you’d better be pushing the boundaries of what’s possible.
 
 The centerpiece observations in our study were long stares with the upgraded
 [Very Large Array](https://public.nrao.edu/telescopes/vla) (radio) and the
-[MEarth](https://newton.cx/~peter/2014/09/extreme-magnetic-activity-in-nltt-33370-ab/www.cfa.harvard.edu/MEarth/)
+[MEarth](/~peter/2014/09/extreme-magnetic-activity-in-nltt-33370-ab/www.cfa.harvard.edu/MEarth/)
 observatory (optical) in 2012 and 2013. In 2013 we added simultaneous X-ray
 monitoring with the
 [_Chandra_](http://www.nasa.gov/mission_pages/chandra/main/) space telescope.
@@ -87,7 +87,7 @@ saw a whole smorgasbord of magnetic phenomena. For a small sample, here are
 the radio-band light curves, showing both rapid flares and steadier, periodic
 variability at two frequencies. Each panel shows about ten hours of data:
 
-{% figure(src="https://newton.cx/~peter/wp/wp-content/uploads/2014/09/vlaspw.png") %}
+{% figure(src="/~peter/wp/wp-content/uploads/2014/09/vlaspw.png") %}
 The radio light curve of NLTT 33370 AB as obtained by the upgraded Very Large Array. From Williams et al. ([1409.4411](http://arxiv.org/abs/1409.4411)).
 {% end %}
 
@@ -119,7 +119,7 @@ spanning 3.2 years crammed together; the parts with smooth curves are nights
 of intensive observations, while the noisy-looking parts are months where we
 get just a few measurements every night.
 
-{% figure(src="https://newton.cx/~peter/wp/wp-content/uploads/2014/09/dracut-mearth.png") %}
+{% figure(src="/~peter/wp/wp-content/uploads/2014/09/dracut-mearth.png") %}
 Optical light curve of NLTT 33370 AB from MEarth. The gaps between observations are squashed together so that all of the data points can be seen. Different colors represent data from different years. From Williams et al. ([1409.4411](http://arxiv.org/abs/1409.4411)).
 {% end %}
 

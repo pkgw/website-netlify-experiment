@@ -16,7 +16,7 @@ hour hacking together my slide template with a little project called
 together some demos presenting astronomical data with
 the [d3](http://d3js.org/) toolkit.
 
-[Here’s the result](https://newton.cx/~peter/d3pohack/). It’s just a quick
+[Here’s the result](/~peter/d3pohack/). It’s just a quick
 simple hack showing that this is possible, which in a way isn’t too impressive
 since there’s absolutely no reason it shouldn’t have been. But it’s still fun
 to see everything work.
