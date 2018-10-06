@@ -10,5 +10,6 @@ wp_shortlink = "/?p=32"
 Star formation, then errands, then preparing for my optical lab lecture on
 IDL, then giving said lecture, then the usual hanging out in the lab for hours
 and hours. Lecture was OK; even though I tried to make it pretty down-to-
-earth, I think it was still insufficiently concrete. Teaching is hard.  Maybe
-I’ll get a chance to do research for the rest of the week?
+earth, I think it was still insufficiently concrete. Teaching is hard.
+
+Maybe I’ll get a chance to do research for the rest of the week?

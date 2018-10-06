@@ -9,5 +9,8 @@ wp_shortlink = "/?p=14"
 
 A lot of time taken up yesterday on miscellany, and not a lot of note
 accomplished. Decided that I didn’t have enough time to make it worth taking
-Galactic Dynamics this semester.  Wrote my annual report today. Nothing too
-exciting contained therein.  And now it’s time to go have dinner.
+Galactic Dynamics this semester.
+
+Wrote my annual report today. Nothing too exciting contained therein.
+
+And now it’s time to go have dinner.

@@ -16,5 +16,6 @@ but all of the data from an entire observing run to find patterns of bad vis
 entries. The exact difficulty of this problem is unclear to me, but I think
 that I can make some nice gains without too much additional work, and the
 index should allow extremely sophisticated data processing if I want it. Oh,
-and really fast, too.  **Addendum:** Fucking flat tire! Fuck! I want to go
-home!
+and really fast, too.
+
+**Addendum:** Fucking flat tire! Fuck! I want to go home!

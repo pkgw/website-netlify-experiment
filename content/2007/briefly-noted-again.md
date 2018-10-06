@@ -12,5 +12,6 @@ trying to fulfill my Galactic Dynamics responsibilities. If tomorrow’s
 discussion isn’t really good, I’ll probably drop it; gotta prioritize, and I
 don’t find myself that interested in the topic itself. I’ve been hoping to get
 a lot out of it in the general how-to-read-a-paper end of things, but … again,
-gotta prioritize.  Escargot and crab-stuffed sole for dinner, for free, thanks
-to colloquium.
+gotta prioritize.
+
+Escargot and crab-stuffed sole for dinner, for free, thanks to colloquium.

@@ -20,10 +20,12 @@ something in OmegaPlot, but it will probably require a nontrivial amount of
 new code, in which case I’m awfully tempted to sit down and rework the
 internals. But doing that will probably take a week and it’s hard to justify
 that kind of time sink. I should just bite the bullet and use PIL or something
-as a stopgap.  After picking up new glasses and going to the jobs meeting, we
-actually had the first 120 course meeting. Things look promising, but time-
-consuming — I left at 9:30 PM, half an hour after the scheduled end of the
-class, and pretty much all of the undergraduates were still there. It looks
-like it’s going to be a lot of fun to work with them. I just hope there are
-enough hours in the day to do that justice while still accomplishing something
-resembling real research.
+as a stopgap.
+
+After picking up new glasses and going to the jobs meeting, we actually had
+the first 120 course meeting. Things look promising, but time- consuming — I
+left at 9:30 PM, half an hour after the scheduled end of the class, and pretty
+much all of the undergraduates were still there. It looks like it’s going to
+be a lot of fun to work with them. I just hope there are enough hours in the
+day to do that justice while still accomplishing something resembling real
+research.

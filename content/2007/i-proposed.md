@@ -28,18 +28,24 @@ have an adviser. With luck, I’ll get some feedback from Geoff before I submit
 the proposal (which I do by … emailing it to Geoff). But if I don’t, the worst
 case is that I asked for something silly, someone has to fix things for me,
 and I make fairly inefficient use of ATA time. I can live with all that for
-now.  I also semi-volunteered to go up to Hat Creek next week to cover part of
-the period while the on-site astronomer is on vacation. Not sure what that’ll
-be like. I have visions of learning a lot about ATA operations _and_ getting
-lots of useful work done (like restructuring OmegaPlot! … I have the feeling
-that this is going to become the white whale of my non-requisite research
-work) but, knowing how such visions have turned out during previous observing
-runs … well, we’ll see.  Once the proposal is squared away, my next priority
-is to write the 120 aperture photometry lab. I think I can do that fairly
-quickly, but it is the kind of thing I get pretty OCD about, and frankly I
-think it’s something that it’s good to be OCD about. That could well be all I
-work on until heading off to Hat Creek. Once I’m there, there’s this idea that
-I can automate the checking of antenna gains; then I’ll probably have my
-broadband spectra data to work with; then there will be followup proposals and
-analysis … Well, my work is cut out for me.  **Edit:** God damnit, two
-paragraphs concluded by “… well, xxx yyy.” Way to avoid being formulaic.
+now.
+
+I also semi-volunteered to go up to Hat Creek next week to cover part of the
+period while the on-site astronomer is on vacation. Not sure what that’ll be
+like. I have visions of learning a lot about ATA operations _and_ getting lots
+of useful work done (like restructuring OmegaPlot! … I have the feeling that
+this is going to become the white whale of my non-requisite research work)
+but, knowing how such visions have turned out during previous observing runs …
+well, we’ll see.
+
+Once the proposal is squared away, my next priority is to write the 120
+aperture photometry lab. I think I can do that fairly quickly, but it is the
+kind of thing I get pretty OCD about, and frankly I think it’s something that
+it’s good to be OCD about. That could well be all I work on until heading off
+to Hat Creek. Once I’m there, there’s this idea that I can automate the
+checking of antenna gains; then I’ll probably have my broadband spectra data
+to work with; then there will be followup proposals and analysis … Well, my
+work is cut out for me.
+
+**Edit:** God damnit, two paragraphs concluded by “… well, xxx yyy.” Way to
+avoid being formulaic.
