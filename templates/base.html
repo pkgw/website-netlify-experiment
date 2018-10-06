@@ -42,9 +42,18 @@
     <footer>
       <div class="maxwidth">
         <p>Copyright {{ now() | date(format="%Y") }} Peter K. G. Williams.
-          Header image courtesy of NRAO/AUI and Rick White / STScI, Bob Becker
-          / IGPP/LLNL &amp; UC-Davis, and David Helfand / Columbia. Site
-          generated
+          <a rel="license"
+          href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative
+          Commons License" style="border-width:0"
+          src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+          This work is licensed under a <a rel="license"
+          href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+          Commons Attribution-NonCommercial-ShareAlike 4.0 International
+          License</a>. Header image courtesy of NRAO/AUI and Rick White /
+          STScI, Bob Becker / IGPP/LLNL &amp; UC-Davis, and David Helfand /
+          Columbia.
+          <a href="{{ get_url(path="feed") | safe }}">RSS/Atom feed
+          available</a>. Site generated
           by <a href="https://www.getgutenberg.io/">Gutenberg</a>.</p>
       </div>
     </footer>
