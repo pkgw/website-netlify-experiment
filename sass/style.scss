@@ -234,6 +234,26 @@ div.content {
   padding-left: 0.5rem;
 }
 
+// We configure Gutenberg to insert anchor links for headers in the Markdown.
+// These show up as `a.gutenberg-anchor` tags inside the <hN> tag to the left
+// of the header text.
+
+a.gutenberg-anchor {
+  visibility: hidden;
+  text-decoration: none;
+  font-size: 80%;
+  margin-left: 0.2em; // note: intentionally `em` here
+}
+
+h1:hover a.gutenberg-anchor,
+h2:hover a.gutenberg-anchor,
+h3:hover a.gutenberg-anchor,
+h4:hover a.gutenberg-anchor,
+h5:hover a.gutenberg-anchor,
+h6:hover a.gutenberg-anchor {
+  visibility: visible;
+}
+
 // Some special bits on the index page
 
 .lede {
