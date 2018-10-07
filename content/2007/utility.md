@@ -20,7 +20,7 @@ radio emissions in that frequency region. This is actually a favor to radio
 astronomers; the very important molecular hydrogen hyperfine transition line
 is at 1420 MHz.)
 
-{% float_image(src="/~peter/wp/wp-content/uploads/2007/10/pretty.jpg") %}
+{% float_image(path="wp/wp-content/uploads/2007/10/pretty.jpg") %}
 M33 in B and V
 {% end %}
 
