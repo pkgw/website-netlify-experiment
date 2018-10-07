@@ -23,10 +23,9 @@ the next lab; the students will use the frames that we took to make a classic
 CCD linearity plot. From our quick look at the data, this will be a snap.
 
 Did some reading for Galactic Dynamics and picked a problem, but didn’t really
-pay much attention. There was a bunch of math with potentials, and,
-[like Thea](http://somethinglikeanastronomer.blogspot.com/2007/09/monday-news.html),
-it turns out I don’t think I know how to calculate surface densities. That’s
-about the extent of what I absorbed from it.
+pay much attention. There was a bunch of math with potentials, and, like Thea
+(*dead blog link removed*), it turns out I don’t think I know how to calculate
+surface densities. That’s about the extent of what I absorbed from it.
 
 Looked at the Star Formation problem set. Looks like a good set (yes, I feel
 like I have an eye as to the quality of the construction of a problem set by

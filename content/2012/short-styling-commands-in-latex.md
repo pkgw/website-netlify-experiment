@@ -25,9 +25,8 @@ although pipes do seem to be the standard choice for the magic character.
 (Primary credit to [StackExchange](http://tex.stackexchange.com/q/40513).)
 
 If you want to do this to render the enclosed characters in “verbatim” format,
-the
-[shortvrb](http://www.math.washington.edu/tex-archive/help/Catalogue/entries/shortvrb.html)
-style file seems to take care of things.
+the [shortvrb](https://ctan.org/pkg/shortvrb?lang=en) package seems to take
+care of things.
 
 According to
 [this StackExchange answer](http://tex.stackexchange.com/a/40687), the above

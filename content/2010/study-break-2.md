@@ -10,4 +10,4 @@ wp_shortlink = "/?p=349"
 
 Posted without explicit comment.
 
-![](/~peter/wp/wp-content/uploads/2010/08/hate.png "Some days ...")
+!{{ulink(path="wp/wp-content/uploads/2010/08/hate.png", text="")}}

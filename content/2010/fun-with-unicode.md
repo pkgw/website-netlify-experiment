@@ -34,8 +34,8 @@ keyboard that you tell the OS to interpret specially — I like to use the
 - “<compose> <dash> >” yields →
 
 Every graphical application that I’ve tried supports input this way.
-[This table](http://www.hermit.org/Linux/ComposeKeys.html) lists some of the
-many special characters you can construct with a compose key.
+[This table](https://help.ubuntu.com/community/GtkComposeTable) lists some of
+the many special characters you can construct with a compose key.
 
 Some useful special characters aren’t supported by the compose key, though,
 including most of the Greek letters. It turns out that most programs that

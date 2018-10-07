@@ -9,14 +9,14 @@ wp_shortlink = "/?p=227"
 +++
 
 I thought I’d flag that the article about the oversupply of US PhDs that
-[appeared in Scientific American in April](http://www.scientificamerican.com/article.cfm?id=does-the-us-produce-too-m)
+[appeared in Scientific American in April](https://www.scientificamerican.com/article/does-the-us-produce-too-m/)
 and that [I discussed](./2010/does-the-u-s-produce-too-many-scientists.md) has
-[resurfaced in expanded form](http://www.miller-mccune.com/science/the-real-science-gap-16191/)
-(same author, Beryl Lieff Benderly) in the
-[Miller-McCune online magazine](http://miller-mccune.com/). The basic thrust
-is essentially the same as before: the crisis in scientific careers is that
-there aren’t sufficient (or, perhaps, worthy) career opportunities for newly
-minted PhDs, not that there are insufficient numbers of potential American
+[resurfaced in expanded form](https://psmag.com/social-justice/the-real-science-gap-16191)
+(same author, Beryl Lieff Benderly) in the Miller-McCune (now
+[Pacific Standard](https://psmag.com/) online magazine. The basic thrust is
+essentially the same as before: the crisis in scientific careers is that there
+aren’t sufficient (or, perhaps, worthy) career opportunities for newly minted
+PhDs, not that there are insufficient numbers of potential American
 scientists.
 
 I still agree that the thesis is correct, though this article in particular

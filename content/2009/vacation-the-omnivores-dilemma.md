@@ -15,9 +15,9 @@ little inaccurate to say that I “saw” it, but it was impressive all the same
 I’ll post some pictures in a few days when I get back to Berkeley.
 
 I read Michael Pollan’s
-[The Omnivore’s Dilemma](http://michaelpollan.com/omnivore.php) during the
-many long train and plane rides in the trip. I thought it was pretty good.
-Three notes:
+[The Omnivore’s Dilemma](https://en.wikipedia.org/wiki/The_Omnivore%27s_Dilemma)
+during the many long train and plane rides in the trip. I thought it was
+pretty good. Three notes:
 
 1. Scientifically, I was interested in the argument that chemical fertilizers
    represent a large petroleum-based energy input into the food chain that’s a

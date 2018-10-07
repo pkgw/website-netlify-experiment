@@ -10,9 +10,8 @@ wp_shortlink = "/?p=160"
 
 Well, I didn’t do a very good job of giving advance notice, but I’m giving a
 public talk tomorrow to the
-[Peninsula Astronomical Society](http://www.foothill.fhda.edu/ast/pas.htm) in
-Los Altos. The topic and description are the same as that of the talk I gave
-in June:
+[Peninsula Astronomical Society](http://www.pastro.org/) in Los Altos. The
+topic and description are the same as that of the talk I gave in June:
 
 > *Exploring the Invisible Universe: The Past and Future of Radio Astronomy*
 >

@@ -15,10 +15,9 @@ were some weird large amplitude fluctuations over the course of the night, but
 hopefully those weren’t symptomatic of a real technical or meteorological
 issue.
 
-I actually got a couple of things done, work-wise. Wrote up a
-[draft checklist](http://astro.berkeley.edu/~pkwill/nickel_checklist.html) for
-remote Nickel ops and read a bit about star formation. But more importantly, I
-caught up on last week’s episode of The Office.
+I actually got a couple of things done, work-wise. Wrote up a draft checklist
+for remote Nickel ops and read a bit about star formation. But more
+importantly, I caught up on last week’s episode of The Office.
 
 Oh, Friday was pretty much a non-day from catching up on sleep from the
 previous night’s Lick run and watching baseball in the afternoon. And Thursday

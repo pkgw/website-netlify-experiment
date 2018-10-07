@@ -10,15 +10,14 @@ wp_shortlink = "/?p=17"
 
 Hey, awesome. I feel like I’ve done a lot today and it’s only 8 PM! Wowee!
 
-In particular, I just sent out
-[an email](http://mailman.seti.org/private/atauser/2007-September/001389.html)
-to the ATA users list summarizing my results with the antenna gains. People
-seemed pretty interested in the numbers, which is always encouraging. I just
-hope that the numbers are actually real. I’d imagine the antenna gains to be
-fairly constant, not bouncing around by 10%, because as far as I know they
-measure purely properties of the physical antenna, feed, and LNA. Actually, on
-the other hand, I think the system temperature plays a role too? In which case
-the sky temperature and all other sorts of factors could play a role. Hm.
+In particular, I just sent out an email to the ATA users list summarizing my
+results with the antenna gains. People seemed pretty interested in the
+numbers, which is always encouraging. I just hope that the numbers are
+actually real. I’d imagine the antenna gains to be fairly constant, not
+bouncing around by 10%, because as far as I know they measure purely
+properties of the physical antenna, feed, and LNA. Actually, on the other
+hand, I think the system temperature plays a role too? In which case the sky
+temperature and all other sorts of factors could play a role. Hm.
 
 Besides that, I also started working on my ATA observing proposal very
 preliminarily. I’m not sure how fully-thought-through it needs to be, but I’ll

@@ -9,7 +9,7 @@ wp_shortlink = "/?p=771"
 +++
 
 As a Linux user, I’ve long been making slides for my talks in
-[LibreOffice Impress](http://www.libreoffice.org/features/impress/) (formerly
+[LibreOffice Impress](https://www.libreoffice.org/discover/impress/) (formerly
 OpenOffice Impress), the Free Software clone of PowerPoint. I don’t envy
 _anyone_ who’s trying to maintain compatibility with Microsoft Office
 products, but frankly Impress has been slow and frustrating and buggy, and my

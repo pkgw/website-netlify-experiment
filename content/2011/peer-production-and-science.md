@@ -41,14 +41,14 @@ a very vague feeling, and this seems like a topic where superficial thoughts
 are not likely to be correct.
 
 The next thing on my list to read might be Hal Varmus’
-“[E-Biomed Proposal](http://www.nih.gov/about/director/pubmedcentral/ebiomedarch.htm)”,
+“[E-Biomed Proposal](https://profiles.nlm.nih.gov/ps/retrieve/ResourceMetadata/MVBBWN)”,
 referenced by Benkler’s article, which seems to give Hal’s thoughts on what
 science might, or should, look like in the future. But it is late, and the
 proposal is long.
 
 (Benkler’s paper springboards from a famous work by
 [Ronald Coase](http://en.wikipedia.org/wiki/Ronald_Coase),
-“[The Nature of the Firm](http://www.jstor.org/stable/2626876)”, which
+“[The Nature of the Firm](https://www.jstor.org/stable/2626876?seq=1)”, which
 considers the questions of why firms need to exist in a market economy
 [“couldn’t everyone just be their own independent little entrepreneur?”],
 which is one of those good questions that I hadn’t even thought to ask before.

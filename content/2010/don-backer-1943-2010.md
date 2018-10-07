@@ -26,4 +26,4 @@ astronomers, of which I’m fortunate to count myself as a member. I’ll miss h
 a lot.
 
 (The Nature blog published a short obituary for Don
-[here](http://blogs.nature.com/news/thegreatbeyond/2010/07/don_backer_astronomer_and_disc_1.html).)
+[here](http://blogs.nature.com/news/2010/07/don_backer_astrophysicist_and.html).)

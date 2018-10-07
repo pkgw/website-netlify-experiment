@@ -48,7 +48,7 @@ thing, but  I did need to spend some solid time planning and writing the “lab
 manual”.
 
 The manual in question is
-[here](/~peter/files/git-lab-handout.pdf), with its
+{{ulink(path="files/git-lab-handout.pdf", text="here")}}, with its
 [full source code on GitHub](https://github.com/pkgw/git-lab). I was very
 happy with what I put together. I’d like to think I explained the concepts
 well, and I think the “lab manual” style ended up working out as well as I’d
@@ -57,7 +57,7 @@ hoped. Furthermore, I stole some font ideas from
 (in turn borrowing from [here](https://github.com/aleifer/dissertation) and
 [here](https://github.com/suchow/Dissertate)) and I think the resulting
 document looks pretty snazzy too.
-[Check it out!](/~peter/files/git-lab-handout.pdf)
+{{ulink(path="files/git-lab-handout.pdf", text="Check it out!")}}
 
 And I was extremely happy with how the tutorial went, too. As you’d expect,
 some students got farther than others, but I don’t think anyone got

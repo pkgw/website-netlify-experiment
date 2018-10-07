@@ -8,11 +8,10 @@ wp_rel_permalink = "/2013/05/numbered-reverse-chronological-cv-listings-with-bib
 wp_shortlink = "/?p=744"
 +++
 
-Prompted by a [yahapj](/2011/12/introducing-yahapj/ "Introducing:
-yahapj")\-related question from [Máté
-Ádámkovics](http://astro.berkeley.edu/~madamkov/), I spent a little bit of
-time this evening figuring out how to get a “fancy” publication listing from
-BibTeX, where the papers are listed like:
+Prompted by a [yahapj](./2011/introducing-yahapj.md)-related question from
+[Máté Ádámkovics](http://astro.berkeley.edu/~madamkov/), I spent a little bit
+of time this evening figuring out how to get a “fancy” publication listing
+from BibTeX, where the papers are listed like:
 
 ```
 [3] Some guy and me, 2013

@@ -73,8 +73,8 @@ chain, mostly in the form of software:
 - Time spent modernizing the MIRIAD build system, fixing bugs, maintaining its
   port to Mac OS X (and I don’t even use a Mac! That’s how nice of a guy I
   am.)
-- [miriad-python](http://astro.berkeley.edu/~pkwill/miriad-python/), a Python
-  binding for MIRIAD that I use all the time
+- [miriad-python](https://www.cfa.harvard.edu/~pwilliam/miriad-python/), a
+  Python binding for MIRIAD that I use all the time
 - ATA data analysis tools built on miriad-python: calctsys, dualscal, qimage,
   many and varied one-off tools
 - My UV data visualizer/editor

@@ -71,9 +71,9 @@ we can get radio emission from even colder objects!
 
 The submitted version of the paper is available not only on
 [arxiv.org](http://arxiv.org/abs/1502.06610), but also
-[on my personal website as an HTML document](/webtex/goreham/) using the
-“Webtex” system I’ve been developing. My goal here is to make it so that
-scientific articles are better looking and more valuable on the computer
+{{ulink(path="webtex/goreham", text="on my personal website as an HTML document")}}
+using the “Webtex” system I’ve been developing. My goal here is to make it so
+that scientific articles are better looking and more valuable on the computer
 screen than on paper; all of our writing tools are designed to make printed
 documents, leading to a bunch of practices that don’t make sense in the
 electronic context (footnotes!). I’ve found it hard to articulate why I think

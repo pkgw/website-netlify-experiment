@@ -9,8 +9,7 @@ wp_shortlink = "/?p=113"
 +++
 
 I found this [cute post](http://ed.fnal.gov/projects/scientists/) linked to
-from the
-[Berkeley Science Review blog](http://sciencereview.dreamhosters.com/blog/) —
+from the [Berkeley Science Review](http://berkeleysciencereview.com/) blog —
 it’s a set of pictures and descriptions of scientists made by a group of
 seventh graders, before and after a visit to FermiLab. Before: “hair standing
 straight up and a mean wicked laugh”. After: “Actually, scientists are normal

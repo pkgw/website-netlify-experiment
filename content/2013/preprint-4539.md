@@ -76,7 +76,7 @@ be than the Google search box.
 Sure enough, just a day after I submitted a question in the CfA “Ask a
 Librarian” online form, I got a phenomenally helpful response from Maria
 McEachern. She had fetched the hardcopy preprint from the Harvard Depository,
-sent me [a nice OCR’d scan of it](/wp/wp-content/uploads/2013/08/cfa4539.pdf),
+sent me {{ulink(path="wp/wp-content/uploads/2013/08/cfa4539.pdf", text="a nice OCR’d scan of it")}},
 attempted to chase down the published form (also coming up empty), and even
 emailed the coauthor, Konstantin Grankin, to see if he could he could shed
 some light on the situation.
@@ -99,9 +99,8 @@ replied in just a few days, filling in the last missing piece of the puzzle:
 
 Konstantin’s email included a link to
 [Charles Prosser’s AAS obituary](http://aas.org/obituaries/charles-franklin-prosser-jr-1963-1998),
-written by his frequent collaborator
-[John Stauffer](http://web.ipac.caltech.edu/staff/stauffer/). It makes for
-compelling reading in its way:
+written by his frequent collaborator John Stauffer. It makes for compelling
+reading in its way:
 
 > […] Charles worked harder and put in longer hours than all but a few
 > present-day professional astronomers. He could usually be found at the
@@ -165,10 +164,10 @@ built out of lots of tiny steps, not all coming in the form of new
 experimental results; I’d like to think that this is one of them.
 
 Here’s the
-[full text of CfA Preprint 4539](/~peter/wp/wp-content/uploads/2013/08/cfa4539.pdf),
+{{ulink(path="wp/wp-content/uploads/2013/08/cfa4539.pdf", text="full text of CfA Preprint 4539")}},
 including the OCR information so that the text and tables can be easily
 copied. (**Update**: this is now fully redundant with the ADS version.) Here’s
-[a preliminary version of the data tables](/wp/wp-content/uploads/2013/08/cfa4539-data-preliminary.tar.gz)
+{{ulink(path="wp/wp-content/uploads/2013/08/cfa4539-data-preliminary.tar.gz", text="a preliminary version of the data tables")}}
 that I submitted to the CDS — there are likely improvements to be made in the
 metadata to match the CDS formats, but the data should be fully usable and
 complete.

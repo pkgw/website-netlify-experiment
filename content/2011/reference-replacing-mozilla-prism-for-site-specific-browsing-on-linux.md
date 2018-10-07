@@ -9,7 +9,7 @@ wp_shortlink = "/?p=457"
 +++
 
 [Mozilla](http://mozilla.org/) briefly offered a little program called
-[Prism](http://prism.mozillalabs.com/) that let you build a
+[Prism](http://www.mozillalabs.com/en-US/prism/) that let you build a
 [site-specific browser](http://en.wikipedia.org/wiki/Site-specific_browser)
 (SSB): a browser with a stripped-down interface that is intended for
 interacting with one particular site. The idea is that if you plan to stay
@@ -19,12 +19,12 @@ sound silly, but I’ve found stripped-down SSB interfaces much nicer than those
 of regular browsers, when they’re appropriate.
 
 Mozilla says it’s dropped Prism in favor of a project called
-[Chromeless](http://mozillalabs.com/chromeless/). Unfortunately Chromeless
-seems to have very different goals, and it appears to have no support at all
-for saying, “Please make an SSB for this webpage now.” The development of
-Chromeless has also been very slow recently. Meanwhile, Prism isn’t entirely
-compatible with Firefox 3 and above, which has been bad news for my SSB-loving
-self.
+[Chromeless](http://www.mozillalabs.com/en-US/chromeless/index.html).
+Unfortunately Chromeless seems to have very different goals, and it appears to
+have no support at all for saying, “Please make an SSB for this webpage now.”
+The development of Chromeless has also been very slow recently. Meanwhile,
+Prism isn’t entirely compatible with Firefox 3 and above, which has been bad
+news for my SSB-loving self.
 
 I’ve looked into this a bit, and it turns out that
 with recent versions of [Firefox](http://www.mozilla.org/firefox/), the

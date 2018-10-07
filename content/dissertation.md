@@ -13,7 +13,7 @@ semester. [ProQuest](http://proquest.com/) archives
 Here’s an unofficial version, with slight formatting tweaks to make it more
 readable than the version required by the university:
 
-> [Exploring the Dynamic Radio Sky with the Allen Telescope Array](/wp/wp-content/uploads/2013/04/unofficial20150216.pdf)
+> {{ulink(path="wp/wp-content/uploads/2013/04/unofficial20150216.pdf", text="Exploring the Dynamic Radio Sky with the Allen Telescope Array")}}
 > (PDF, 20 MB, 194 pp)
 
 Here’s the outline:
@@ -27,7 +27,7 @@ Here’s the outline:
 - **Chapter 3: The ATA Commensal Observing System** — also available as
   [ATA Memo #89](http://adsabs.harvard.edu/abs/2012arXiv1201.5413W)
   (arxiv:[1201.5413](http://arxiv.org/abs/1201.5413),
-  [PDF](http://ral.berkeley.edu/ata/memos/memo89.pdf))
+  [PDF](https://www.seti.org/sites/default/files/ATA-memo-series/memo89.pdf))
 - **Chapter 4: Evaluating the Calorimeter Model with Broadband, Continuous
   Spectra of Starburst Galaxies** — previously published as
   [2010 ApJ 710 1462](http://adsabs.harvard.edu/abs/2010ApJ...710.1462W)
@@ -49,16 +49,16 @@ Here’s the outline:
 - **Appendix B: Probability of Constancy From a Set of Measurements** —
   published with Chapter 5
 
-I also maintain [a complete list of my publications](/%7Epeter/pubs/).
+I also maintain [a complete list of my publications](./pubs.md).
 
 
 ## Revision History of the Unofficial Dissertation
 
-* [2015/02/16](/wp/wp-content/uploads/2013/04/unofficial20150216.pdf):
+* {{ulink(path="wp/wp-content/uploads/2013/04/unofficial20150216.pdf", text="2015/02/16")}}:
   prettify internal links
-* [2014/02/03](/wp/wp-content/uploads/2014/02/unofficial20140203.pdf): add a
+* {{ulink(path="wp/wp-content/uploads/2014/02/unofficial20140203.pdf", text="2014/02/03")}}: add a
   link to the ProQuest copy in the first few pages
-* [2012/12/20](/wp/wp-content/uploads/2013/04/unofficial20121220.pdf): add
+* {{ulink(path="wp/wp-content/uploads/2013/04/unofficial20121220.pdf", text="2012/12/20")}}: add
   live links to the published versions of papers in chapter footnotes
-* [2012/08/06](/wp/wp-content/uploads/2013/04/unofficial20120806.pdf):
+* {{ulink(path="wp/wp-content/uploads/2013/04/unofficial20120806.pdf", text="2012/08/06")}}:
   original version

@@ -11,7 +11,7 @@ wp_shortlink = "/?p=201"
 Hot on the heels of Nature’s Astro2010 Decadal Review mini-panel not
 discussing career issues, I was pointed to an article in Scientific American
 that does just that:
-[“Does the U.S. Produce Too Many Scientists?”](http://www.scientificamerican.com/article.cfm?id=does-the-us-produce-too-m)
+[“Does the U.S. Produce Too Many Scientists?”](https://www.scientificamerican.com/article/does-the-us-produce-too-m/)
 by Beryl Lieff Benderly.
 
 The article’s response to its titular question is a strong “yes”, in contrast

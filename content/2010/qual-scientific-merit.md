@@ -101,7 +101,7 @@ The more detailed answer depends upon consideration of the competition:
   [1986](http://adsabs.harvard.edu/abs/1986AJ.....92..371G)
 - McLaughlin+ Parkes multibeam piggyback:
   [2006](http://adsabs.harvard.edu/abs/2006Natur.439..817M),
-  [2010](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010MNRAS.401.1057K)a,
+  [2010](http://adsabs.harvard.edu/abs/2010MNRAS.401.1057K)a,
   [2010b](http://adsabs.harvard.edu/abs/2010MNRAS.402..855B)
 - Cordes Arecibo pulsar survey:
   [2006](http://adsabs.harvard.edu/abs/2006ApJ...637..446C)
@@ -138,7 +138,7 @@ empirically, yes, because people are doing it.
 - Ditto for with AMI (e.g.
   [Pooley 2006](http://adsabs.harvard.edu/abs/2006smqw.confE..19P))
 - And the RATAN-600 (mentioned in
-  [Tavani+ 2009](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009Natur.462..620T),
+  [Tavani+ 2009](http://adsabs.harvard.edu/abs/2009Natur.462..620T),
   no direct ref)
 
 How is our project different than these? The OVRO monitoring seems to generate
@@ -150,11 +150,11 @@ with X-ray and observations.
 
 Will this different approach yield novel results? This also starts getting a
 bit tricky to address, and starts getting into the “feasibility” domain.
-[Szostek and Zdziarski 2007](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007MNRAS.375..793S)
+[Szostek and Zdziarski 2007](http://adsabs.harvard.edu/abs/2007MNRAS.375..793S)
 argue that there won’t be orbital modulation of Cyg X-3’s emission, but not
 because of scattering effects, so shorter-timescale variability would still be
 possible due to _e.g._ jet variability.
-[Hjalmarsdotter+ 2004](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2004RMxAC..20..216H)
+[Hjalmarsdotter+ 2004](http://adsabs.harvard.edu/abs/2004RMxAC..20..216H)
 says that periods between 0.01 and 1000 days were searched for in a Ryle
 telescope run around 2002 Dec 22-23 and that none were found, with no word on
 what the variability may have looked like. (Given the lower limit to their

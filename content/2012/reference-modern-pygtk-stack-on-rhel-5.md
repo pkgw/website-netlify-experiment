@@ -45,7 +45,7 @@ here’s the ordered list of dependencies that you’ll need to install:
 14. [pygobject 2.28.6](http://ftp.gnome.org/pub/gnome/sources/pygobject/2.28/pygobject-2.28.6.tar.xz)
     with
     [this patch](http://mail-index.netbsd.org/pkgsrc-users/2012/02/08/msg015675.html)
-    and [this optional one](/wp/wp-content/uploads/2014/03/gobj-warn.diff)
+    and {{ulink(path="wp/wp-content/uploads/2014/03/gobj-warn.diff", text="this optional one")}}.
 
 15. [py2cairo 1.10.0](http://www.cairographics.org/releases/py2cairo-1.10.0.tar.bz2)
     — uses “waf” build tool that may require the futzing mentioned

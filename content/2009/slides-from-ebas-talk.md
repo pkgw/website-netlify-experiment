@@ -9,7 +9,7 @@ wp_shortlink = "/?p=149"
 +++
 
 And I do mean _slides_. I’ve uploaded a
-[PDF version](/~peter/wp/wp-content/uploads/2009/06/EBAS-Talk-June-2009.pdf)
+{{ulink(path="wp/wp-content/uploads/2009/06/EBAS-Talk-June-2009.pdf", text="PDF version")}}
 (15 MB) of the slides, but they are essentially useless without knowing the
 plan of the talk, since there’s virtually no text on the slides. I found that
 this situation arose pretty naturally from my strategy of outlining the talk

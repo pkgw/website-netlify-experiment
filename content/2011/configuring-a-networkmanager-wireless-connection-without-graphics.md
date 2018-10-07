@@ -17,7 +17,7 @@ updates available that might fix the problem. If your system uses
 how to accomplish this.
 
 The
-[NM SystemSettings page](http://live.gnome.org/NetworkManager/SystemSettings)
+[NM SystemSettings page](https://wiki.gnome.org/Projects/NetworkManager/SystemSettings)
 and
 [settings specification document](http://projects.gnome.org/NetworkManager/developers/settings-spec-08.html)
 are useful references, but don’t pull the full answer together. You want to

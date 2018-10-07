@@ -13,13 +13,13 @@ Because nothing says “fun” like SSH tricks!
 More and more organizations that use SSH are restricting it through “login”
 (aka “bastion”) hosts: locked-down machines that are the only bridge between
 the wilds of the Internet and internal networks. These often ban
-[SSH public-key authentication](http://kimmo.suominen.com/docs/ssh/), making
-you type in your password for every login. This can get to be a hassle if
-you’re frequently logging into your internal network. (As a side note, the
+[SSH public-key authentication](https://www.ssh.com/ssh/public-key-authentication),
+making you type in your password for every login. This can get to be a hassle
+if you’re frequently logging into your internal network. (As a side note, the
 link above is to the best explanation I could find, but I imagine it’d still
 be confusing for a newbie. Someone needs to write clear pedagogical material
 on SSH
-with [public keys](http://en.wikipedia.org/wiki/Public-key_cryptography)!)
+with [public keys](http://en.wikipedia.org/wiki/Public-key_cryptography)!)
 
 There’s a somewhat-new feature in OpenSSH that can make life easier, though.
 You can now configure it to automatically “share” preexisting connections: if
@@ -52,7 +52,7 @@ While I’m at it, a few other SSH tips:
 - If you log in to remote computers a lot, the _single biggest_ favor you can
   do yourself is to learn how to use
   [screen](http://www.gnu.org/software/screen/) or
-  [tmux.](http://tmux.sourceforge.net/)
+  [tmux](https://github.com/tmux/tmux).
 
 - Despite the lack of good introductory materials, it’s also really worthwhile
   to learn how public-key authentication works, and to use SSH keys when

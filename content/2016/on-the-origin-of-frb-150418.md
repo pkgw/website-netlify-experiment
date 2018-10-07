@@ -14,5 +14,5 @@ came out claiming a precise localization for a Fast Radio Burst, FRB 150418,
 implying a cosmological distance and likely origin in a compact object merger.
 My boss Edo Berger and I believe that this interpretation cannot be justified
 by the data, and have written
-[this note](/wp/wp-content/uploads/2016/02/note-rev1.pdf) describing our
-reasoning. More anon once we get some data to test our claims!
+{{ulink(path="wp/wp-content/uploads/2016/02/note-rev1.pdf", text="this note")}}
+describing our reasoning. More anon once we get some data to test our claims!

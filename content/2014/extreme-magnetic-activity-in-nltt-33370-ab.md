@@ -64,7 +64,7 @@ system in bands across the EM spectrum: radio, optical, the
 [Hα](http://en.wikipedia.org/wiki/H-alpha) line, UV, and X-ray. These all give
 complementary handles on the different ways that different parts of the star
 are affected by its magnetism. While studies of this kind (including
-[a recent one of ours](/2013/10/trends-in-ultracool-dwarf-magnetism-papers-i-and-ii/))
+[a recent one of ours](./2013/trends-in-ultracool-dwarf-magnetism-papers-i-and-ii.md))
 often rely on single brightness measurements taken at quasi-random times, one
 of the hallmarks of magnetic activity is erratic variability on many time
 scales, so it can be hard to interpret such measurements. It’s far better to
@@ -77,7 +77,7 @@ research is that you’d better be pushing the boundaries of what’s possible.
 
 The centerpiece observations in our study were long stares with the upgraded
 [Very Large Array](https://public.nrao.edu/telescopes/vla) (radio) and the
-[MEarth](/~peter/2014/09/extreme-magnetic-activity-in-nltt-33370-ab/www.cfa.harvard.edu/MEarth/)
+{{ulink(path="2014/09/extreme-magnetic-activity-in-nltt-33370-ab/www.cfa.harvard.edu/MEarth/", text="MEarth")}}
 observatory (optical) in 2012 and 2013. In 2013 we added simultaneous X-ray
 monitoring with the
 [_Chandra_](http://www.nasa.gov/mission_pages/chandra/main/) space telescope.

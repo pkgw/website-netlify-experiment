@@ -31,7 +31,7 @@ you want to do: log CV-type activities — your academic output — in some kind
 of simple data format, and populate some kind of LaTeX template with
 information from the log. While we’re at it, there’s no need to restrict
 ourselves to LaTeX — we can also fill in an HTML template for
-[slick, web- native versions of the same information](/pubs/).
+[slick, web- native versions of the same information](./pubs.md).
 
 I’ve actually gone and done this. There are a lot of ways you could implement
 things, but here’s what I do:
@@ -61,7 +61,7 @@ As is often the case, most of the work in this project involved making the
 system _less_ complicated. I also spent a lot of time
 [documenting the final design](https://github.com/pkgw/worklog-tools/#readme).
 Finally, I also worked to put together some LaTeX templates that I think are
-quite nice — you can [judge](/files/cv.pdf) the [results](/files/pubs.pdf) for
+quite nice — you can {{ulink(path="files/pubs.pdf", text="judge the results")}} for
 yourself.
 
 Is any of this relevant to you? Yes! I sincerely think this system is

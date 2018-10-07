@@ -90,4 +90,4 @@ them myself. Standing on the shoulders of giants and all that.
   [IERS Technical Note #36](http://www.iers.org/nn_11216/IERS/EN/Publications/TechnicalNotes/tn36.html).
 - Standish, E.
   [1998 A&A 336 381](http://adsabs.harvard.edu/abs/1998A&A...336..381S).
-- [_Tempo_ pulsar timing software](http://www.atnf.csiro.au/people/pulsar/tempo/).
+- [_Tempo_ pulsar timing software](http://tempo.sourceforge.net/).

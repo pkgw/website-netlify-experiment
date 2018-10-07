@@ -46,9 +46,9 @@ upgrades”, according to the RPM changelog.
 
 You might think that there would be a text-mode way to change the setting. And
 it seems that there should be. The `org.gnome.desktop.session.session-name`
-[GSetting](http://live.gnome.org/GnomeGoals/GSettingsMigration) needs to
-changed from “gnome” to “gnome-fallback”. From my read of the docs, it should
-be possible to do this by running the command:
+[GSetting](https://wiki.gnome.org/HowDoI/GSettings) needs to be changed from
+“gnome” to “gnome-fallback”. From my read of the docs, it should be possible
+to do this by running the command:
 
 ```sh
 gsettings set org.gnome.desktop.session session-name \'gnome-fallback\'

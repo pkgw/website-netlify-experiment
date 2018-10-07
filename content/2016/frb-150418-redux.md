@@ -9,7 +9,7 @@ wp_shortlink = "/?p=980"
 +++
 
 Following up on
-[my note from a month ago](/2016/02/on-the-origin-of-frb-150418/), Edo Berger
+[my note from a month ago](./2016/on-the-origin-of-frb-150418.md), Edo Berger
 and I have obtained follow-up data and written a paper on the claimed host
 association of FRB 150418. That paper is now in press in ApJ Letters, and
 [a preprint is available on arxiv.org](http://arxiv.org/abs/1602.08434v3). Our

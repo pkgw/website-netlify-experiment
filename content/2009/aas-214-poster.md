@@ -16,6 +16,6 @@ abstract for the poster isn’t on ADS quite yet, but I think it should show up
 identifier was #601.03.
 
 Here’s a
-[PDF](/~peter/wp/wp-content/uploads/2009/06/poster.pdf) of
+{{ulink(path="wp/wp-content/uploads/2009/06/poster.pdf", text="PDF")}} of
 this poster (2.5 MB). As before, this is unpublished and unreviewed, and it
 describes _extremely_ preliminary work.

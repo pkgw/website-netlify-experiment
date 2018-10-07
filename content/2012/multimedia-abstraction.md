@@ -10,8 +10,8 @@ wp_shortlink = "/?p=538"
 
 I want to call out something neat I saw on
 [astro-ph](http://arxiv.org/list/astro-ph/recent) the other day.
-[Linda Watson](https://www.cfa.harvard.edu/~lwatson/) and collaborators posted
-a paper,
+[Linda Watson](http://www.sc.eso.org/~lwatson/) and collaborators posted a
+paper,
 [Properties of Bulgeless Disk Galaxies II. Star Formation as a Function of Circular Velocity](http://arxiv.org/abs/1204.1555),
 with the following comment:
 

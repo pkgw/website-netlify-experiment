@@ -93,12 +93,10 @@ That being said, here’s the recipe:
       variants. Almost everybody links to the version mentioned on
       [this XDA thread](http://forum.xda-developers.com/showthread.php?t=682828),
       but the version described there is incredibly out of date. If you trace
-      the downloads, they lead to
-      [this listing](http://goo-inside.me/superuser/) page, which has more
-      recent versions. The file called `Superuser-3.0.7-efghi-signed.zip`
-      worked for me. (It was at this point that I realized that not only are
-      Android OS versions named after desserts, but those names proceed in
-      alphabetical order.)
+      the downloads, you can find site with more recent versions. The file
+      called `Superuser-3.0.7-efghi-signed.zip` worked for me. (It was at this
+      point that I realized that not only are Android OS versions named after
+      desserts, but those names proceed in alphabetical order.)
 
    7. Set up a [udev](http://en.wikipedia.org/wiki/Udev) file allowing the
       `fastboot` program to identify your phone. This seems a little silly but

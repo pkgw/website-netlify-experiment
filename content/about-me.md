@@ -72,9 +72,9 @@ arise.
 
 Finally, I’ve always been interested in computers, scientific communication,
 and especially the intersection between the two. I
-[write my talks in HTML](/~peter/2013/09/slides-for-scientific-talks-in-html/)
+{{ulink(path="2013/09/slides-for-scientific-talks-in-html/", text="write my talks in HTML")}}
 which allows me to include
-[fancy interactive animations](/~peter/2017/07/variable-and-polarized-radio-emission-from-the-t6-brown-dwarf-wisep-j112254-73255021-5/).
+{{ulink(path="2017/07/variable-and-polarized-radio-emission-from-the-t6-brown-dwarf-wisep-j112254-73255021-5/", text="fancy interactive animations")}}.
 I have spent more time in the guts of [TeX](https://en.wikipedia.org/wiki/TeX)
 than any person really ought to, including launching the
 [Tectonic Project](https://tectonic-typesetting.github.io/), which extends and
@@ -83,7 +83,7 @@ typesetting system for technical documents — both print and electronic — tha
 scientists, engineers, and in fact _everyone_ deserves.
 
 Because there are a lot of P. Williamses out there, I try to go by Peter K. G.
-Williams in [my publications](/%7Epeter/pubs/).
+Williams in [my publications](./pubs.md).
 
 I also do things that aren’t science! But this isn’t the website for talking
 about that.
@@ -94,5 +94,4 @@ about that.
 My CfA office is **Perkin 327**. My work email address is
 [pwilliams@cfa.harvard.edu](mailto:pwilliams@cfa.harvard.edu) (though it just
 forwards to my personal address, [peter@newton.cx](mailto:peter@newton.cx)).
-My postal address and phone number are listed on
-[my CV](/~peter/cv/ "Curriculum Vitæ").
+My postal address and phone number are listed on [my CV](./cv.md).
