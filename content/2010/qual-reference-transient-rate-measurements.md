@@ -33,7 +33,7 @@ the way in which they’re measured:
   rate is 4.8e4. Figure 9 summarizes their multi-depth results and those of
   other surveys:
 
-  {% figure(src="/~peter/wp/wp-content/uploads/2010/08/bowerfig9.png") %}
+  {% figure(path="wp/wp-content/uploads/2010/08/bowerfig9.png") %}
   From 2007 ApJ 666 346
   {% end %}
 - **Hyman+ 2008 (GMRT)**. No effort to compute rates here. For the GMRT work,

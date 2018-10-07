@@ -14,7 +14,7 @@ data are completely the same; I’ve just put together all of the pieces to be
 able to render the map into a pretty, correct PDF. 
 {{ulink(path="wp/wp-content/uploads/2012/02/gpmos.pdf", text="Tadaa!")}}
 
-{% figure(src="/~peter/wp/wp-content/uploads/2012/02/gpmos.png") %}
+{% figure(path="wp/wp-content/uploads/2012/02/gpmos.png") %}
 This is just a preview! The real image is a PDF.
 {% end %}
 

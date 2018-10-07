@@ -13,7 +13,7 @@ been focusing on getting a rough-draft version of a large-scale map of the
 Galactic Center from my ATA transient survey data. Here’s what I’ve got so far
 — click on the image for the full-scale version:
 
-{% figure(src="/~peter/wp/wp-content/uploads/2011/11/atagc20111116-300x85.png") %}
+{% figure(path="wp/wp-content/uploads/2011/11/atagc20111116-300x85.png") %}
 ATA Galactic Center map — {{ulink(path="wp/wp-content/uploads/2011/11/atagc20111116.png", text="click here for large version")}}.
 {% end %}
 

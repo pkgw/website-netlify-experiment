@@ -58,7 +58,7 @@ To summarize, why should you use yahapj?
 
 I’ve even got a screenshot!
 
-{% figure(src="/~peter/wp/wp-content/uploads/2011/12/yahapj.png") %}
+{% figure(path="wp/wp-content/uploads/2011/12/yahapj.png") %}
 yahapj in action!
 {% end %}
 

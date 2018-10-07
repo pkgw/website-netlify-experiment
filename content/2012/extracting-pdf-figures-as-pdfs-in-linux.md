@@ -50,6 +50,6 @@ sample result … converted to a PNG so that it can render inline, so that in a
 way it misses the whole point of the exercise. But there’s little PDF figure
 behind it, I swear.
 
-{% figure(src="/~peter/wp/wp-content/uploads/2012/10/mclean_2012_fig2.png-1.png") %}
+{% figure(path="wp/wp-content/uploads/2012/10/mclean_2012_fig2.png-1.png") %}
 McLean et al (2012 ApJ 746 23), fig 2. I assert without proof that I have a PDF version of this image.
 {% end %}

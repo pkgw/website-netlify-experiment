@@ -25,7 +25,7 @@ When it is at its leftmost, the image comes from observations of HA ≅ -5.5;
 when it is at its rightmost, it comes from HA ≅ +5.5. Obviously, the position
 of the source should not vary with HA.
 
-{% figure(src="/~peter/wp/wp-content/uploads/2011/07/mvdemo.gif") %}
+{% figure(path="wp/wp-content/uploads/2011/07/mvdemo.gif") %}
 Figure 1. Point sources wander as a function of HA, with the effect becoming more significant as distance from phase center increases.
 {% end %}
 
@@ -49,14 +49,14 @@ from phase center. Additionally, while it’s the case that I’m not using
 w-projection or faceting, and this might affect the very far-out sources, it
 shouldn’t be significant for the emission within the half-power point.
 
-{% figure(src="/~peter/wp/wp-content/uploads/2011/07/mvdemo2.gif") %}
+{% figure(path="wp/wp-content/uploads/2011/07/mvdemo2.gif") %}
 Figure 2. Effect of HA variations on extended structure, made visible by integrating over larger HA intervals.
 {% end %}
 
 The parallactic angle swings from -50° to +50°, through -180°, as the HA
 advances from -6 to +6. Figure 3 visualizes this.
 
-{% figure(src="/~peter/wp/wp-content/uploads/2011/07/haspan.png") %}
+{% figure(path="wp/wp-content/uploads/2011/07/haspan.png") %}
 Figure 3. Parallactic angle as a function of HA. Colors are irrelevant.
 {% end %}
 

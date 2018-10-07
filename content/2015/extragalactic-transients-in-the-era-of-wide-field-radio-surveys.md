@@ -58,7 +58,7 @@ actually find. Our work is the first comprehensive end-to-end simulation of
 the search process, modeling the rates and distributions of various events,
 their radio emission, and the detection methods that surveys will likely use.
 
-{% figure(src="/~peter/wp/wp-content/uploads/2015/02/ludlow-lcs-1p3ghz.png") %}
+{% figure(path="wp/wp-content/uploads/2015/02/ludlow-lcs-1p3ghz.png") %}
 Science! Radio light curves of the various events we consider at 1.3 GHz. A big part of the work in the paper was to find and implement the best-available models for radio emission from a wide variety of astrophysical events.
 {% end %}
 

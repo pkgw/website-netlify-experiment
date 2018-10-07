@@ -23,7 +23,7 @@ There are two key feasibility issues for the Cyg X-3 project in my view:
 
 **1.** We can successfully image the data:
 
-{% figure(src="/~peter/wp/wp-content/uploads/2010/07/cygx3.png") %}
+{% figure(path="wp/wp-content/uploads/2010/07/cygx3.png") %}
 An ATA continuum map of the Cygnus X-3 region (3.14 GHz, 80 MHz BW).
 {% end %}
 
@@ -78,7 +78,7 @@ consideration, here’s a simple graphic showing spans of ATA observations,
 X-ray observations, and outbursts by Cyg X-3. It’s not at all legible in its
 current form but it’s good enough to show a few important points.
 
-{% figure(src="/~peter/wp/wp-content/uploads/2010/07/obssumm.png") %}
+{% figure(path="wp/wp-content/uploads/2010/07/obssumm.png") %}
 An inscrutable summary of Cyg X-3 observations. Don’t bother squinting
 {% end %}
 

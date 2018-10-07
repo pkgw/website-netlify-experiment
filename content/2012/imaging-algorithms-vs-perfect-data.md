@@ -13,7 +13,7 @@ astronomy. I’ve been doing some data simulations and used the opportunity to
 look into the effect that different approaches to interferometric imaging
 have. The image below summarizes what I’ve found:
 
-{% figure(src="/~peter/wp/wp-content/uploads/2012/03/data.png") %}
+{% figure(path="wp/wp-content/uploads/2012/03/data.png") %}
 Residuals from point-source imaging.
 {% end %}
 

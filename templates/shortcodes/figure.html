@@ -1,6 +1,6 @@
 <div>
   <figure>
-    <img src="{{ src }}" alt="{{ body }}">
+    <img src="{{ get_url(path=path) | safe }}" alt="{{ body }}">
     <figcaption>{{ body | markdown(inline=true) }}</figcaption>
   </figure>
 </div>

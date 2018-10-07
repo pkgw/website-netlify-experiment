@@ -15,6 +15,6 @@ done with my PhD! I’ve uploaded an electronic copy of my thesis
 great time at Berkeley, though I’m also pretty excited to return to Harvard to
 work with [Edo Berger](http://www.cfa.harvard.edu/~eberger/). Onward!
 
-{% figure(src="/~peter/wp/wp-content/uploads/2012/08/7747970934_ce30c2f201_d.jpg") %}
+{% figure(path="wp/wp-content/uploads/2012/08/7747970934_ce30c2f201_d.jpg") %}
 PhinisheD
 {% end %}

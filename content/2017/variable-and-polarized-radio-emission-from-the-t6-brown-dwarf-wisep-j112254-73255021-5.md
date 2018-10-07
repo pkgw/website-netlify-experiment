@@ -68,7 +68,7 @@ And what did we find? The image below shows how the
 radio brightness varies over the course of several hours, with the radio
 emission being broken down in several different ways.
 
-{% figure(src="/~peter/wp/wp-content/uploads/2017/07/xenia-vla-1024x854.png") %}
+{% figure(path="wp/wp-content/uploads/2017/07/xenia-vla-1024x854.png") %}
 VLA radio light curve of WISE 1122+25.
 {% end %}
 

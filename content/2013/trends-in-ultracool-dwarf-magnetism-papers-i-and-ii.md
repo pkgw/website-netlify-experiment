@@ -85,7 +85,7 @@ the [Rossby number](http://en.wikipedia.org/wiki/Rossby_number), abbreviated
 “Ro”). The shapes and colors further group the objects by mass (approximately;
 it’s hard to measure masses directly).
 
-{% figure(src="/~peter/wp/wp-content/uploads/2013/10/rx-bv.png") %}
+{% figure(path="wp/wp-content/uploads/2013/10/rx-bv.png") %}
 X-rays and magnetic field versus rotation. There’s scatter, but the general trends in the two parameters (derived from very different means) are surprisingly similar. From [1310.6758](http://arxiv.org/abs/1310.6758).
 {% end %}
 
