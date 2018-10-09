@@ -10,4 +10,14 @@
 <p class="post-date">{{ page.date | date(format="%Y %B %e") }}</p>
 {%- endif -%}
 {{ page.content | safe }}
+
+<div class="prev-next-pages">
+{%- if page.earlier -%}
+  <p><em>Earlier:</em> <a href="{{ page.earlier.permalink | safe }}">{{ page.earlier.title }}</a></p>
+{%- endif -%}
+{%- if page.later -%}
+  <p><em>Later:</em> <a href="{{ page.later.permalink | safe }}">{{ page.later.title }}</a></p>
+{%- endif -%}
+</div>
+
 {% endblock content %}
