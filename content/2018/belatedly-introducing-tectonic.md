@@ -146,7 +146,10 @@ Tectonic project is at today:
    automatically-generated C code, but it’s getting cleaner and cleaner, and
    the project
    [is on GitHub](https://github.com/tectonic-typesetting/tectonic/) and
-   generally uses modern, open-source development practices.
+   generally uses modern, open-source development practices. The outer layers
+   are now written in [Rust](https://rust-lang.org/), which is *wonderful*:
+   powerful, expressive, and able to compile down to blazing-fast, low-level
+   machine code (or [WebAssembly](https://webassembly.org/) …).
 2. The engine is now *embeddable*. Existing TeX systems rely on a sprawling
    collection of tools and gigabytes of data files that interact with each
    other in complex ways. Tectonic comes as a single program, full stop. This
