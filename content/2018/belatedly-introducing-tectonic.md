@@ -117,7 +117,7 @@ display technology, we’re going to need to evolve our authoring tools.
 The proximate goal is to produce outrageously good technical documents for the
 Web. Beautiful typography, beautiful mathematics, and an absolutely
 fundamental reconsideration of what technical documents should look like on
-digital display. *Footnotes make no fucking sense on the Web!* Reference
+digital display. *Footnotes make no freaking sense on the Web!* Reference
 information should pop up to the side of the main text when needed, not be
 relegated to the bottom of the “page”. Anything that has to do with pages at
 all, in fact, needs to go — websites are infinitely tall scrolls, not
@@ -161,13 +161,13 @@ Tectonic project is at today:
    reproducible document processing.
 5. Finally, the project has attracted a good level of interest, and is
    building a supportive [community](https://tectonic.newton.cx/). I feel
-   confident that as the project grows, the community will come to be a seen
-   as one of its most important assets.
+   confident that as the project grows, the community will come to be seen as
+   one of its most important assets.
 
 As I mentioned in [my previous post](./2018/website-refresh.md), the process
 of refreshing this very website has gotten me excited to push on the part of
 Tectonic aimed at actually producing excellent HTML output. Based on my
-experience [Webtex](https://pkgw.github.io/webtex/), I feel that I have a good
-idea of what needs to happen to really get that rolling. I do have this “day
-job” that I’m supposed to be doing, but I’m excited to see how far we can get
-in the next year!
+experience with [Webtex](https://pkgw.github.io/webtex/), I feel that I have a
+good idea of what needs to happen to really get that rolling. I do have this
+“day job” that I’m supposed to be doing, but I’m excited to see how far we can
+get in the next year!
