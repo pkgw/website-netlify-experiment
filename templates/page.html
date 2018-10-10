@@ -12,12 +12,14 @@
 {{ page.content | safe }}
 
 <div class="prev-next-pages">
-{%- if page.earlier -%}
-  <p><em>Earlier:</em> <a href="{{ page.earlier.permalink | safe }}">{{ page.earlier.title }}</a></p>
-{%- endif -%}
 {%- if page.later -%}
   <p><em>Later:</em> <a href="{{ page.later.permalink | safe }}">{{ page.later.title }}</a></p>
 {%- endif -%}
+{%- if page.earlier -%}
+  <p><em>Earlier:</em> <a href="{{ page.earlier.permalink | safe }}">{{ page.earlier.title }}</a></p>
+{%- endif -%}
+{% set allposts = get_page(path="all-posts.md") %}
+  <p><em>See <a href="{{ allposts.permalink | safe }}">a list of all posts</a>.</em></p>
 </div>
 
 {% endblock content %}
