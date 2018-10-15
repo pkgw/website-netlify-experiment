@@ -1,3 +1,8 @@
+{%- macro page_url(path) -%}
+{%- set page = get_page(path=path) -%}
+{{ page.permalink | safe }}
+{%- endmacro input -%}
+
 {%- macro section_url(name) -%}
 {%- set sect = get_section(path=name ~ "/_index.md") -%}
 {{ sect.permalink | safe }}
