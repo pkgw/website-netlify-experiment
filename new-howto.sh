@@ -1,14 +1,13 @@
 #! /bin/bash
 #
-# Quickie script to start editing a new post
+# Quickie script to start editing a new howto
 
 set -e
 cd $(dirname $0)
-year=$(date +%Y)
 slug="$1"
 
 if [ x"$slug" = x ] ; then
-    echo "usage: $0 new-post-filename-slug"
+    echo "usage: $0 new-howto-filename-slug"
     exit 0
 fi
 
@@ -18,12 +17,14 @@ else
     slug="$slug.md"
 fi
 
-path="content/$year/$slug.md"
+path="content/howto/$slug"
 
 cat <<EOF >"$path"
 +++
 date = $(date -Iseconds)
 title = ""
+weight = 0 # all howtos have zero weight => alphabetical ordering
+template = "howto.html"
 +++
 
 EOF

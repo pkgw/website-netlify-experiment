@@ -1,0 +1,4 @@
+{%- macro section_url(name) -%}
+{%- set sect = get_section(path=name ~ "/_index.md") -%}
+{{ sect.permalink | safe }}
+{%- endmacro input -%}

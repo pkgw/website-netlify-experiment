@@ -7,4 +7,14 @@
 {% block content %}
 <p class="post-title">{{ section.title }}</p>
 {{ section.content | safe }}
+
+<table>
+{% for page in section.pages %}
+<tr>
+  <td class="recent-post-date">{{ page.date | date(format="%Y %B %e") }}</td>
+  <td class="recent-post-title"><a href="{{ page.permalink | safe }}">{{ page.title }}</a></td>
+</tr>
+{% endfor %}
+</table>
+
 {% endblock content %}

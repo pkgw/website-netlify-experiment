@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+{%- import "macros.html" as macros -%}
 <html lang="en">
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -35,7 +36,8 @@
           <li><a href="{{ get_url(path="pubs", trailing_slash=true) | safe }}">Publications</a></li>
           <li><a href="{{ get_url(path="cv", trailing_slash=true) | safe }}">CV</a></li>
           <li><a href="{{ get_url(path="dissertation", trailing_slash=true) | safe }}">Dissertation</a></li>
-          <li><a href="{{ get_url(path="all-posts", trailing_slash=true) | safe }}">All Posts</a></li>
+          <li><a href="{{ get_url(path="all-posts", trailing_slash=true) | safe }}">All News</a></li>
+          <li><a href="{{ macros::section_url(name="howto") }}">How-To Guides</a></li>
         </ul>
       </div>
     </nav>
