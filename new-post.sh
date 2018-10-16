@@ -18,7 +18,7 @@ else
     slug="$slug.md"
 fi
 
-path="content/$year/$slug.md"
+path="content/$year/$slug"
 
 cat <<EOF >"$path"
 +++
