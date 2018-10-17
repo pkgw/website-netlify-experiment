@@ -1,7 +1,9 @@
 +++
 date = 2014-03-24T16:37:20Z
-title = "Confidence intervals for Poisson processes with backgrounds"
-path = "2014/03/confidence-intervals-for-poisson-processes-with-backgrounds"
+title = "Calculate Confidence Intervals for Poisson Processes with Backgrounds"
+aliases = ["2014/03/confidence-intervals-for-poisson-processes-with-backgrounds"]
+weight = 0 # all howtos have zero weight => alphabetical ordering
+template = "howto.html"
 
 [extra]
 wp_rel_permalink = "/2014/03/confidence-intervals-for-poisson-processes-with-backgrounds/"
@@ -26,13 +28,13 @@ so that I can get values for arbitrary inputs.
 
 Well, I wrote it, and I thought I’d share it in case anyone wants to do the
 same calculation.
-[Here it is](https://github.com/pkgw/pwpy/blob/master/scilib/kbn_conf.py) — in
+[Here it is](https://github.com/pkgw/pwkit/blob/master/pwkit/kbn_conf.py) — in
 Python of course. There are a few subtleties but overall the calculation is
 indeed pretty straightforward. I’ve checked against the tables in KBN91 and
 everything seems hunky-dory. Usage is simple:
 
 ```python
-from kbn_conf import kbn_conf
+from pwkit.kbn_conf import kbn_conf
 
 n = 3 # number of observed counts
 b = 1.2 # expected number of background
