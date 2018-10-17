@@ -4,7 +4,8 @@ title = "ngVLA Science Whitepapers"
 +++
 
 Today the forty-one [ngVLA](http://ngvla.nrao.edu/) Science Whitepapers hit
-Arxiv! For your enjoyment, here's a list of them in the order they landed:
+Arxiv! For your enjoyment, here's a list of them in the order they landed (and
+one that accidentally showed up four months ahead of schedule …):
 
 <!-- more -->
 
@@ -49,3 +50,4 @@ Arxiv! For your enjoyment, here's a list of them in the order they landed:
 1. [Probing Obscured MBH Accretion and Growth since Cosmic Dawn](https://arxiv.org/abs/1810.07098)
 1. [New Parameter Space for Deep Field Radio Continuum Surveys](https://arxiv.org/abs/1810.07143)
 1. [Deuteration in starless and prestellar cores](https://arxiv.org/abs/1810.07163)
+1. [Magnetic fields in forming stars](https://arxiv.org/abs/1806.06313)
