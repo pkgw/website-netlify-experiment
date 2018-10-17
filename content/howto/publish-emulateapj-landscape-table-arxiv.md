@@ -1,15 +1,21 @@
 +++
 date = 2013-10-24T11:19:34Z
-title = "Landscape pages, emulateapj, and arxiv"
-path = "2013/10/landscape-pages-emulateapj-and-arxiv"
+title = "Publish Landscape-oriented Tables With emulateapj on ArXiv"
+aliases = ["2013/10/landscape-pages-emulateapj-and-arxiv"]
+weight = 0 # all howtos have zero weight => alphabetical ordering
+template = "howto.html"
 
 [extra]
 wp_rel_permalink = "/2013/10/landscape-pages-emulateapj-and-arxiv/"
 wp_shortlink = "/?p=801"
 +++
 
+**Note:** This post is fairly old; these instructions may need updating.
+
+---
+
 The past couple of times that I’ve put up a paper on
-[arxiv.org](http://arxiv.org/), I’ve had trouble with pages rotated to
+[arxiv.org](https://arxiv.org/), I’ve had trouble with pages rotated to
 landscape mode. Here’s a quick note on what the issue is.
 
 I’ve been using the `pdflscape` package to get landscape-oriented pages. It
@@ -24,17 +30,16 @@ under the hood. When you use them, the content on every page in the document
 is rotated in a bad-news kind of way. It took me a while to figure this out
 because I had only `revtex4` installed on my laptop; `emulateapj` can work
 with either, and the older version doesn’t have the issue.
-[arxiv.org](http://arxiv.org/) does have `revtex4-1,` so the problem would
+[arxiv.org](https://arxiv.org/) does have `revtex4-1,` so the problem would
 seem to only appear for Arxiv submission.
 
 Recent versions of `emulateapj` have a `[revtex4]` option to force use of the
 older version of the package, which should make this go away. I don’t know if
 Arxiv’s version of `emulateapj` is new enough to support this.
 
-Alternatively,
-`revtex` comes with its own environment for rotating pages, `turnpage.` You
-can use this instead. Here’s an example of rotating a wide single-page
-`deluxetable` at the end of a document:
+Alternatively, `revtex` comes with its own environment for rotating pages,
+`turnpage.` You can use this instead. Here’s an example of rotating a wide
+single-page `deluxetable` at the end of a document:
 
 ```tex
 ...
