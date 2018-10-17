@@ -25,11 +25,11 @@ machine, I can work *much* more smoothly with lots of quick short-lived SSH
 sessions rather than having to use one long-lived one.
 
 The “connection sharing” feature of OpenSSH lets you get the benefit of
-quickie SSH logins even when every new login requires a typed password.
+quickie SSH sessions even when every new login requires a typed password.
 
-When connection sharing is activate, the first connection you open to a server
-proceeds as normal. However, when you open *additional* connections to a
-server, the software will piggyback the new connection over the old one,
+When connection sharing is activated, the first connection you open to a
+server proceeds as normal. However, when you open *additional* connections to
+that server, the software will piggyback the new connections over the old one,
 *reusing the authentication* — so you won’t have to type your password again.
 
 An important use-case is when you have a program that needs to do something
@@ -57,7 +57,7 @@ This can be great for Jupyter notebooks and the like.
 # Setting It Up
 
 The best part about connection sharing is that it’s super easy to set up. Just
-put the following lines in the file `~/.ssh/config`:
+add the following lines in the file `~/.ssh/config`:
 
 ```
 ControlMaster = auto
