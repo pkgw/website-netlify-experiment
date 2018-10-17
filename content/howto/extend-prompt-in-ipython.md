@@ -1,7 +1,9 @@
 +++
 date = 2015-11-15T12:36:24Z
-title = "Extensible prompts in “ipython” and “jupyter console”"
-path = "2015/11/extensible-prompts-in-jupyter-console"
+title = "Extend the Prompt in IPython (and jupyter console)"
+aliases = ["2015/11/extensible-prompts-in-jupyter-console"]
+weight = 0 # all howtos have zero weight => alphabetical ordering
+template = "howto.html"
 
 [extra]
 wp_rel_permalink = "/2015/11/extensible-prompts-in-jupyter-console/"
