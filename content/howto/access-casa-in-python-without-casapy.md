@@ -1,19 +1,22 @@
 +++
 date = 2014-02-20T08:42:24Z
-title = "CASA in Python without casapy"
-path = "2014/02/casa-in-python-without-casapy"
+title = "Access CASA in Python without casapy"
+aliases = ["2014/02/casa-in-python-without-casapy"]
+weight = 0 # all howtos have zero weight => alphabetical ordering
+template = "howto.html"
 
 [extra]
 wp_rel_permalink = "/2014/02/casa-in-python-without-casapy/"
 wp_shortlink = "/?p=836"
 +++
 
-**Update (2017 July):** This instructions might still be helpful in some
+**Update (2017 July):** These instructions might still be helpful in some
 cases, but I now provide compiled packages of the CASA Python libraries based
 on the [conda-forge](https://conda-forge.org/) project, which achieve the same
-effect in a _much_ more reliable manner. I haven’t written full instructions
-yet but [here’s the landing page](https://anaconda.org/pkgw-forge/casa-python)
-for the key package.
+effect in a _much_ more reliable manner.
+[Here are the installation instructions](https://github.com/pkgw/conda-recipes/blob/master/CASA.md#installing-casa-through-conda-forge-and-pkgw-forge) for that effort.
+
+---
 
 Like several large applications, [CASA](http://casa.nrao.edu/) bundles its own
 Python interpreter. I can totally understand the decision, but sometimes it’s
@@ -56,15 +59,15 @@ kinds of systems.
 
    ```sh
    #! /bin/sh
-   
+
    casa={CASA} # customize this!
    python={python} # customize this!
-   
+
    cd $casa/lib64
-   
+
    # copy basic Python files
    cp -a python2.7/casac.py python2.7/__casac__ $python
-   
+
    # copy dependent libraries, with moderate sophistication
    for f in lib*.so* ; do
      if [ -h $f ] ; then
@@ -81,7 +84,7 @@ kinds of systems.
        esac
      fi
    done
-   
+
    # patch rpaths of Python module binary files
    cd $python/__casac__
    for f in _*.so ; do
