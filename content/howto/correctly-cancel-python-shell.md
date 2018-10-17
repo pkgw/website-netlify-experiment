@@ -1,7 +1,9 @@
 +++
 date = 2015-01-16T19:44:19Z
-title = "Tech note: shell loops that won’t quit"
-path = "2015/01/tech-note-shell-loops-that-wont-quit"
+title = "Correctly Cancel Python Programs, According to the Shell"
+aliases = ["2015/01/tech-note-shell-loops-that-wont-quit"]
+weight = 0 # all howtos have zero weight => alphabetical ordering
+template = "howto.html"
 
 [extra]
 wp_rel_permalink = "/2015/01/tech-note-shell-loops-that-wont-quit/"
