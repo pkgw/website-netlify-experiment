@@ -6,8 +6,9 @@
 
 {% block content %}
 {% set top = get_section(path="_index.md") %}
-{% for sect in top.subsections | reverse | filter(attribute="extra.is_blog_section", value=true) %}
-
+{% for sect in top.subsections | reverse %}
+{% set sect = get_section(path=sect) %}
+{% if sect.extra.is_blog_section %}
 <h2>{{ sect.title }}</h2>
 
 <ul>
@@ -16,5 +17,6 @@
 {% endfor %}
 </ul>
 
+{% endif %}
 {% endfor %}
 {% endblock content %}
