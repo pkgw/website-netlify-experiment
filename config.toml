@@ -6,3 +6,6 @@ highlight_code = true
 generate_rss = true
 build_search_index = false
 check_external_links = false
+
+[extra]
+github_base = "https://github.com/pkgw/website"

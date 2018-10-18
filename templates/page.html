@@ -20,6 +20,9 @@
 {%- endif -%}
 {% set allposts = get_page(path="all-posts.md") %}
   <p><em>See <a href="{{ allposts.permalink | safe }}">a list of all posts</a>.</em></p>
+
+  <p><em><a href="{{config.extra.github_base}}/commits/master/content/{{page.relative_path}}">View
+        the revision history</a> of this page.</em></p>
 </div>
 
 {% endblock content %}
