@@ -9,6 +9,7 @@ others that showed up off-schedule …
 
 <!-- more -->
 
+1. [The ngVLA Science Case and Associated Science Requirements](https://arxiv.org/abs/1810.07524)
 1. [Accreting Supermassive Black Holes in Nearby Low-mass Galaxies](https://arxiv.org/abs/1810.06564)
 1. [Stellar Emission as a Source of Flux Bias in Debris Disks](https://arxiv.org/abs/1810.06565)
 1. [SETI Searches for Evidence of Intelligent Life in the Galaxy](https://arxiv.org/abs/1810.06568)
@@ -52,3 +53,12 @@ others that showed up off-schedule …
 1. [Deuteration in starless and prestellar cores](https://arxiv.org/abs/1810.07163)
 1. [Imaging Stellar Radio Photospheres](https://arxiv.org/abs/1810.05055)
 1. [Magnetic fields in forming stars](https://arxiv.org/abs/1806.06313)
+1. [Exploring Protostellar Disk Formation](https://arxiv.org/abs/1810.07174)
+1. [Radio Continuum Emission from Galaxies: An Accounting of Energetic Processes](https://arxiv.org/abs/1810.07525)
+1. [Radio Jet-ISM Feedback on Sub-galactic Scales](https://arxiv.org/abs/1810.07526)
+1. [Young Radio AGN](https://arxiv.org/abs/1810.07527)
+1. [[CII] 158μm Emission from z ≥ 10 Galaxies](https://arxiv.org/abs/1810.07536)
+1. [Compact binary mergers as traced by gravitational waves](https://arxiv.org/abs/1810.07544)
+1. [Cold gas in High-z Galaxies: The molecular gas budget](https://arxiv.org/abs/1810.07546)
+1. [Cold gas in High-z Galaxies: The dense ISM](https://arxiv.org/abs/1810.07547)
+1. [High-resolution imaging of Radio Jets Launched by AGN](https://arxiv.org/abs/1810.07564)
