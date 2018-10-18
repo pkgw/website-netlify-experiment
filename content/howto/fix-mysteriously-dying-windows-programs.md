@@ -24,4 +24,4 @@ copy "C:\Program Files (x86)\Windows Kits\10\bin\x64\ucrt\ucrtbased.dll"
 Although as far as I can tell, this is not an encouraged approach (surprise).
 
 (Originally posted
-[on Tumblr](http://pkgw.tumblr.com/post/177716510051/absolutely-bananas-msvc-problem.)
+[on Tumblr](http://pkgw.tumblr.com/post/177716510051/absolutely-bananas-msvc-problem).)
