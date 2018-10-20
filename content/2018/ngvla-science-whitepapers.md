@@ -10,6 +10,7 @@ others that showed up off-schedule …
 <!-- more -->
 
 1. [The ngVLA Science Case and Associated Science Requirements](https://arxiv.org/abs/1810.07524)
+1. [The ngVLA Reference Design](https://arxiv.org/abs/1810.08197)
 1. [Accreting Supermassive Black Holes in Nearby Low-mass Galaxies](https://arxiv.org/abs/1810.06564)
 1. [Stellar Emission as a Source of Flux Bias in Debris Disks](https://arxiv.org/abs/1810.06565)
 1. [SETI Searches for Evidence of Intelligent Life in the Galaxy](https://arxiv.org/abs/1810.06568)
@@ -62,3 +63,4 @@ others that showed up off-schedule …
 1. [Cold gas in High-z Galaxies: The molecular gas budget](https://arxiv.org/abs/1810.07546)
 1. [Cold gas in High-z Galaxies: The dense ISM](https://arxiv.org/abs/1810.07547)
 1. [High-resolution imaging of Radio Jets Launched by AGN](https://arxiv.org/abs/1810.07564)
+1. [High-resolution imaging of comets](https://arxiv.org/abs/1810.07867)
