@@ -64,3 +64,7 @@ others that showed up off-schedule …
 1. [Cold gas in High-z Galaxies: The dense ISM](https://arxiv.org/abs/1810.07547)
 1. [High-resolution imaging of Radio Jets Launched by AGN](https://arxiv.org/abs/1810.07564)
 1. [High-resolution imaging of comets](https://arxiv.org/abs/1810.07867)
+1. [Radio Observations of Solar Flares](https://arxiv.org/abs/1810.06336)
+1. [Imaging Cold Gas to 1 kpc Scales in High-Redshift Galaxies](https://arxiv.org/abs/1810.08258)
+1. [Indirect Detection of Extrasolar Planets via Astrometry](https://arxiv.org/abs/1810.08513)
+1. [Potential for Solar System Science](https://arxiv.org/abs/1810.08521)
