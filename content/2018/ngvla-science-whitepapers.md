@@ -68,3 +68,7 @@ others that showed up off-schedule …
 1. [Imaging Cold Gas to 1 kpc Scales in High-Redshift Galaxies](https://arxiv.org/abs/1810.08258)
 1. [Indirect Detection of Extrasolar Planets via Astrometry](https://arxiv.org/abs/1810.08513)
 1. [Potential for Solar System Science](https://arxiv.org/abs/1810.08521)
+1. [Planetary Bistatic Radar](https://arxiv.org/abs/1810.08712)
+1. [Spacecraft Telecommunications](https://arxiv.org/abs/1810.09268)
+1. [Stellar Activity on Red Giant and Supergiant Stars: Mass Loss and the Evolution of the Stellar Dynamo](https://arxiv.org/abs/1810.09353)
+1. [Reaching Communities and Creating New Opportunities](https://arxiv.org/abs/1810.09244)
