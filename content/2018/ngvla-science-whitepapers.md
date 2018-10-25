@@ -72,3 +72,4 @@ others that showed up off-schedule …
 1. [Spacecraft Telecommunications](https://arxiv.org/abs/1810.09268)
 1. [Stellar Activity on Red Giant and Supergiant Stars: Mass Loss and the Evolution of the Stellar Dynamo](https://arxiv.org/abs/1810.09353)
 1. [Reaching Communities and Creating New Opportunities](https://arxiv.org/abs/1810.09244)
+1. [Observing the Effects of Chemistry on Exoplanets and Planet Formation](https://arxiv.org/abs/1810.09550)
