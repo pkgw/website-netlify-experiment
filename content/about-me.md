@@ -72,8 +72,8 @@ arise.
 
 Finally, I’ve always been interested in computers, scientific communication,
 and especially the intersection between the two. I
-{{ulink(path="2013/09/slides-for-scientific-talks-in-html/", text="write my talks in HTML")}}
-which allows me to include
+{{ulink(path="2013/09/slides-for-scientific-talks-in-html/", text="write my talks in HTML")}} which 
+allows me to include
 {{ulink(path="2017/07/variable-and-polarized-radio-emission-from-the-t6-brown-dwarf-wisep-j112254-73255021-5/", text="fancy interactive animations")}}.
 I have spent more time in the guts of [TeX](https://en.wikipedia.org/wiki/TeX)
 than any person really ought to, including launching the
