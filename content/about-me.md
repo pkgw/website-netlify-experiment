@@ -11,76 +11,62 @@ skip_rss = true
 Portugal, 2012
 {% end %}
 
-I’m an astronomer at the
-[Harvard-Smithsonian Center for Astrophysics](https://www.cfa.harvard.edu/).
-These days I spend most of my time studying “extrasolar magnetospheres” — the
-magnetic fields of cool bodies beyond the Solar System. My work has shown that
-very small stars and also “brown dwarfs,” the balls of gas that are between
-stars and planets in size, have magnetic fields that are quite similar to the
-ones we find planets around Earth and Jupiter — they’re just hundreds of times
-stronger! These magnetic fields drive a rich phenomenology of space plasma
-physics and tell us about the internal structure of these bodies.
+I’m the Innovation Scientist of the
+[Center for Astrophysics](https://www.cfa.harvard.edu/) and the
+[American Astronomical Society](https://aas.org/). I’m also Director of the
+AAS [WorldWide Telescope](http://worldwidetelescope.org/) project. My
+astrophysical research focuses on the magnetism of other stars and planets,
+large surveys, and the techniques of radio interferometry.
 
-It’s usually hard to detect a magnetic field from afar, but extrasolar
-magnetospheres are commonly associated with
-“[auroral](https://en.wikipedia.org/wiki/Aurora)” processes that are exactly
-what they sound like: scaled-up versions of our own Northern and Southern
-Lights. We can’t detect visible light from these processes, but it turns out
-that they also produce distinctive bursts of radio emission that are so
-intense that we can detect them at interstellar distances (the Earth analog is
-called [AKR](https://en.wikipedia.org/wiki/Auroral_kilometric_radiation)). My
-core scientific training is in the field of
-[radio astronomy](https://en.wikipedia.org/wiki/Radio_astronomy) and I have
-long been involved in the broader radio astronomical community.
+As Innovation Scientist, my job is to make other astronomers’ jobs easier. The
+new technologies of the 21st century present an enormous opportunity to
+improve all aspects of the research enterprise — but working scientists don’t
+have the time to chase every new fad that comes out of Silicon Valley. I try
+to promote and build tools that help astronomers do their research faster and
+better.
 
-One of the most exciting trends in this area is the push to be able to study
-smaller and smaller bodies, with the goal of studying the magnetic fields of
-planets around other stars. We really have no idea what other planets’
-magnetic fields might look like, but they mediate the interaction between
-planets’ atmospheres and their host stars’ winds, so understanding
-exoplanetary magnetic fields is a key element of understanding
-[habitability](https://en.wikipedia.org/wiki/Planetary_habitability). We
-expect the radio bursts from _bona fide_ planets to come at relatively low
-radio frequencies, so I have become the lead time-domain scientist of the
-[Hydrogen Epoch of Reionization Array](http://reionization.org/), HERA, a
-low-frequency radio telescope under construction in South Africa. While HERA’s
-main scientific goal is literally about probing
-[the other end of the Universe](https://en.wikipedia.org/wiki/Reionization),
-HERA also has the right attributes to be an amazing planetary magnetometer.
-
-Studying the magnetic fields of very small stars also sheds light on some
-broader features of stellar astrophysics. I investigate the aging and internal
-structures of the smallest stars by combining my radio observations with data
-in the infrared, optical, ultraviolet, and X-ray taken with a whole host of
-observatories, from
-[Hubble](https://en.wikipedia.org/wiki/Hubble_Space_Telescope) to
-[Chandra](http://chandra.harvard.edu/) to
-[ALMA](http://www.almaobservatory.org/).
-
-I got into this work through the field of “time-domain radio astronomy,” the
-general study of changes in the radio sky. We have long known that the radio
-sky is a dynamic place, sometimes with
-[Nobel-prize-worthy consequences](https://en.wikipedia.org/wiki/Pulsar), but
-the technological developments of the past couple of decades have transformed
-our ability to study it. One of the most exciting breakthroughs in this area
-is the unexpected discovery of
-[Fast Radio Bursts](https://en.wikipedia.org/wiki/Fast_radio_burst) (FRBs),
-extremely bright and rapid pulses of radio emission that have signatures
-suggesting they come from well across the Universe. I’m working to pin down
-the origins of FRBs by understanding the astrophysical context in which they
-arise.
-
-Finally, I’ve always been interested in computers, scientific communication,
-and especially the intersection between the two. I
+I’ve always been interested in computers and scientific communication, and I’m
+particular keen to explore the intersection between the two. The
+[WorldWide Telescope](http://worldwidetelescope.org/) is a first-class example
+of how the graphics technologies developed for the Web can make it easy
+for researchers to develop beautiful, bespoke visualizations. I
 {{ulink(path="2013/09/slides-for-scientific-talks-in-html/", text="write my talks in HTML")}} which 
 allows me to include
-{{ulink(path="2017/07/variable-and-polarized-radio-emission-from-the-t6-brown-dwarf-wisep-j112254-73255021-5/", text="fancy interactive animations")}}.
-I have spent more time in the guts of [TeX](https://en.wikipedia.org/wiki/TeX)
-than any person really ought to, including launching the
+{{ulink(path="2017/07/variable-and-polarized-radio-emission-from-the-t6-brown-dwarf-wisep-j112254-73255021-5/",
+text="fancy interactive animations")}}. I have spent more time in the guts of
+[TeX](https://en.wikipedia.org/wiki/TeX) than any person really ought to,
+including launching the
 [Tectonic Project](https://tectonic-typesetting.github.io/), which extends and
 reworks TeX in some key ways with the goal of providing the 21st-century
 typesetting system for technical documents — both print and electronic — that
 scientists, engineers, and in fact _everyone_ deserves.
+
+My astrophysics research focuses on “extrasolar magnetospheres” — the magnetic
+fields of cool bodies beyond the Solar System. My work has shown that very
+small stars and also “brown dwarfs,” the balls of gas that are between stars
+and planets in size, have magnetic fields that are quite similar to the ones
+we find planets around Earth and Jupiter — they’re just hundreds of times
+stronger! These magnetic fields are essential ingredients in understanding
+[habitability](https://en.wikipedia.org/wiki/Planetary_habitability), drive a
+rich phenomenology of space plasma physics, and tell us about the internal
+structure of these bodies. It turns out that the best way to probe these
+magnetospheres is with the tools of
+[radio astronomy](https://en.wikipedia.org/wiki/Radio_astronomy), one of my
+longstanding areas of interest. My research often combines data from across
+the electromagnetic spectrum, however, including observations in the infrared,
+optical, ultraviolet, and X-ray taken with a whole host of observatories, from
+[Hubble](https://en.wikipedia.org/wiki/Hubble_Space_Telescope) to
+[Chandra](http://chandra.harvard.edu/) to
+[ALMA](http://www.almaobservatory.org/).
+
+My other astrophysics research has included large surveys of the radio sky,
+[Fast Radio Bursts](https://en.wikipedia.org/wiki/Fast_radio_burst) (FRBs),
+[gravitational wave events](https://en.wikipedia.org/wiki/GW170817), and a
+little bit of [exoplanets](https://en.wikipedia.org/wiki/Exoplanet). Before
+becoming the Innovation Scientist, I was a postdoc in
+[the group of Prof. Edo Berger](https://www.transients.science/) here at the
+CfA; before that, I was obtaining my PhD with Geoff Bower at the
+[UC Berkeley Department of Astronomy](https://astro.berkeley.edu/).
 
 Because there are a lot of P. Williamses out there, I try to go by Peter K. G.
 Williams in [my publications](./pubs.md).

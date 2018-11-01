@@ -8,11 +8,13 @@
 
 {% block content %}
 
-<p class="lede">I’m an astronomer at Harvard studying, mainly, extrasolar
-  magnetospheres. You can find out more on my
-  <a href="{{macros::page_url(path="about-me.md")}}">About Me</a> page, and you can
-  contact me <a href="https://twitter.com/pkgw">on Twitter as @pkgw</a> or
-  at <a href="mailto:peter@newton.cx">peter@newton.cx</a>.</p>
+<p class="lede">I’m the Innovation Scientist of
+    the <a href="https://cfa.harvard.edu/">Center for Astrophysics</a> and
+    the <a href="https://aas.org/">American Astronomical Society</a>. I help
+    other astronomers do research better and faster. You can find out more on
+    my <a href="{{macros::page_url(path="about-me.md")}}">About Me</a> page,
+    and you can contact me <a href="https://twitter.com/pkgw">on Twitter as
+    @pkgw</a> or at <a href="mailto:peter@newton.cx">peter@newton.cx</a>.</p>
 
 {% set latest_section = get_section(path="2018/_index.md") %}
 {% for post in latest_section.pages | slice(end=5) %}
