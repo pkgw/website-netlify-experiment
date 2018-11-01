@@ -74,5 +74,5 @@ create more roles with long-term stability for researchers outside the tenure
 track, but they are out there — especially if you’re simultaneously strong in
 research and technology. Honestly, I’m not feeling much in the way of regret
 about what might have been. Who knows what the future holds, but I’m very
-excited to start these new stage in my career and find out where it will take
+excited to start this new stage in my career and find out where it will take
 me.
