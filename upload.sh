@@ -6,7 +6,7 @@ cd $(dirname "$0")
 set -ex
 
 rm -rf public
-gutenberg build
+zola build
 
 mkdir public/feed
 cp public/rss.xml public/feed/index.html

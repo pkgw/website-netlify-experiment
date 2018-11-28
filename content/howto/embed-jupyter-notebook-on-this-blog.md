@@ -23,6 +23,6 @@ template = "howto.html"
    ```
    Font matching is difficult because you can’t bridge CSS *et al* in iframes,
    and the outer level has its own magic setup.
-5. Use Gutenberg’s colocated assets to include the notebook HTML, and embed a
+5. Use Zola’s colocated assets to include the notebook HTML, and embed a
    link emulating
    [this example](https://github.com/pkgw/website/blob/master/content/2014/elementary-gaussian-processes-in-python.md).

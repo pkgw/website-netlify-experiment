@@ -11,15 +11,15 @@ new system. Here it is!
 
 <!-- more -->
 
-This website is now powered by [Gutenberg](https://www.getgutenberg.io/), an
-all-in-one static site generator written in my new favorite language
-[Rust](https://www.rust-lang.org/). One great thing about this system is that
-most of the text on this site is now expressed in
+This website is now powered by [Zola](https://www.getzola.org/) (formerly
+known as Gutenberg), an all-in-one static site generator written in my new
+favorite language [Rust](https://www.rust-lang.org/). One great thing about
+this system is that most of the text on this site is now expressed in
 [Markdown](https://en.wikipedia.org/wiki/Markdown), and I can keep the whole
 thing in Git version control. If there’s one thing I love, it’s putting stuff
 in Git.
 
-Gutenberg has a very straightforward architecture that makes it easy to
+Zola has a very straightforward architecture that makes it easy to
 implement new features on the website. So I’ve gone ahead and revised the
 design, changing several things that have been bothering me for a while. For
 instance, I’ve tried to make the body text extremely readable — if you ask me,
@@ -33,6 +33,6 @@ The Markdown translation wasn’t *too* bad, but there were several moments when
 I wished that [Tectonic](https://tectonic-typesetting.github.io/) was able to
 emit the HTML output that I’ve been dreaming of for so long. In particular,
 the equations on this site look pretty bad, and I wish I was able to define
-macros using a system more powerful than Gutenberg’s “shortcodes”. Strong
+macros using a system more powerful than Zola’s “shortcodes”. Strong
 motivation to push on that line of work! I really hope that one day — maybe
 even soon! — I’ll have reason to translate all of this Markdown into TeX.
