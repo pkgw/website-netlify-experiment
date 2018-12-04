@@ -7,8 +7,8 @@ no_date = true
 skip_rss = true
 +++
 
-{% float_image(path="wp/wp-content/uploads/2013/04/headshot.jpg") %}
-Portugal, 2012
+{% float_image(path="about-me/201811_square.jpg") %}
+Photo by Rick Fienberg
 {% end %}
 
 I’m the Innovation Scientist of the
