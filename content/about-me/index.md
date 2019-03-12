@@ -77,7 +77,8 @@ about that.
 
 ### Contact
 
-My CfA office is **Perkin 327**. My work email address is
+My CfA office is **M-303** at [160 Concord](https://goo.gl/maps/4x5r67fTQDM2).
+My work email address is
 [pwilliams@cfa.harvard.edu](mailto:pwilliams@cfa.harvard.edu) (though it just
 forwards to my personal address, [peter@newton.cx](mailto:peter@newton.cx)).
 My postal address and phone number are listed on [my CV](./cv.md).
