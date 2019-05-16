@@ -18,6 +18,8 @@ else
     slug="$slug.md"
 fi
 
+mkdir -p "content/$year"
+
 path="content/$year/$slug"
 
 cat <<EOF >"$path"
@@ -25,6 +27,8 @@ cat <<EOF >"$path"
 date = $(date -Iseconds)
 title = ""
 +++
+
+<!-- more -->
 
 EOF
 
