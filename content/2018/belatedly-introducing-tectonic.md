@@ -40,7 +40,7 @@ we could before.
 
 And, of course, we can: there’s a reason that things like
 [Jupyter notebooks](https://jupyter.org/) have become popular,
-[and I’ve explored using them pedagogically myself](./2014/elementary-gaussian-processes-in-python.md).
+[and I’ve explored using them pedagogically myself](/2014/03/elementary-gaussian-processes-in-python).
 But when it comes to “high-end” scientific communication — journal articles —
 our technologies are still oriented around the print paradigm.
 
@@ -124,7 +124,7 @@ all, in fact, needs to go — websites are infinitely tall scrolls, not
 rectangular pieces of paper.
 
 Based on
-[my experience with my earlier Webtex project](./2015/the-rotation-period-and-magnetic-field-of-the-t-dwarf-2massi-j1047539212423.md),
+[my experience with my earlier Webtex project](/2015/08/the-rotation-period-and-magnetic-field-of-the-t-dwarf-2massi-j1047539212423),
 I think that the TeX ecosystem is very close to being able to deliver the
 documents that we need and deserve. The ecosystem represents an *enormous*
 investment of effort toward the very hard problem of programmatically creating
@@ -167,7 +167,7 @@ Tectonic project is at today:
    confident that as the project grows, the community will come to be seen as
    one of its most important assets.
 
-As I mentioned in [my previous post](./2018/website-refresh.md), the process
+As I mentioned in [my previous post](/2018/website-refresh), the process
 of refreshing this very website has gotten me excited to push on the part of
 Tectonic aimed at actually producing excellent HTML output. Based on my
 experience with [Webtex](https://pkgw.github.io/webtex/), I feel that I have a
