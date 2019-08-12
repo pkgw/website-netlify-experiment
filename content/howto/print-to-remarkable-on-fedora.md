@@ -14,9 +14,11 @@ derived from the [remarkable-cups] instructions put together by [Mark Meyer].
 **Note**: This is post-facto and is probably missing some steps.
 
 1. Install [rmapi]. As of writing, the command is `go get -u
-   github.com/juruen/rmapi`.
+   github.com/juruen/rmapi`. Adding the option `-v` to `go get` adds more
+   diagnostic output.
 2. Copy the resulting binary from `~/go/bin/rmapi` to `/var/spool/lpd/rmapi`,
    for reasons that I forget.
+3. Fix SELinux permissions for the binary: `sudo /sbin/restorecon -v /var/spool/lpd/rmapi`.
 3. Set up the following script as `/usr/lib/cups/backend/remarkable`, owned by
    root, no unusual permissions:
 
@@ -68,3 +70,6 @@ derived from the [remarkable-cups] instructions put together by [Mark Meyer].
 [remarkable-cups]: https://github.com/ofosos/scratch/tree/master/remarkable-cups
 [rmapi]: https://github.com/juruen/rmapi
 [Mark Meyer]: https://github.com/ofosos/
+
+To update the `rmapi` binary (if it needs rebuilding or a bugfix), it should
+work just to repeat the first few steps above.
