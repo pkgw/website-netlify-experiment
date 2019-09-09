@@ -89,6 +89,18 @@ h1 {
   margin: 1em 0 0.3em 0;
 }
 
+h2 {
+  // Looks like we need to manually specify these font sizes to cascade down
+  // relative to h1.
+  font-size: 110%;
+}
+
+h3, h4, h5, h6 {
+  // Todo: use techniques other than font-sizing to distinguish h4 and below
+  // from h3.
+  font-size: 100%;
+}
+
 h1, h2, h3, h4, h5, h6 {
   line-height: 1;
 }
