@@ -47,7 +47,7 @@ that they even exist. For instance:
 
 - It feels “obvious” that the natural way to measure publications is in units
   of journal articles. Articles count, blog posts don’t. But this is just a
-  convention, and not necessarily a well-motivated one: journal article are
+  convention, and not necessarily a well-motivated one: journal articles are
   nice, convenient quanta to work with, but of course it’s possible to
   communicate research in other ways. For instance,
   [Eric Mamajek](http://www.pas.rochester.edu/~emamajek/) posts all sorts
