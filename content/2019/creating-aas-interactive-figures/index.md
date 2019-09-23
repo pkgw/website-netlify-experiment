@@ -30,10 +30,9 @@ First, let’s step back a bit. What’s the big idea behind this project?
 If you ask me, the big idea is communication: *readers should be presented
 with a rich set of tools for exploring and understanding the data presented in
 research articles*. Static plots and data tables are good, but electronic
-publishing makes it possible to give readers much more sophisticated ways to
-investigate the data in a publication. In one kind of ideal world, readers
-would be able to simply click on the data in an article and immediately start
-exploring them using their favorite analysis tools.
+publishing makes it possible to do so much more! In one kind of ideal world,
+readers would be able to simply click on the data in an article and
+immediately start exploring them using their favorite analysis tools.
 
 It sounds like it would be a lot of work for authors to wire up this kind of
 complex functionality. But what if we invert this vision — *what if your
