@@ -1,0 +1,130 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v4.json",
+  "_extend": {
+    "scales": [
+      {
+        "input": "iso",
+        "name": "xscale",
+        "output": "auto"
+      }
+    ]
+  },
+  "autosize": {
+    "resize": false,
+    "type": "fit"
+  },
+  "axes": [
+    {
+      "orient": "bottom",
+      "scale": "xscale",
+      "title": "Time"
+    },
+    {
+      "orient": "left",
+      "scale": "yscale",
+      "title": ""
+    }
+  ],
+  "data": [
+    {
+      "format": {
+        "parse": {
+          "sap_flux": "number",
+          "time": "date"
+        },
+        "type": "csv"
+      },
+      "name": "4f539dca-8eab-493d-8d80-67e81ca4a6c0",
+      "url": "data_4f539dca-8eab-493d-8d80-67e81ca4a6c0.csv"
+    }
+  ],
+  "height": 400,
+  "marks": [
+    {
+      "clip": true,
+      "description": "SAP Flux",
+      "encode": {
+        "enter": {
+          "shape": {
+            "value": "circle"
+          },
+          "x": {
+            "field": "time",
+            "scale": "xscale"
+          },
+          "y": {
+            "field": "sap_flux",
+            "scale": "yscale"
+          }
+        },
+        "hover": {
+          "size": {
+            "value": 80
+          },
+          "tooltip": {
+            "signal": "{'time': datum.time, 'sap_flux': datum.sap_flux}"
+          }
+        },
+        "update": {
+          "fill": {
+            "value": "#000000"
+          },
+          "fillOpacity": {
+            "value": 1
+          },
+          "shape": {
+            "value": "circle"
+          },
+          "size": {
+            "value": 20
+          },
+          "stroke": {
+            "value": "#000000"
+          },
+          "strokeOpacity": {
+            "value": 0.2
+          },
+          "strokeWidth": {
+            "value": 0
+          }
+        }
+      },
+      "from": {
+        "data": "4f539dca-8eab-493d-8d80-67e81ca4a6c0"
+      },
+      "name": "a6f426f6-c43d-478a-8976-d3a9b2caf671",
+      "type": "symbol"
+    }
+  ],
+  "padding": 0,
+  "scales": [
+    {
+      "domain": [
+        {
+          "signal": "datetime(2009, 4, 2, 0, 41, 40)"
+        },
+        {
+          "signal": "datetime(2009, 4, 11, 18, 7, 12)"
+        }
+      ],
+      "name": "xscale",
+      "padding": 36,
+      "range": "width",
+      "type": "time",
+      "zero": false
+    },
+    {
+      "domain": [
+        1019671.5625,
+        1029749.875
+      ],
+      "name": "yscale",
+      "padding": 36,
+      "range": "height",
+      "type": "linear",
+      "zero": false
+    }
+  ],
+  "title": "Default",
+  "width": 600
+}
