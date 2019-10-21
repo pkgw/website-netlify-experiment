@@ -27,7 +27,7 @@ better.
 
 I’ve always been interested in computers and scientific communication, and I’m
 particular keen to explore the intersection between the two. The
-[WorldWide Telescope](http://worldwidetelescope.org/) is a first-class example
+[AAS WorldWide Telescope](http://worldwidetelescope.org/) is a first-class example
 of how the graphics technologies developed for the Web can make it easy
 for researchers to develop beautiful, bespoke visualizations. I
 {{ulink(path="2013/09/slides-for-scientific-talks-in-html/", text="write my talks in HTML")}} which 
