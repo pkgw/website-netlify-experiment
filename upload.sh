@@ -11,4 +11,4 @@ zola build
 mkdir public/feed
 cp public/rss.xml public/feed/index.html
 
-rsync -avP public/ newton.cx:public_html/
+rsync -avP --exclude '*~' public/ newton.cx:public_html/
