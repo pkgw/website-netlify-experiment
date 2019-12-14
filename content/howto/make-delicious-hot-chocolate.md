@@ -5,7 +5,12 @@ weight = 0 # all howtos have zero weight => alphabetical ordering
 template = "howto.html"
 +++
 
-Originally from [Orangette](http://orangette.net/2008/01/from-this-day-forth/).
+Rich and delicious, massively better than what you get with a powder. Recipe
+from [Orangette](http://orangette.net/2008/01/from-this-day-forth/), who
+apparently adapted it from Dorie Greenspan’s
+[Paris Sweets](http://www.amazon.com/Paris-Sweets-Great-Desserts-Pastry/dp/0767906810),
+in turn inspired by something served by
+[Ladurée](https://en.wikipedia.org/wiki/Ladur%C3%A9e).
 
 - 1 ½ C whole milk
 - 2 ½ T water
