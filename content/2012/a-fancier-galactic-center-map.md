@@ -9,7 +9,7 @@ wp_shortlink = "/?p=506"
 +++
 
 Here’s another version of the ATA map of the Galactic Center
-[that I posted earlier](./2011/the-galactic-center-as-seen-by-the-ata.md). The
+[that I posted earlier](@/2011/the-galactic-center-as-seen-by-the-ata.md). The
 data are completely the same; I’ve just put together all of the pieces to be
 able to render the map into a pretty, correct PDF. 
 {{ulink(path="wp/wp-content/uploads/2012/02/gpmos.pdf", text="Tadaa!")}}

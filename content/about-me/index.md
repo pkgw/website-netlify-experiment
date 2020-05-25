@@ -69,7 +69,7 @@ CfA; before that, I was obtaining my PhD with Geoff Bower at the
 [UC Berkeley Department of Astronomy](https://astro.berkeley.edu/).
 
 Because there are a lot of P. Williamses out there, I try to go by Peter K. G.
-Williams in [my publications](./pubs.md).
+Williams in [my publications](@/pubs.md).
 
 I also do things that aren’t science! But this isn’t the website for talking
 about that.
@@ -81,4 +81,4 @@ My CfA office is **M-303** at [160 Concord](https://goo.gl/maps/4x5r67fTQDM2).
 My work email address is
 [pwilliams@cfa.harvard.edu](mailto:pwilliams@cfa.harvard.edu) (though it just
 forwards to my personal address, [peter@newton.cx](mailto:peter@newton.cx)).
-My postal address and phone number are listed on [my CV](./cv.md).
+My postal address and phone number are listed on [my CV](@/cv.md).

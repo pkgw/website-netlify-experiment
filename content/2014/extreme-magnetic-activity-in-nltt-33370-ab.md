@@ -64,7 +64,7 @@ system in bands across the EM spectrum: radio, optical, the
 [Hα](http://en.wikipedia.org/wiki/H-alpha) line, UV, and X-ray. These all give
 complementary handles on the different ways that different parts of the star
 are affected by its magnetism. While studies of this kind (including
-[a recent one of ours](./2013/trends-in-ultracool-dwarf-magnetism-papers-i-and-ii.md))
+[a recent one of ours](@/2013/trends-in-ultracool-dwarf-magnetism-papers-i-and-ii.md))
 often rely on single brightness measurements taken at quasi-random times, one
 of the hallmarks of magnetic activity is erratic variability on many time
 scales, so it can be hard to interpret such measurements. It’s far better to

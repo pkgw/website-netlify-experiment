@@ -10,7 +10,7 @@ wp_shortlink = "/?p=409"
 
 Say, hypothetically, that you
 [install a new Linux distribution](http://fedoraproject.org/) and
-[your machine locks up whenever you try to log in graphically](./2011/what-to-do-if-fedora-15-locks-up-on-login.md).
+[your machine locks up whenever you try to log in graphically](@/2011/what-to-do-if-fedora-15-locks-up-on-login.md).
 You might want to set up a wireless connection to see if there are system
 updates available that might fix the problem. If your system uses
 [NetworkManager](http://live.gnome.org/NetworkManager/), it might not be clear

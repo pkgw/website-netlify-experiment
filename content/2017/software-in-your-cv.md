@@ -65,7 +65,7 @@ that they even exist. For instance:
   is likely that they’ll look at citation counts.
 
 So: what’s a Right and Proper way to report software work on a CV?
-Here’s what I’ve come up with and tried to implement on [my own CV](./cv.md).
+Here’s what I’ve come up with and tried to implement on [my own CV](@/cv.md).
 
 What is the fundamental unit of reporting? I’d say that it used to be a bit
 less clear what the answer to this question was, but in the year 2017 the
@@ -153,7 +153,7 @@ main pieces of the stats-gathering code are
 [here](https://github.com/pkgw/worklog-tools/blob/master/wlgithub.py) and
 [here](https://github.com/pkgw/worklog-tools/blob/master/wltool#L327).
 
-I’m not completely happy with [the final outcome](./cv.md) by any means. I’ve
+I’m not completely happy with [the final outcome](@/cv.md) by any means. I’ve
 never seen another CV with a software section like this, and it feels awkward
 to report lame-sounding impact statistics like “stars”. But you can bet that I
 want to do justice to this part of my professional life, and this is the best
@@ -163,4 +163,4 @@ honest, I wouldn’t be surprised if it more often has the opposite effect,
 since it draws attention to a line of work that I believe remains strongly
 undervalued on average. (“Why are you spending time on all of this programming
 stuff when you could be doing science?”) But: “Be the change you want to see
-in the world,” right? [Let’s give it a shot](./cv.md#software).
+in the world,” right? [Let’s give it a shot](@/cv.md).

@@ -16,7 +16,7 @@ lot lately is the
 [radiative transfer](https://en.wikipedia.org/wiki/Radiative_transfer). So it
 goes.
 
-One of the tradeoffs of [my new job](./2018/operation-innovation.md) is that I
+One of the tradeoffs of [my new job](@/2018/operation-innovation.md) is that I
 have a lot less time for doing astrophysics research myself, so this work is
 moving forward slowly these days. But I did manage to make something neat last
 year, and now I have time to write about it! It’s

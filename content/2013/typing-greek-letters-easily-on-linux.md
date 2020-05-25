@@ -10,7 +10,7 @@ wp_shortlink = "/?p=669"
 +++
 
 I’ve already written about
-[easily entering special characters on Linux](./2010/fun-with-unicode.md)
+[easily entering special characters on Linux](@/2010/fun-with-unicode.md)
 using the “Compose Key”. The only inconvenient thing about this setup was
 entering Greek letters — they’re not included in the default list of
 compositions. I’ve learned a few of the raw Unicode values (`Ctrl-Shift-u 0 3

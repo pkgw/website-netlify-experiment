@@ -31,7 +31,7 @@ you want to do: log CV-type activities — your academic output — in some kind
 of simple data format, and populate some kind of LaTeX template with
 information from the log. While we’re at it, there’s no need to restrict
 ourselves to LaTeX — we can also fill in an HTML template for
-[slick, web- native versions of the same information](./pubs.md).
+[slick, web- native versions of the same information](@/pubs.md).
 
 I’ve actually gone and done this. There are a lot of ways you could implement
 things, but here’s what I do:

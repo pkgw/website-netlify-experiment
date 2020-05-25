@@ -39,7 +39,7 @@ ever looking at a tiny little piece of it.
 You can’t change the laws of physics, but some of the same technologies that
 have driven the digital revolution have also significantly changed the
 tradeoffs involved in building radio telescopes. (For more on this, see
-[Chapter 1 of my dissertation](./dissertation.md).) It’s now possible to build
+[Chapter 1 of my dissertation](@/dissertation.md).) It’s now possible to build
 sensitive telescopes that can see much more of the sky at once than before,
 making searches for radio transients much more feasible. In astronomy, new
 ways of looking at the sky have almost always been associated with exciting

@@ -21,7 +21,7 @@ is to start SSH attached to its own
 input back and forth between the user’s terminal and the SSH virtual session
 during the login phase.
 
-If you [use SSH connection sharing](./howto/use-ssh-connection-sharing.md) —
+If you [use SSH connection sharing](@/howto/use-ssh-connection-sharing.md) —
 which you should — *stund* makes it so that you can just login once in the
 morning and not worry about having to type your password throughout the day.
 I’ve found this to be an extremely helpful feature since system administrators
@@ -47,7 +47,7 @@ this cleanly with *screen*.
 
 There are more details [in the README](https://github.com/pkgw/stund#readme).
 As mentioned in my
-[how-to on SSH connection sharing](./howto/use-ssh-connection-sharing.md),
+[how-to on SSH connection sharing](@/howto/use-ssh-connection-sharing.md),
 this kind of user experience polish might not sound important, but I’ve found
 that it dramatically smoothes the ways in which I interact with remote
 computer systems.

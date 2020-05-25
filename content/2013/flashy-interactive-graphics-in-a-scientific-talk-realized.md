@@ -9,7 +9,7 @@ wp_shortlink = "/?p=778"
 +++
 
 Following up on
-[my previous post](./2013/slides-for-scientific-talks-in-html.md), I spent an
+[my previous post](@/2013/slides-for-scientific-talks-in-html.md), I spent an
 hour hacking together my slide template with a little project called
 [d3po](https://github.com/adrn/d3po), a hack from the recent
 [dotAstronomy 5](https://www.dotastronomy.com/five/) conference that’s put

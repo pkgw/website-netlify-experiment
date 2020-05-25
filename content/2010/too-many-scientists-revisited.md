@@ -10,7 +10,7 @@ wp_shortlink = "/?p=227"
 
 I thought I’d flag that the article about the oversupply of US PhDs that
 [appeared in Scientific American in April](https://www.scientificamerican.com/article/does-the-us-produce-too-m/)
-and that [I discussed](./2010/does-the-u-s-produce-too-many-scientists.md) has
+and that [I discussed](@/2010/does-the-u-s-produce-too-many-scientists.md) has
 [resurfaced in expanded form](https://psmag.com/social-justice/the-real-science-gap-16191)
 (same author, Beryl Lieff Benderly) in the Miller-McCune (now
 [Pacific Standard](https://psmag.com/) online magazine. The basic thrust is

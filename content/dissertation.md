@@ -49,7 +49,7 @@ Here’s the outline:
 - **Appendix B: Probability of Constancy From a Set of Measurements** —
   published with Chapter 5
 
-I also maintain [a complete list of my publications](./pubs.md).
+I also maintain [a complete list of my publications](@/pubs.md).
 
 
 ## Revision History of the Unofficial Dissertation
