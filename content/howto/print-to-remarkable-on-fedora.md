@@ -41,7 +41,7 @@ derived from the [remarkable-cups] instructions put together by [Mark Meyer].
 
    printtime="$(date +"%Y%m%d.%H%M")"
    sanitized_jobtitle="$(echo "$jobtitle" | tr / _)"
-   outname=/tmp/"$sanitized_jobtitle - $printtime"
+   outname=/tmp/"$sanitized_jobtitle - ${printtime}.pdf"
 
    if [ $# -eq 0 ] ; then
        # this case is for "backend discovery mode"
@@ -73,3 +73,7 @@ derived from the [remarkable-cups] instructions put together by [Mark Meyer].
 
 To update the `rmapi` binary (if it needs rebuilding or a bugfix), it should
 work just to repeat the first few steps above.
+
+**Update 2020-May-29:** It seems that the most recent versions of `rmapi` care
+about the extension of the filename that you upload. I’ve modified the above
+script to hardcode `.pdf`. Maybe it need to be smarter?
