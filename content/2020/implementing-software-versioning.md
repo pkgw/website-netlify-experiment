@@ -20,14 +20,14 @@ versions and making releases. During my [wwt-webgl-engine] work I spent some
 time thinking about why that is, and I’ve devised a new (I think?) approach to
 address many of the things that have always bothered me. It’s still not fully
 baked, but I think the core idea is promising and worth investigating further.
-Here we go …
+I’m calling it **just-in-time versioning**. Here we go …
 
 <!-- more -->
 
 There’s a [TL;DR] that attempts to distill the core ideas if this is too many
 words for you.
 
-[TL;DR]: #the-pkgw-versioning-workflow-tl-dr
+[TL;DR]: #the-just-in-time-versioning-workflow-tl-dr
 
 # Some Boundary Conditions
 
@@ -286,10 +286,13 @@ when processing an `rc` commit. That was a bit vague. Let’s flesh out this
 process.
 
 The core of this procedure is, literally, editing your `setup.py` or
-`package.json` files and replacing the 0.0.0’s with actual version numbers. This
-was another sort of “aha” moment for me — my [release recipes][wdf-release] all
-involve editing various files to update their embedded version numbers, and *of
-course* an automated tool should be doing that editing instead of me.
+`package.json` files and replacing the 0.0.0’s with actual version numbers.
+This was another sort of “aha” moment for me — my
+[release recipes][wdf-release] all involve editing various files to update
+their embedded version numbers, and *of course* an automated tool should be
+doing that editing instead of me. We can call this scheme **just-in-time
+versioning** since the version numbers are applied as late as possible in the
+release pipeline.
 
 If we have to edit the files in the repository to appropriately set them up for
 release, we of course need to make a Git commit preserving those changes, and to
@@ -398,6 +401,8 @@ Note that, if we’re including extra information indicating release intentions
 when we’re committing to the `rc` branch, we could just ditch the `rc` branch
 altogether and express our nominations when merging to `master`. I haven’t
 decided how I feel about that, but it would simplify things a bit.
+(**Update:** upon further reflection I think you can’t get away from the `rc`
+branch. To be written up later …)
 
 Third, version constraints on internal dependencies. If a monorepo contains
 packages `foo_bin` and `foo_lib`, and `foo_bin` depends on certain versions of
@@ -494,7 +499,7 @@ releases for a long time, so I think that I understand the problem space pretty
 well — but a lot can happen in the space between naming a problem and solving
 it. Stay tuned.
 
-# The PKGW Versioning Workflow: TL;DR
+# The Just-in-Time Versioning Workflow: TL;DR
 
 - The release deployment process must be fully automated.
 - On the main development branch (`master`), everything is always labeled with
