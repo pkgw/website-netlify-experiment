@@ -32,4 +32,4 @@ title = ""
 
 EOF
 
-exec quiet-emacs-client "$path"
+GDK_SCALE=1 exec code --new-window "$path"
