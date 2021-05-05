@@ -14,7 +14,7 @@ Galactic Center from my ATA transient survey data. Here’s what I’ve got so f
 — click on the image for the full-scale version:
 
 {% figure(path="wp/wp-content/uploads/2011/11/atagc20111116-300x85.png") %}
-ATA Galactic Center map — {{ulink(path="wp/wp-content/uploads/2011/11/atagc20111116.png", text="click here for large version")}}.
+ATA Galactic Center map — [click here for large version](../../../wp/wp-content/uploads/2011/11/atagc20111116.png).
 {% end %}
 
 There are some holes because it turns out that some of our fields were only

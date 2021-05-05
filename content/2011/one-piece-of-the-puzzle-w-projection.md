@@ -18,13 +18,13 @@ Below are some zoomed-in images, with the cross representing the catalog
 position of DR 21. Here’s it without w-projection:
 
 {% figure(path="wp/wp-content/uploads/2011/07/no-w-300x240.png") %}
-DR 21 without *w*-projection — {{ulink(path="/wp/wp-content/uploads/2011/07/no-w.png", text="full size version")}}.
+DR 21 without *w*-projection — [full size version](../../../wp/wp-content/uploads/2011/07/no-w.png).
 {% end %}
 
 And here it is _with_ w-projection:
 
 {% figure(path="wp/wp-content/uploads/2011/07/yes-w-300x240.png") %}
-DR 21 with *w*-projection — {{ulink(path="/wp/wp-content/uploads/2011/07/yes-w.png", text="full size version")}}.
+DR 21 with *w*-projection — [full size version](../../../wp/wp-content/uploads/2011/07/yes-w.png).
 {% end %}
 
 I believe that there are still issues to resolve regarding the hour angle
