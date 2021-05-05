@@ -2,10 +2,12 @@ base_url = "https://newton.cx/~peter/"
 title = "PKGW"
 
 compile_sass = true
-highlight_code = true
 generate_rss = true
 build_search_index = false
 check_external_links = false
+
+[markdown]
+highlight_code = true
 
 [extra]
 github_base = "https://github.com/pkgw/website"
