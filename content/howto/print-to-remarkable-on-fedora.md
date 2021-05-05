@@ -13,14 +13,15 @@ derived from the [remarkable-cups] instructions put together by [Mark Meyer].
 
 **Note**: This is post-facto and is probably missing some steps.
 
-1. Install [rmapi]. As of writing, the command is `go get -u
-   github.com/juruen/rmapi`. Adding the option `-v` to `go get` adds more
-   diagnostic output.
-2. Copy the resulting binary from `~/go/bin/rmapi` to `/var/spool/lpd/rmapi`,
-   for reasons that I forget.
-3. Fix SELinux permissions for the binary: `sudo /sbin/restorecon -v /var/spool/lpd/rmapi`.
+1. Install [rmapi]; binaries available [here][rmapi-binaries].
+2. Several SELinux-y steps that may be somewhat confused:
+   1. Copy/move the binary to `/usr/bin`.
+   2. Set its SELinux permissions:  `sudo /sbin/restorecon -v /usr/bin/rmapi`.
+   3. Move it to `/var/spool/lpd/rmapi`.
+   4. We can probably just leave it in `/usr/local/bin` or something; note however
+      that the driver script below hardcodes the executable path.
 3. Set up the following script as `/usr/lib/cups/backend/remarkable`, owned by
-   root, no unusual permissions:
+   root, permissions 755 or so:
 
    ```sh
    #!/bin/bash
@@ -63,12 +64,18 @@ derived from the [remarkable-cups] instructions put together by [Mark Meyer].
 4. Follow the instructions on the [remarkable-cups] README to generate a
    `remarkable.ppd` file, and place it in `/etc/cups/ppd`. Permissions should
    be 0o640, owner `root`, and group `lp`.
-5. Add a new printer using your preferred interface. Use a device URI of
-   `remarkable:/Printouts`.
+5. Might need to `restorecon` the PPD and/or backend file as well.
+6. Reload or restart CUPS to pick up the new configuration.
+7. Add a new printer using your preferred interface. Use a device URI of
+   `remarkable:/Printouts`. May need to install `system-config-printer`.
+8. Log in to the reMarkable cloud using `rmapi` to generate `~/.rmapi`.
+9. Copy `~/.rmapi` to `/var/spool/lpd/.rmapi` and chown to `lp:lp`.
+10. Possible `restorecon` that file as well?
 
 [reMarkable]: https://remarkable.com/
 [remarkable-cups]: https://github.com/ofosos/scratch/tree/master/remarkable-cups
 [rmapi]: https://github.com/juruen/rmapi
+[rmapi-binaries]: https://github.com/juruen/rmapi/releases
 [Mark Meyer]: https://github.com/ofosos/
 
 To update the `rmapi` binary (if it needs rebuilding or a bugfix), it should
@@ -76,4 +83,4 @@ work just to repeat the first few steps above.
 
 **Update 2020-May-29:** It seems that the most recent versions of `rmapi` care
 about the extension of the filename that you upload. I’ve modified the above
-script to hardcode `.pdf`. Maybe it need to be smarter?
+script to hardcode `.pdf`. Maybe it needs to be smarter?
