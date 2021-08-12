@@ -1,0 +1,16 @@
+backend:
+  name: git-gateway
+  branch: master
+
+collections:
+  - name: "howto"
+    label: "How-Tos"
+    folder: "content/howto"
+    create: true
+    slug: "{{slug}}"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Weight", name: "weight", widget: "hidden", default: 0}
+      - {label: "Template", name: "template", widget: "hidden", default: "howto.html"}
+      - {label: "Body", name: "body", widget: "markdown"}
